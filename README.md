@@ -27,7 +27,7 @@ git add README.md
 git commit -m "update readme"
 git push
 
-1. All steps were carried out sequentially to ensure that the repository management process ran properly and followed a structured workflow.
+14. All steps were carried out sequentially to ensure that the repository management process ran properly and followed a structured workflow.
 
 ## Challenges Encountered
 
