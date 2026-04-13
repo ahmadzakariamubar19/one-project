@@ -2,10 +2,10 @@
 
 ## Installed Tools
 
-Cursor App
-Claude Code Extension
-Codex Extension
-GitHub Desktop (previously installed on the device)
+1. Cursor App
+2. Claude Code Extension
+3. Codex Extension
+4. GitHub Desktop (previously installed on the device)
 
 ## Steps Performed
 
