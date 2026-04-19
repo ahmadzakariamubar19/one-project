@@ -16,3 +16,5 @@ List of all experts with links, dates, and brief annotations.
 | 9   | Matt Diggity       | [https://www.linkedin.com/in/mattdiggityseo/](https://www.linkedin.com/in/mattdiggityseo/)   | [https://www.youtube.com/@MattDiggity](https://www.youtube.com/@MattDiggity)     |      | SEO educator focused on ranking systems and affiliate growth. |
 | 10  | Nathan Gotch       | [https://www.linkedin.com/in/nathangotch/](https://www.linkedin.com/in/nathangotch/)         | [https://www.youtube.com/@nathangotch](https://www.youtube.com/@nathangotch)     |      | SEO trainer focused on agency growth and search systems.      |
 | 11  | Steven van Vessum  | [https://www.linkedin.com/in/stevenvanvessum/](https://www.linkedin.com/in/stevenvanvessum/) | —                                                                                |      | Technical SEO specialist and search optimization educator.    |
+
+
