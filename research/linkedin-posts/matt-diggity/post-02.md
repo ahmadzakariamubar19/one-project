@@ -1,9 +1,20 @@
 # Expert Name: Matt Diggity
-# Post Title: Matt Diggity posted this What’s your favorite personality framework? 👉 Myers-Briggs (MBTI)...
-# Post URL: https://www.linkedin.com/posts/mattdiggityseo_whats-your-favorite-personality-framework-activity-7450339268344033280-4xB_
+# Post Title: Post unavailable
+# Post URL: https://www.linkedin.com/in/mattdiggityseo/
 # Publish Date: Unknown
 # Content Source: Public LinkedIn HTML
 
 ## Post Content
 
-Matt Diggity posted this What’s your favorite personality framework? 👉 Myers-Briggs (MBTI) 👉 DISC 👉 Enneagram 👉 Human Design 👉 Other (comment below)
+Post unavailable.
+
+Reason: HTTP 999 while fetching https://www.linkedin.com/in/mattdiggityseo/details/recent-activity/shares/
+
+## Media Assets
+
+
+## Engagement Data
+
+* Likes / Reactions: Not displayed on public page
+* Comments: Not displayed on public page
+* Reposts: Not displayed on public page

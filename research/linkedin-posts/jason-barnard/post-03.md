@@ -1,9 +1,20 @@
 # Expert Name: Jason Barnard
-# Post Title: Jason Barnard shared this gig tonight !!! public_profile__posts
-# Post URL: https://www.linkedin.com/posts/jasonmbarnard_gig-tonight-activity-7448780283786612736-ZDuL
+# Post Title: Post unavailable
+# Post URL: https://www.linkedin.com/in/jasonmbarnard/
 # Publish Date: Unknown
 # Content Source: Public LinkedIn HTML
 
 ## Post Content
 
-Jason Barnard shared this gig tonight !!! public_profile__posts
+Post unavailable.
+
+Reason: HTTP 999 while fetching https://www.linkedin.com/in/jasonmbarnard/details/recent-activity/shares/
+
+## Media Assets
+
+
+## Engagement Data
+
+* Likes / Reactions: Not displayed on public page
+* Comments: Not displayed on public page
+* Reposts: Not displayed on public page

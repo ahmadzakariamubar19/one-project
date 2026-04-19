@@ -1,9 +1,20 @@
 # Expert Name: Steven van Vessum
-# Post Title: Steven van Vessum shared this Als je wilt overstappen van ChatGPT naar Claude zijn onderst...
-# Post URL: https://nl.linkedin.com/posts/stevenvanvessum_als-je-wilt-overstappen-van-chatgpt-naar-activity-7434157228963733504-y8tB
+# Post Title: Post unavailable
+# Post URL: https://www.linkedin.com/in/stevenvanvessum/
 # Publish Date: Unknown
 # Content Source: Public LinkedIn HTML
 
 ## Post Content
 
-Steven van Vessum shared this Als je wilt overstappen van ChatGPT naar Claude zijn onderstaande instructies handig om je geschiedenis (zo goed als kan) mee te nemen. 👇 Ik ben zelf een tijdje terug overgestapt van ChatGPT op Mistral AI omdat ik graag Europese tech steun en nieuwsgierig was, en moet zeggen dat het erg goed bevalt. Jarno Duursma Jarno Duursma 1mo Steven van Vessum shared this Overstappen van ChatGPT naar Claude was nog nooit zó makkelijk. En er zijn genoeg redenen om dat nú te doen..... Lees even mee… 1. OpenAI tekende afgelopen vrijdag een contract met het Pentagon, uren nadat concurrent Anthropic door de Trump-regering op een zwarte lijst was gezet. Anthropic weigerde de bezwaren tegen massasurveillance én 'volledig autonome wapens' uit het contract te halen. OpenAI stemde wel in. Foute boel. Wanneer de Amerikaanse regering een techbedrijf bestempelt als "supply chain risk", een label dat tot nu toe was voorbehouden aan buitenlandse vijanden, omdat het bedrijf massasurveillance wil tegenhouden, is dat een waarschuwing voor de hele samenleving. (Ps: steun in Nederland Bits of Freedom !) 2. OpenAI werkt via Project Stargate samen met Larry Ellison van Oracle, iemand die geen moeite heeft met massasurveillance. Zijn uitspraak: "Citizens will be on their best behavior because we are constantly recording and reporting everything that's going on." 3. Greg Brockman, medeoprichter van OpenAI, doneerde $25 miljoen aan MAGA Inc., de pro-Trump super PAC. Trump is iemand die (internationale) wetgeving aan zijn laars lapt, polarisatie aanjaagt en zijn ambt inzet voor zelfverrijking. (To name a few...) 4. OpenAI-technologie wordt door ICE gebruikt voor immigratiehandhaving. 5. Claude is minstens zo goed als ChatGPT en heeft hele toffe functies zoals Claude Code en Cowork. Wil je overstappen en je geheugen uit ChatGPT meenemen naar Claude? 1. Ga naar deze site. https://lnkd.in/e4hQj7-v 2. Kopieer de prompt in het venster "I'm moving to another service and need....." 3. Plak deze prompt in ChatGPT. Wacht op output. 4. Plak de output vervolgens in het Claude venster. 5. Klik op 'add to memory' Klaar! Let's Go! PS: In plaats van Claude kun je natuurlijk ook het Europese Mistral AI steunen. ================================ 👍🏼 Interessant? Volg mij Jarno Duursma op LinkedIn en geef dit bericht een duimpje voor meer van dit soort updates! ✅ Abonneer je op mijn AI-nieuwsbrief. 27.000+ mensen gingen je voor! https://lnkd.in/e-MVpCC8 public_profile__posts
+Post unavailable.
+
+Reason: HTTP 999 while fetching https://www.linkedin.com/in/stevenvanvessum/details/recent-activity/shares/
+
+## Media Assets
+
+
+## Engagement Data
+
+* Likes / Reactions: Not displayed on public page
+* Comments: Not displayed on public page
+* Reposts: Not displayed on public page

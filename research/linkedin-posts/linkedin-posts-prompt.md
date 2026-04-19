@@ -54,6 +54,25 @@ FILE CONTENT FORMAT:
 
 If full text is unavailable, capture the visible text only.
 
+## Media Assets
+
+* Profile Photo URL
+* Profile Banner URL
+* Post Image URL(s)
+* Carousel Slide Image URL(s)
+* Video Thumbnail URL
+* Attached Document Preview URL
+
+(Only include fields where data exists. Do not write unavailable, none, N/A, or empty placeholders.)
+
+## Engagement Data
+
+* Likes / Reactions
+* Comments
+* Reposts
+
+(Required for every post. Extract displayed values exactly as shown.)
+
 IF POST NOT AVAILABLE:
 
 Create the file and write:
@@ -72,6 +91,14 @@ RULES:
 6. Do NOT process experts without LinkedIn links.
 7. Keep markdown neat and professional.
 8. Respect rate limits and avoid excessive requests.
+9. Expand hidden text such as “see more” whenever possible.
+10. Capture lazy-loaded images and dynamically loaded media assets.
+11. If multiple images exist in one post, collect all.
+12. Preserve original post ordering from newest to oldest.
+13. Avoid duplicate posts.
+14. If exact publish date unavailable, capture displayed relative date.
+15. Do not print missing-field labels. Omit missing fields entirely.
+16. Engagement Data section must always exist in every post file.
 
 PROJECT VISIBILITY:
 
@@ -100,3 +127,6 @@ Include:
 - Successful posts collected
 - Failed collections
 - Files created
+* Total media assets collected
+* Experts with inaccessible LinkedIn pages
+* Notes on missing data or scraping limitations

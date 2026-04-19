@@ -1,9 +1,20 @@
 # Expert Name: Edward Sturm
-# Post Title: Nathaniël de Jong Nathie • 20K followers This Spectacles demo uses city data to leverage a...
-# Post URL: https://www.linkedin.com/posts/nathievr_this-spectacles-demo-uses-city-data-to-leverage-activity-7392199291349659648-dgRF?trk=public_profile_relatedPosts
+# Post Title: Post unavailable
+# Post URL: https://www.linkedin.com/in/edward-sturm/
 # Publish Date: Unknown
 # Content Source: Public LinkedIn HTML
 
 ## Post Content
 
-Nathaniël de Jong Nathie • 20K followers This Spectacles demo uses city data to leverage a Supabase backend to stream streets data directly into an AR experience. Source: Siekerman Technology 186 9 Comments
+Post unavailable.
+
+Reason: HTTP 999 while fetching https://www.linkedin.com/in/edward-sturm/details/recent-activity/shares/
+
+## Media Assets
+
+
+## Engagement Data
+
+* Likes / Reactions: Not displayed on public page
+* Comments: Not displayed on public page
+* Reposts: Not displayed on public page

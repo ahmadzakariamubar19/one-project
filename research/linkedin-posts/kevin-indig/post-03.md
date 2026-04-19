@@ -1,9 +1,20 @@
 # Expert Name: Kevin Indig
-# Post Title: Kevin Indig shared this We analyzed 1.2M ChatGPT responses and found a simple pattern, str...
-# Post URL: https://www.linkedin.com/posts/kevinindig_the-science-of-how-ai-pays-attention-activity-7450184624242192385-ArMn
+# Post Title: Post unavailable
+# Post URL: https://www.linkedin.com/in/kevinindig/
 # Publish Date: Unknown
 # Content Source: Public LinkedIn HTML
 
 ## Post Content
 
-Kevin Indig shared this We analyzed 1.2M ChatGPT responses and found a simple pattern, strong intros drive more citations. public_profile__posts
+Post unavailable.
+
+Reason: HTTP 999 while fetching https://www.linkedin.com/in/kevinindig/details/recent-activity/shares/
+
+## Media Assets
+
+
+## Engagement Data
+
+* Likes / Reactions: Not displayed on public page
+* Comments: Not displayed on public page
+* Reposts: Not displayed on public page

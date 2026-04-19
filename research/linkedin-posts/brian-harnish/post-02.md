@@ -2,10 +2,19 @@
 # Post Title: Post unavailable
 # Post URL: https://www.linkedin.com/in/brianharnish/
 # Publish Date: Unknown
-# Content Source: N/A
+# Content Source: Public LinkedIn HTML
 
 ## Post Content
 
 Post unavailable.
 
 Reason: HTTP 999 while fetching https://www.linkedin.com/in/brianharnish/details/recent-activity/shares/
+
+## Media Assets
+
+
+## Engagement Data
+
+* Likes / Reactions: Not displayed on public page
+* Comments: Not displayed on public page
+* Reposts: Not displayed on public page

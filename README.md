@@ -1,50 +1,84 @@
-Tentu — saya buatkan overview README yang rapi, modern, dan enak dibaca. Kamu bisa langsung copy ke `README.md` dan edit sesuai kebutuhan:
+# **100Hires Research Project**
+
+> **A structured research repository built to collect, organize, and analyze valuable insights from selected industry experts across YouTube and LinkedIn.**
 
 ---
 
-## 🌱 Sustainable Finance in the Energy Sector
-
-### *A Systematic Literature Review*
-
-Welcome! This repository presents a **systematic literature review (SLR)** exploring the evolving landscape of **sustainable finance within the energy sector**. The study synthesizes academic and industry insights to uncover key trends, innovations, and future challenges shaping this critical field.
+## **What I Collected**
 
 ---
 
-## 📌 Overview
+The repository currently includes the following research assets:
 
-As the global push toward **clean energy transition** accelerates, financial systems play a pivotal role in enabling sustainable development. This research aims to:
-
-* 📊 Analyze existing literature on sustainable finance in energy
-* 🔍 Identify emerging trends and innovative financial mechanisms
-* ⚡ Examine challenges and research gaps for future exploration
-
----
-
-## 🎯 Objectives
-
-* Map the **current state of research** in sustainable energy finance
-* Highlight key instruments such as green bonds, ESG investing, and climate finance
-* Provide insights for **researchers, policymakers, and practitioners**
+* **YouTube transcripts** from recent expert videos
+* **LinkedIn posts** from selected professionals
+* A centralized source registry in **`research/sources.md`**
+* Organized research folders by platform and author
+* Structured outputs prepared for future analysis workflows
 
 ---
 
-## 🧠 Methodology
-
-This study follows a structured **Systematic Literature Review (SLR)** approach:
-
-1. Literature collection from reputable academic databases
-2. Screening based on inclusion/exclusion criteria
-3. Thematic analysis and synthesis of findings
+## **Data Collection Report**
 
 ---
 
-## 📈 Key Themes
+### **LinkedIn Posts Collection**
 
-* 💰 Green Financing & Investment Strategies
-* 🌍 Climate Risk & Financial Stability
-* ⚙️ Energy Transition & Policy Support
-* 📉 Barriers to Implementation
+* **Experts processed:** 11
+* **Posts processed:** 55
+* **Successful posts collected:** 50
+* **Failed collections:** 5
 
 ---
 
-## 🚀 Why
+### **YouTube Transcript Collection**
+
+* **Experts processed:** 4
+* **Videos processed:** 20
+* **Successful transcripts:** 20
+* **Failed transcripts:** 0
+
+---
+
+### **Summary**
+
+* **Total LinkedIn Experts:** 11
+* **Total YouTube Experts:** 4
+
+---
+
+## **Why I Chose These Experts**
+
+---
+
+These experts were selected because they consistently publish high-value insights and maintain strong credibility within their respective industries.
+
+### **Core Areas of Expertise**
+
+* **SEO Strategy**
+* **Technical SEO**
+* **Organic Search Growth**
+* **Content Optimization**
+* **Search Visibility**
+* **Brand Authority in Search**
+* **Keyword & Search Intent Research**
+* **AI-Assisted Content Workflows**
+* **Content Scaling Systems**
+* **Data-Driven Digital Growth**
+
+The objective was to build a reliable learning and research database using trusted public sources.
+
+---
+
+## **Repository Structure**
+
+---
+
+one project/
+├── insights/
+├── research/
+├── scripts/
+├── .env
+├── .gitignore
+├── README.md
+└── requirements.txt

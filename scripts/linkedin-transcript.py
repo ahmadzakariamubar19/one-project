@@ -1,10 +1,9 @@
-import json
 import re
 import time
 import unicodedata
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import List, Optional, Set, Tuple
 from urllib.parse import urljoin
 
 import requests
@@ -39,6 +38,15 @@ class Post:
     publish_date: str
     content: str
     source: str
+    profile_photo_url: str
+    profile_banner_url: str
+    post_image_urls: List[str]
+    carousel_slide_urls: List[str]
+    video_thumbnail_url: str
+    document_preview_url: str
+    reactions: str
+    comments: str
+    reposts: str
 
 
 def slugify(value: str) -> str:
@@ -84,6 +92,17 @@ def clean_text(value: str) -> str:
     return re.sub(r"\s+", " ", value).strip()
 
 
+def unique_preserve_order(values: List[str]) -> List[str]:
+    seen: Set[str] = set()
+    ordered: List[str] = []
+    for value in values:
+        if not value or value in seen:
+            continue
+        seen.add(value)
+        ordered.append(value)
+    return ordered
+
+
 def profile_slug_from_url(linkedin_url: str) -> str:
     path = linkedin_url.rstrip("/").split("linkedin.com/")[-1]
     path = path.split("?")[0]
@@ -91,12 +110,30 @@ def profile_slug_from_url(linkedin_url: str) -> str:
     return parts[-1] if parts else ""
 
 
+def extract_profile_media_from_html(soup: BeautifulSoup, base_url: str) -> Tuple[str, str]:
+    profile_photo = ""
+    banner = ""
+
+    og_image = soup.find("meta", property="og:image")
+    if og_image and og_image.get("content"):
+        profile_photo = urljoin(base_url, og_image.get("content", "").strip())
+
+    banner_meta = soup.find("meta", property="linkedin:cover_image")
+    if banner_meta and banner_meta.get("content"):
+        banner = urljoin(base_url, banner_meta.get("content", "").strip())
+
+    return profile_photo, banner
+
+
 def extract_visible_posts_from_html(html: str, base_url: str) -> List[Post]:
     soup = BeautifulSoup(html, "html.parser")
+    profile_photo, profile_banner = extract_profile_media_from_html(soup, base_url)
     posts: List[Post] = []
 
     # Extract candidate links containing activity/update/share markers.
-    candidate_links = soup.select("a[href*='/feed/update/'], a[href*='/posts/'], a[href*='/activity/']")
+    candidate_links = soup.select(
+        "a[href*='/feed/update/'], a[href*='/posts/'], a[href*='/activity/']"
+    )
     seen: set = set()
 
     for link in candidate_links:
@@ -108,7 +145,7 @@ def extract_visible_posts_from_html(html: str, base_url: str) -> List[Post]:
             continue
         seen.add(url)
 
-        container = link.find_parent(["article", "li", "div"])
+        container = link.find_parent(["article", "li", "div", "section"])
         content = ""
         if container:
             content = clean_text(container.get_text(" ", strip=True))
@@ -117,20 +154,99 @@ def extract_visible_posts_from_html(html: str, base_url: str) -> List[Post]:
         if not content:
             continue
 
+        # Preserve visible relative date labels when exact date is unavailable.
+        date_label = "Unknown"
+        if container:
+            date_pattern = re.search(
+                r"\b(\d+\s*[smhdw]\.?|yesterday|today|just now|\d+\s+days? ago|\d+\s+weeks? ago)\b",
+                content.lower(),
+            )
+            if date_pattern:
+                date_label = date_pattern.group(0)
+
+        post_images: List[str] = []
+        carousel_images: List[str] = []
+        video_thumbnail = ""
+        document_preview = ""
+        reactions = "Not displayed on public page"
+        comments = "Not displayed on public page"
+        reposts = "Not displayed on public page"
+
+        if container:
+            for image in container.select("img[src], img[data-delayed-url], img[data-ghost-url]"):
+                src = (
+                    image.get("src")
+                    or image.get("data-delayed-url")
+                    or image.get("data-ghost-url")
+                    or ""
+                ).strip()
+                if src:
+                    full_src = urljoin(base_url, src)
+                    alt = (image.get("alt") or "").lower()
+                    if any(token in alt for token in ("video", "play")) and not video_thumbnail:
+                        video_thumbnail = full_src
+                    elif any(token in alt for token in ("document", "pdf", "slide")):
+                        document_preview = full_src
+                    elif "carousel" in alt or "slide" in alt:
+                        carousel_images.append(full_src)
+                    else:
+                        post_images.append(full_src)
+
+            for source in container.select("source[src]"):
+                if source.get("src"):
+                    video_thumbnail = video_thumbnail or urljoin(base_url, source["src"])
+
+            text = content.lower()
+            reactions_match = re.search(
+                r"((?:\d[\d,\.]*|one|two|three|four|five|six|seven|eight|nine|ten)\s*(?:reactions?|likes?))",
+                text,
+            )
+            comments_match = re.search(
+                r"((?:\d[\d,\.]*|one|two|three|four|five|six|seven|eight|nine|ten)\s*comments?)",
+                text,
+            )
+            reposts_match = re.search(
+                r"((?:\d[\d,\.]*|one|two|three|four|five|six|seven|eight|nine|ten)\s*(?:reposts?|shares?))",
+                text,
+            )
+            if reactions_match:
+                reactions = reactions_match.group(1)
+            if comments_match:
+                comments = comments_match.group(1)
+            if reposts_match:
+                reposts = reposts_match.group(1)
+
         title = content[:90] + ("..." if len(content) > 90 else "")
         posts.append(
             Post(
                 title=title if title else "LinkedIn Post",
                 url=url,
-                publish_date="Unknown",
+                publish_date=date_label,
                 content=content,
                 source="Public LinkedIn HTML",
+                profile_photo_url=profile_photo,
+                profile_banner_url=profile_banner,
+                post_image_urls=unique_preserve_order(post_images),
+                carousel_slide_urls=unique_preserve_order(carousel_images),
+                video_thumbnail_url=video_thumbnail,
+                document_preview_url=document_preview,
+                reactions=reactions,
+                comments=comments,
+                reposts=reposts,
             )
         )
         if len(posts) >= 5:
             break
 
-    return posts
+    # Preserve natural extracted order (typically newest -> oldest), avoid duplicates.
+    unique_posts: List[Post] = []
+    seen_urls: Set[str] = set()
+    for post in posts:
+        if post.url in seen_urls:
+            continue
+        seen_urls.add(post.url)
+        unique_posts.append(post)
+    return unique_posts
 
 
 def try_fetch_linkedin_posts(linkedin_url: str) -> Tuple[List[Post], Optional[str]]:
@@ -179,6 +295,15 @@ def write_post_file(
     publish_date: str,
     source: str,
     post_content: Optional[str],
+    media_profile_photo_url: str,
+    media_profile_banner_url: str,
+    media_post_image_urls: List[str],
+    media_carousel_slide_urls: List[str],
+    media_video_thumbnail_url: str,
+    media_document_preview_url: str,
+    reactions: str,
+    comments: str,
+    reposts: str,
     failure_reason: Optional[str] = None,
 ) -> None:
     lines = [
@@ -198,6 +323,34 @@ def write_post_file(
         if failure_reason:
             message += f"\n\nReason: {failure_reason}"
         lines.append(message)
+    media_lines = ["", "## Media Assets", ""]
+    if media_profile_photo_url:
+        media_lines.append(f"* Profile Photo URL: {media_profile_photo_url}")
+    if media_profile_banner_url:
+        media_lines.append(f"* Profile Banner URL: {media_profile_banner_url}")
+    if media_post_image_urls:
+        media_lines.append(f"* Post Image URL(s): {', '.join(media_post_image_urls)}")
+    if media_carousel_slide_urls:
+        media_lines.append(
+            f"* Carousel Slide Image URL(s): {', '.join(media_carousel_slide_urls)}"
+        )
+    if media_video_thumbnail_url:
+        media_lines.append(f"* Video Thumbnail URL: {media_video_thumbnail_url}")
+    if media_document_preview_url:
+        media_lines.append(
+            f"* Attached Document Preview URL: {media_document_preview_url}"
+        )
+    lines.extend(media_lines)
+    lines.extend(
+        [
+            "",
+            "## Engagement Data",
+            "",
+            f"* Likes / Reactions: {reactions}",
+            f"* Comments: {comments}",
+            f"* Reposts: {reposts}",
+        ]
+    )
     file_path.write_text("\n".join(lines).strip() + "\n", encoding="utf-8")
 
 
@@ -258,6 +411,25 @@ FILE CONTENT FORMAT:
 
 If full text is unavailable, capture the visible text only.
 
+## Media Assets
+
+* Profile Photo URL
+* Profile Banner URL
+* Post Image URL(s)
+* Carousel Slide Image URL(s)
+* Video Thumbnail URL
+* Attached Document Preview URL
+
+(Only include fields where data exists. Do not write unavailable, none, N/A, or empty placeholders.)
+
+## Engagement Data
+
+* Likes / Reactions
+* Comments
+* Reposts
+
+(Required for every post. Extract displayed values exactly as shown.)
+
 IF POST NOT AVAILABLE:
 
 Create the file and write:
@@ -276,6 +448,14 @@ RULES:
 6. Do NOT process experts without LinkedIn links.
 7. Keep markdown neat and professional.
 8. Respect rate limits and avoid excessive requests.
+9. Expand hidden text such as “see more” whenever possible.
+10. Capture lazy-loaded images and dynamically loaded media assets.
+11. If multiple images exist in one post, collect all.
+12. Preserve original post ordering from newest to oldest.
+13. Avoid duplicate posts.
+14. If exact publish date unavailable, capture displayed relative date.
+15. Do not print missing-field labels. Omit missing fields entirely.
+16. Engagement Data section must always exist in every post file.
 
 PROJECT VISIBILITY:
 
@@ -304,6 +484,9 @@ Include:
 - Successful posts collected
 - Failed collections
 - Files created
+* Total media assets collected
+* Experts with inaccessible LinkedIn pages
+* Notes on missing data or scraping limitations
 """
     PROMPT_FILE.write_text(prompt_text.strip() + "\n", encoding="utf-8")
 
@@ -317,6 +500,9 @@ def main() -> None:
     posts_processed = 0
     successful_collections = 0
     failed_collections = 0
+    total_media_assets_collected = 0
+    inaccessible_experts: List[str] = []
+    missing_data_notes: List[str] = []
     files_created: List[str] = [str(PROMPT_FILE.relative_to(ROOT_DIR))]
 
     for expert in experts:
@@ -338,9 +524,26 @@ def main() -> None:
                         publish_date=post.publish_date,
                         source=post.source,
                         post_content=post.content,
+                        media_profile_photo_url=post.profile_photo_url,
+                        media_profile_banner_url=post.profile_banner_url,
+                        media_post_image_urls=post.post_image_urls,
+                        media_carousel_slide_urls=post.carousel_slide_urls,
+                        media_video_thumbnail_url=post.video_thumbnail_url,
+                        media_document_preview_url=post.document_preview_url,
+                        reactions=post.reactions,
+                        comments=post.comments,
+                        reposts=post.reposts,
                     )
                     posts_processed += 1
                     successful_collections += 1
+                    total_media_assets_collected += (
+                        (1 if post.profile_photo_url else 0)
+                        + (1 if post.profile_banner_url else 0)
+                        + len(post.post_image_urls)
+                        + len(post.carousel_slide_urls)
+                        + (1 if post.video_thumbnail_url else 0)
+                        + (1 if post.document_preview_url else 0)
+                    )
                 else:
                     write_post_file(
                         file_path=output_file,
@@ -348,8 +551,17 @@ def main() -> None:
                         post_title="Post unavailable",
                         post_url=expert.linkedin_url,
                         publish_date="Unknown",
-                        source="N/A",
+                        source="Public LinkedIn HTML",
                         post_content=None,
+                        media_profile_photo_url="",
+                        media_profile_banner_url="",
+                        media_post_image_urls=[],
+                        media_carousel_slide_urls=[],
+                        media_video_thumbnail_url="",
+                        media_document_preview_url="",
+                        reactions="Not displayed on public page",
+                        comments="Not displayed on public page",
+                        reposts="Not displayed on public page",
                         failure_reason="Fewer than 5 public posts were available.",
                     )
                     posts_processed += 1
@@ -364,13 +576,26 @@ def main() -> None:
                     post_title="Post unavailable",
                     post_url=expert.linkedin_url,
                     publish_date="Unknown",
-                    source="N/A",
+                    source="Public LinkedIn HTML",
                     post_content=None,
+                    media_profile_photo_url="",
+                    media_profile_banner_url="",
+                    media_post_image_urls=[],
+                    media_carousel_slide_urls=[],
+                    media_video_thumbnail_url="",
+                    media_document_preview_url="",
+                    reactions="Not displayed on public page",
+                    comments="Not displayed on public page",
+                    reposts="Not displayed on public page",
                     failure_reason=error_message or "Unknown error",
                 )
                 posts_processed += 1
                 failed_collections += 1
                 files_created.append(str(output_file.relative_to(ROOT_DIR)))
+            inaccessible_experts.append(expert.name)
+            missing_data_notes.append(
+                f"{expert.name}: {error_message or 'Unknown public-access limitation.'}"
+            )
 
         time.sleep(1.5)
 
@@ -381,9 +606,24 @@ def main() -> None:
         f"- Posts processed: {posts_processed}",
         f"- Successful posts collected: {successful_collections}",
         f"- Failed collections: {failed_collections}",
+        f"- Total media assets collected: {total_media_assets_collected}",
+        (
+            "- Experts with inaccessible LinkedIn pages: "
+            + (", ".join(inaccessible_experts) if inaccessible_experts else "None")
+        ),
+        "",
+        "## Notes on missing data or scraping limitations",
+    ]
+    if missing_data_notes:
+        report_lines.extend(f"- {note}" for note in missing_data_notes)
+    else:
+        report_lines.append("- No major limitations encountered in this run.")
+    report_lines.extend(
+        [
         "",
         "## Files created",
-    ]
+        ]
+    )
     report_lines.extend(f"- {item}" for item in files_created)
 
     REPORT_FILE.write_text("\n".join(report_lines).strip() + "\n", encoding="utf-8")

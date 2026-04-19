@@ -1,9 +1,20 @@
 # Expert Name: Steven van Vessum
-# Post Title: Steven van Vessum reposted this Eurostack Eurostack 2mo Steven van Vessum reposted this 📢 ...
-# Post URL: https://www.linkedin.com/posts/euro-stack_sovereigntywashing-sovereigntytheatre-activity-7429910319432564736-Ymsk
+# Post Title: Post unavailable
+# Post URL: https://www.linkedin.com/in/stevenvanvessum/
 # Publish Date: Unknown
 # Content Source: Public LinkedIn HTML
 
 ## Post Content
 
-Steven van Vessum reposted this Eurostack Eurostack 2mo Steven van Vessum reposted this 📢 𝗔 𝗺𝗮𝗷𝗼𝗿 𝗹𝗼𝗯𝗯𝘆 𝗰𝗮𝗺𝗽𝗮𝗶𝗴𝗻 𝗶𝘀 𝘂𝗻𝗱𝗲𝗿𝘄𝗮𝘆 𝗮𝗰𝗿𝗼𝘀𝘀 𝗘𝘂𝗿𝗼𝗽𝗲 𝘁𝗼 𝗽𝘂𝘀𝗵 𝗯𝗮𝗰𝗸 𝗮𝗴𝗮𝗶𝗻𝘀𝘁 𝗮𝗻𝘆 𝘀𝘂𝗴𝗴𝗲𝘀𝘁𝗶𝗼𝗻 𝘄𝗲 𝘀𝗵𝗼𝘂𝗹𝗱 𝗮𝗱𝗼𝗽𝘁 𝗲𝘃𝗲𝗻 𝗺𝗼𝗱𝗲𝘀𝘁 “𝗯𝘂𝘆 𝗘𝘂𝗿𝗼𝗽𝗲𝗮𝗻” 𝗿𝘂𝗹𝗲𝘀. This is directed mostly at the proposed "Industry Acceleration Act", but make no mistake: hyperscalers are into lobby overdrive on digital sovereignty too. #Sovereignty_washing , #Sovereignty_theatre , we are seeing it all. “Protectionism”! “Contrary to European values!” - that's the fake narrative being peddled to nervous (sleepy) European institutions. Cristina Caffarra and Frank Karlitschek delivered keynotes on #Digital_Sovereignty at the #SwissCyberSecurityDays in Bern and explained this is nonsense. Europe is on the move, we are seeing the shift. Demand is coming out to play. Open source and openness are key European enablers. Europeans are BUILDING. If governments want to give an example with procurement (as many are doing) that’s great - otherwise Europeans will go ahead regardless. Sovereignty is a grassroot initiative that does not depend on public initiative. 𝗧𝗵𝗲 𝗻𝗮𝗿𝗿𝗮𝘁𝗶𝘃𝗲 𝗮𝗿𝗼𝘂𝗻𝗱 "𝗽𝗿𝗼𝘁𝗲𝗰𝘁𝗶𝗼𝗻𝗶𝘀𝗺" 𝗮𝗻𝗱 "𝗪𝗧𝗢" 𝗶𝘀 𝗽𝗹𝗮𝗻𝘁𝗲𝗱 𝗯𝘆 𝘀𝗰𝗮𝗿𝗲𝗺𝗼𝗻𝗴𝗲𝗿𝗶𝗻𝗴 𝗼𝘂𝘁𝘀𝗶𝗱𝗲𝗿𝘀. Watch this space for a fuller rebuttal. Animated discussion on the very lively panel too – with Frank, Cristina, Florian Schuetz and René Oester , plus fun moderation by Ueli Schmezer . Good discussions with the press also, including Nick Mayencourt , Matthias Stürmer and moderated by Jürg Walpen . Thanks Nick Mayencourt and Juerg Walpern and the Swiss cybersecurity ecosystem for the opportunity to discuss. Shout out to Nik (Niklaus Samuel) Gugger and Bruno Giussani for aligned views! public_profile__posts
+Post unavailable.
+
+Reason: HTTP 999 while fetching https://www.linkedin.com/in/stevenvanvessum/details/recent-activity/shares/
+
+## Media Assets
+
+
+## Engagement Data
+
+* Likes / Reactions: Not displayed on public page
+* Comments: Not displayed on public page
+* Reposts: Not displayed on public page

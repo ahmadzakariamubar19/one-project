@@ -1,9 +1,20 @@
 # Expert Name: Steven van Vessum
-# Post Title: Steven van Vessum posted this 🚿 thought: iedereen kent de uitspraak “Nobody Gets Fired For...
-# Post URL: https://nl.linkedin.com/posts/stevenvanvessum_thought-iedereen-kent-de-uitspraak-nobody-activity-7426941510950031361-2U2q
+# Post Title: Post unavailable
+# Post URL: https://www.linkedin.com/in/stevenvanvessum/
 # Publish Date: Unknown
 # Content Source: Public LinkedIn HTML
 
 ## Post Content
 
-Steven van Vessum posted this 🚿 thought: iedereen kent de uitspraak “Nobody Gets Fired For Buying IBM”, maar wat nou als dat adagio niet meer op gaat anno nu? Want in de praktijk betekent een keuze voor een (ogenschijnlijk) veilige, grote partij een keuze voor Big Tech en tégen digitale autonomie. Daar komt bovenop dat jouw keuze voor een leverancier feitelijk een keuze is waar je je geld investeert en dus welke software/dienstverlening/producten er verbeterd worden. Neem nu het NS-voorbeeld van de NRC van vandaag: “NS besteedt ict deels uit aan Amerikaanse leverancier “ — de NS haalt een deel van de automatisering weg bij KPN en brengt het onder bij het Amerikaanse bedrijf DXC Technology (zie cadeau link naar NRC artikel in de comments). Zeker voor (semi)overheid snap ik niet waarom er niet extra nadruk op lokaal investeren ligt. Dat is als (semi)overheid toch gewoon je plicht? Hoe kun je verwachten dat de Europese software/cloud infra verbetert, en op hetzelfde niveau van de Amerikaanse hyperscalers kan komen als je er niet in investeert? Deze dienstverlening was al ondergebracht bij KPN, dus het kan prima in Nederland. En DXC Technology was niet eens de beste kandidaat (maar de goedkoopste). Ik vind het te makkelijk om terug te grijpen op “ja, maar deze keuze was in al lang gemaakt”, en "ja, maar de Algemene Beveiligingseisen voor Rijksoverheidsopdrachten (ABRO) is nog niet van toepassing". Ook een jaar geleden waren de monopolies van Big Tech, de geopolitieke verhoudingen en de behoefte om te investeren in de Europese tech sector kraak helder. Dit is geen anti-Amerika relaas. Dit gaat over digitale autonomie, gezonde concurrentie, de ontwikkeling van een innovatiever Europa en een gezond tech-ecosysteem met meer goede opties. En de (semi)overheid moet daar in het goede voorbeeld geven. Dus, is het nog wel zo dat je niet ontslagen kan worden voor een keuze voor Big Tech, als je kunt stellen dat er eigenlijk tegen beter weten is gehandeld? "Nobody Gets Fired for Buying IBM” — Ja, maar misschien zou dat wel moeten anno 2026.
+Post unavailable.
+
+Reason: HTTP 999 while fetching https://www.linkedin.com/in/stevenvanvessum/details/recent-activity/shares/
+
+## Media Assets
+
+
+## Engagement Data
+
+* Likes / Reactions: Not displayed on public page
+* Comments: Not displayed on public page
+* Reposts: Not displayed on public page

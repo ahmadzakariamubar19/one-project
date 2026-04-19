@@ -2,11 +2,22 @@
 
 - Experts processed: 11
 - Posts processed: 55
-- Successful posts collected: 50
-- Failed collections: 5
+- Successful posts collected: 15
+- Failed collections: 40
+- Total media assets collected: 32
+- Experts with inaccessible LinkedIn pages: Brian Harnish, Edward Sturm, Jason Barnard, Kevin Indig, Mark Williams-Cook, Matt Diggity, Nathan Gotch, Steven van Vessum
+
+## Notes on missing data or scraping limitations
+- Brian Harnish: HTTP 999 while fetching https://www.linkedin.com/in/brianharnish/details/recent-activity/shares/
+- Edward Sturm: HTTP 999 while fetching https://www.linkedin.com/in/edward-sturm/details/recent-activity/shares/
+- Jason Barnard: HTTP 999 while fetching https://www.linkedin.com/in/jasonmbarnard/details/recent-activity/shares/
+- Kevin Indig: HTTP 999 while fetching https://www.linkedin.com/in/kevinindig/details/recent-activity/shares/
+- Mark Williams-Cook: HTTP 999 while fetching https://www.linkedin.com/in/markseo/details/recent-activity/shares/
+- Matt Diggity: HTTP 999 while fetching https://www.linkedin.com/in/mattdiggityseo/details/recent-activity/shares/
+- Nathan Gotch: HTTP 999 while fetching https://www.linkedin.com/in/nathangotch/details/recent-activity/shares/
+- Steven van Vessum: HTTP 999 while fetching https://www.linkedin.com/in/stevenvanvessum/details/recent-activity/shares/
 
 ## Files created
-
 - research/linkedin-posts/linkedin-posts-prompt.md
 - research/linkedin-posts/aleyda-solis/post-01.md
 - research/linkedin-posts/aleyda-solis/post-02.md
