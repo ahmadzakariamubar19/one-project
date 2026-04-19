@@ -19,6 +19,6 @@ Aleyda Solís shared this 🚨 This Week's SEO& AI Search News & Updates [From T
 
 ## Engagement Data
 
-- Likes / Reactions: Not displayed on public page
-- Comments: Not displayed on public page
-- Reposts: Not displayed on public page
+- Likes / Reactions: 26
+- Comments: 1
+- Reposts: 2

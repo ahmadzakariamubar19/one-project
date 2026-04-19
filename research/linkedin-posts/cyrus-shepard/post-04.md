@@ -1,7 +1,11 @@
 # Expert Name: Cyrus Shepard
+
 # Post Title: Cyrus S. shared this New: How to Prepare for AI Shopping & the Future of E-commerce SEO Go...
-# Post URL: https://www.linkedin.com/posts/cyrusshepard_new-how-to-prepare-for-ai-shopping-the-activity-7450226940453519360-Ml47
-# Publish Date: Unknown
+
+# Post URL: [https://www.linkedin.com/posts/cyrusshepard_new-how-to-prepare-for-ai-shopping-the-activity-7450226940453519360-Ml47](https://www.linkedin.com/posts/cyrusshepard_new-how-to-prepare-for-ai-shopping-the-activity-7450226940453519360-Ml47)
+
+# Publish Date: April 16, 2026
+
 # Content Source: Public LinkedIn HTML
 
 ## Post Content
@@ -10,11 +14,11 @@ Cyrus S. shared this New: How to Prepare for AI Shopping & the Future of E-comme
 
 ## Media Assets
 
-* Profile Photo URL: https://media.licdn.com/dms/image/v2/D5603AQHCJo0jKHHVaQ/profile-displayphoto-scale_200_200/B56Zm_gyzmIYAc-/0/1759854669438?e=2147483647&v=beta&t=hVhuXtG8i3k_sH0DcCvU4hXDVTmEzigZyZfR4KqmMzk
-* Post Image URL(s): https://media.licdn.com/dms/image/v2/D5622AQHAZGpRxlpZNw/feedshare-shrink_800/B56Z2SF7GyKYAc-/0/1776272519902?e=2147483647&v=beta&t=ao9hyGNyo_MyGCWFx9YSilYqU5BYfO01eacRS1eM_FE
+- Profile Photo URL: [https://media.licdn.com/dms/image/v2/D5603AQHCJo0jKHHVaQ/profile-displayphoto-scale_200_200/B56Zm_gyzmIYAc-/0/1759854669438?e=2147483647&v=beta&t=hVhuXtG8i3k_sH0DcCvU4hXDVTmEzigZyZfR4KqmMzk](https://media.licdn.com/dms/image/v2/D5603AQHCJo0jKHHVaQ/profile-displayphoto-scale_200_200/B56Zm_gyzmIYAc-/0/1759854669438?e=2147483647&v=beta&t=hVhuXtG8i3k_sH0DcCvU4hXDVTmEzigZyZfR4KqmMzk)
+- Post Image URL(s): [https://media.licdn.com/dms/image/v2/D5622AQHAZGpRxlpZNw/feedshare-shrink_800/B56Z2SF7GyKYAc-/0/1776272519902?e=2147483647&v=beta&t=ao9hyGNyo_MyGCWFx9YSilYqU5BYfO01eacRS1eM_FE](https://media.licdn.com/dms/image/v2/D5622AQHAZGpRxlpZNw/feedshare-shrink_800/B56Z2SF7GyKYAc-/0/1776272519902?e=2147483647&v=beta&t=ao9hyGNyo_MyGCWFx9YSilYqU5BYfO01eacRS1eM_FE)
 
 ## Engagement Data
 
-* Likes / Reactions: Not displayed on public page
-* Comments: Not displayed on public page
-* Reposts: Not displayed on public page
+- Likes / Reactions: 33
+- Comments: 12
+- Reposts: 4

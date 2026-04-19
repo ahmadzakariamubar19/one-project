@@ -1,7 +1,11 @@
 # Expert Name: Cyrus Shepard
+
 # Post Title: Cyrus S. shared this Big change how Google's AI Mode opens links to your website in Chrome...
-# Post URL: https://www.linkedin.com/posts/cyrusshepard_big-change-how-googles-ai-mode-opens-links-activity-7450952113037381632-34-E
-# Publish Date: Unknown
+
+# Post URL: [https://www.linkedin.com/posts/cyrusshepard_big-change-how-googles-ai-mode-opens-links-activity-7450952113037381632-34-E](https://www.linkedin.com/posts/cyrusshepard_big-change-how-googles-ai-mode-opens-links-activity-7450952113037381632-34-E)
+
+# Publish Date: April 18, 2026
+
 # Content Source: Public LinkedIn HTML
 
 ## Post Content
@@ -10,11 +14,12 @@ Cyrus S. shared this Big change how Google's AI Mode opens links to your website
 
 ## Media Assets
 
-* Profile Photo URL: https://media.licdn.com/dms/image/v2/D5603AQHCJo0jKHHVaQ/profile-displayphoto-scale_200_200/B56Zm_gyzmIYAc-/0/1759854669438?e=2147483647&v=beta&t=hVhuXtG8i3k_sH0DcCvU4hXDVTmEzigZyZfR4KqmMzk
-* Post Image URL(s): https://media.licdn.com/dms/image/v2/D5605AQEmeFWmKYdSEw/videocover-high/B56Z2cZcSEIsBY-/0/1776445410129?e=2147483647&v=beta&t=KYIfF8BzQfP2IJuIVT0uHhzFzM6bsyoSdUSuxMgy-ik
+- Profile Photo URL: [https://media.licdn.com/dms/image/v2/D5603AQHCJo0jKHHVaQ/profile-displayphoto-scale_200_200/B56Zm_gyzmIYAc-/0/1759854669438?e=2147483647&v=beta&t=hVhuXtG8i3k_sH0DcCvU4hXDVTmEzigZyZfR4KqmMzk](https://media.licdn.com/dms/image/v2/D5603AQHCJo0jKHHVaQ/profile-displayphoto-scale_200_200/B56Zm_gyzmIYAc-/0/1759854669438?e=2147483647&v=beta&t=hVhuXtG8i3k_sH0DcCvU4hXDVTmEzigZyZfR4KqmMzk)
+- Post Image URL(s): [https://media.licdn.com/dms/image/v2/D5605AQEmeFWmKYdSEw/videocover-high/B56Z2cZcSEIsBY-/0/1776445410129?e=2147483647&v=beta&t=KYIfF8BzQfP2IJuIVT0uHhzFzM6bsyoSdUSuxMgy-ik](https://media.licdn.com/dms/image/v2/D5605AQEmeFWmKYdSEw/videocover-high/B56Z2cZcSEIsBY-/0/1776445410129?e=2147483647&v=beta&t=KYIfF8BzQfP2IJuIVT0uHhzFzM6bsyoSdUSuxMgy-ik)
 
 ## Engagement Data
 
-* Likes / Reactions: Not displayed on public page
-* Comments: Not displayed on public page
-* Reposts: Not displayed on public page
+- Likes / Reactions: 97
+- Comments: 16
+- Reposts: 9
+

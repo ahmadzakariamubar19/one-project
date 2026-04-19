@@ -19,7 +19,7 @@ Aleyda Solís shared this So very excited about the Ahrefs Evolve event in San D
 
 ## Engagement Data
 
-- Likes / Reactions: Not displayed on public page
-- Comments: Not displayed on public page
-- Reposts: Not displayed on public page
+- Likes / Reactions: 13
+- Comments: 0
+- Reposts: 0
 
