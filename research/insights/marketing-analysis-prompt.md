@@ -45,6 +45,7 @@ Use a professional table:
 | Theme | Mention Frequency | Experts Covering Theme | Strategic Insight |
 
 Examples:
+
 - SEO
 - AI Search
 - Demand Generation
@@ -59,6 +60,7 @@ Use a table:
 | Pain Point | Frequency | Experts Addressing It | Business Implication |
 
 Examples:
+
 - traffic decline
 - poor lead quality
 - weak pipeline
@@ -72,6 +74,7 @@ Use a table:
 | Format | Usage Frequency | Why It Works | Example Experts |
 
 Examples:
+
 - how-to education
 - case studies
 - frameworks
@@ -86,6 +89,7 @@ Use a table:
 | Messaging Angle | Frequency | Description | Example Experts |
 
 Examples:
+
 - authority-led
 - fear / urgency
 - data-backed
