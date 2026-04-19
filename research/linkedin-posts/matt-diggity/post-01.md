@@ -1,0 +1,9 @@
+# Expert Name: Matt Diggity
+# Post Title: Matt Diggity shared this Why I <3 working with people 1-on-1 via coaching/mentoring. Alan ...
+# Post URL: https://www.linkedin.com/posts/mattdiggityseo_why-i-3-working-with-people-1-on-1-via-coaching-activity-7451109031223537664-D1gJ
+# Publish Date: Unknown
+# Content Source: Public LinkedIn HTML
+
+## Post Content
+
+Matt Diggity shared this Why I <3 working with people 1-on-1 via coaching/mentoring. Alan Thomas Alan Thomas 3d Matt Diggity shared this Not gonna lie - Q1 was tough. I had to do something that goes against every part of my being. I had to stop growing. For 2 months, I stopped taking on clients. At the time, it made sense. We were at capacity. Fulfilment was stretched. So I did what most founders do. Tried to fix it myself. → productised the business → tightened delivery → simplified operations I thought that would solve it. It didn’t. Something still felt off. So I reached out to Matt Diggity . I walked him through everything: → what I was seeing → what I’d tried → where I thought the problem was He saw it in minutes. I was solving the wrong problem. It wasn’t capacity. It was the model behind it. That’s the risk of trying to solve everything yourself. You’re working with partial visibility. You see symptoms. You don’t always see the cause. Without Matt's insight & coaching I would have kept treading in the wrong direction fast (so thank you Matt ) Like most business owners - I had got into the habit of; 1. Trying to do everything myself 2. Believing I could In theory, that works. In reality: → You don’t have the time → You don’t have the energy → And in most cases - you don’t have the perspective or expertise to be across every single division of our business. As Charlie Munger famously stated: "It's good to learn from your mistakes. It's better to learn from other people's mistakes" Here's to a Prosperous Q2! public_profile__posts

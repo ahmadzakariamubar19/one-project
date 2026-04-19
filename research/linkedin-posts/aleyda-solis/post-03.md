@@ -1,0 +1,9 @@
+# Expert Name: Aleyda Solís
+# Post Title: Aleyda Solís shared this A new day, a new feature making Finchling helpful for PR speciali...
+# Post URL: https://www.linkedin.com/posts/aleyda_a-new-day-a-new-feature-making-finchling-activity-7450864822805708800-9SKS
+# Publish Date: Unknown
+# Content Source: Public LinkedIn HTML
+
+## Post Content
+
+Aleyda Solís shared this A new day, a new feature making Finchling helpful for PR specialists campaign planning 👇 Dave Peiris Dave Peiris 2d Aleyda Solís shared this Tiny update to Finchling's Plan Ahead feature - add any upcoming event to your calendar in one click. We show PR teams events worth planning around - up to a year ahead. Now you can easily add them straight to Google Calendar, Apple or Outlook, so you won't forget them. public_profile__posts

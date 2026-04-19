@@ -1,0 +1,64 @@
+# LinkedIn Posts Collection Report
+
+- Experts processed: 11
+- Posts processed: 55
+- Successful posts collected: 50
+- Failed collections: 5
+
+## Files created
+- research/linkedin-posts/linkedin-posts-prompt.md
+- research/linkedin-posts/aleyda-solis/post-01.md
+- research/linkedin-posts/aleyda-solis/post-02.md
+- research/linkedin-posts/aleyda-solis/post-03.md
+- research/linkedin-posts/aleyda-solis/post-04.md
+- research/linkedin-posts/aleyda-solis/post-05.md
+- research/linkedin-posts/brian-harnish/post-01.md
+- research/linkedin-posts/brian-harnish/post-02.md
+- research/linkedin-posts/brian-harnish/post-03.md
+- research/linkedin-posts/brian-harnish/post-04.md
+- research/linkedin-posts/brian-harnish/post-05.md
+- research/linkedin-posts/cyrus-shepard/post-01.md
+- research/linkedin-posts/cyrus-shepard/post-02.md
+- research/linkedin-posts/cyrus-shepard/post-03.md
+- research/linkedin-posts/cyrus-shepard/post-04.md
+- research/linkedin-posts/cyrus-shepard/post-05.md
+- research/linkedin-posts/dixon-jones/post-01.md
+- research/linkedin-posts/dixon-jones/post-02.md
+- research/linkedin-posts/dixon-jones/post-03.md
+- research/linkedin-posts/dixon-jones/post-04.md
+- research/linkedin-posts/dixon-jones/post-05.md
+- research/linkedin-posts/edward-sturm/post-01.md
+- research/linkedin-posts/edward-sturm/post-02.md
+- research/linkedin-posts/edward-sturm/post-03.md
+- research/linkedin-posts/edward-sturm/post-04.md
+- research/linkedin-posts/edward-sturm/post-05.md
+- research/linkedin-posts/jason-barnard/post-01.md
+- research/linkedin-posts/jason-barnard/post-02.md
+- research/linkedin-posts/jason-barnard/post-03.md
+- research/linkedin-posts/jason-barnard/post-04.md
+- research/linkedin-posts/jason-barnard/post-05.md
+- research/linkedin-posts/kevin-indig/post-01.md
+- research/linkedin-posts/kevin-indig/post-02.md
+- research/linkedin-posts/kevin-indig/post-03.md
+- research/linkedin-posts/kevin-indig/post-04.md
+- research/linkedin-posts/kevin-indig/post-05.md
+- research/linkedin-posts/mark-williams-cook/post-01.md
+- research/linkedin-posts/mark-williams-cook/post-02.md
+- research/linkedin-posts/mark-williams-cook/post-03.md
+- research/linkedin-posts/mark-williams-cook/post-04.md
+- research/linkedin-posts/mark-williams-cook/post-05.md
+- research/linkedin-posts/matt-diggity/post-01.md
+- research/linkedin-posts/matt-diggity/post-02.md
+- research/linkedin-posts/matt-diggity/post-03.md
+- research/linkedin-posts/matt-diggity/post-04.md
+- research/linkedin-posts/matt-diggity/post-05.md
+- research/linkedin-posts/nathan-gotch/post-01.md
+- research/linkedin-posts/nathan-gotch/post-02.md
+- research/linkedin-posts/nathan-gotch/post-03.md
+- research/linkedin-posts/nathan-gotch/post-04.md
+- research/linkedin-posts/nathan-gotch/post-05.md
+- research/linkedin-posts/steven-van-vessum/post-01.md
+- research/linkedin-posts/steven-van-vessum/post-02.md
+- research/linkedin-posts/steven-van-vessum/post-03.md
+- research/linkedin-posts/steven-van-vessum/post-04.md
+- research/linkedin-posts/steven-van-vessum/post-05.md
