@@ -1,38 +1,49 @@
 # 100Hires Research Project
 
-This repository is a structured research project built to collect and organize recent insights from selected industry experts across YouTube and LinkedIn.
+> A structured research repository designed to collect, organize, and analyze valuable insights from selected industry experts across **YouTube** and **LinkedIn**.
+
+---
 
 ## What I Collected
 
 The repository currently includes:
 
-- YouTube transcripts from recent expert videos
-- LinkedIn posts from selected professionals
-- A centralized source list in `research/sources.md`
-- Organized research folders by platform and author
+- **YouTube transcripts** from recent expert videos  
+- **LinkedIn posts** from selected professionals  
+- A centralized source registry in `**research/sources.md`**  
+- Organized research folders by platform and author  
+- Structured outputs ready for future analysis workflows
+
+---
 
 ## Why I Chose These Experts
 
-These experts were selected because they consistently publish valuable insights and have strong credibility in their fields.
+These experts were selected because they consistently publish high-value insights and have strong credibility in their respective fields.
 
-Their expertise covers areas such as:
+### Core Areas of Expertise
 
-- SEO
-- Technical SEO
-- Growth Marketing
-- B2B SaaS
-- Brand Visibility
-- Search Strategy
-- Digital Business Growth
+- **SEO**
+- **Technical SEO**
+- **Growth Marketing**
+- **B2B SaaS**
+- **Brand Visibility**
+- **Search Strategy**
+- **Digital Business Growth**
 
-I selected them to build a high-quality learning and research database from trusted public sources.
+The goal was to build a reliable learning and research database using trusted public sources.
+
+---
 
 ## Repository Structure
 
+```text
 one project/
+├── insights/
 ├── research/
 ├── scripts/
-├── README.md
-├── requirements.txt
-├── .gitignore
 ├── .env
+├── .gitignore
+├── README.md
+└── requirements.txt
+```
+
