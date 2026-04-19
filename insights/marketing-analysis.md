@@ -127,4 +127,3 @@ Assumption note: frequency values below are based on keyword-pattern signals fro
 - Systematize recurring formats (case studies, frameworks, checklists) to improve consistency and team scalability.
 - Increase differentiation with evidence-backed contrarian viewpoints, but pair with implementation guidance to preserve trust.
 - Add underserved topics (lead quality, conversion, positioning systems) to gain white-space advantage versus peer experts.
-

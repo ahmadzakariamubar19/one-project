@@ -27,3 +27,4 @@
 - research/youtube-transcripts/nathan-gotch/video-03.md
 - research/youtube-transcripts/nathan-gotch/video-04.md
 - research/youtube-transcripts/nathan-gotch/video-05.md
+

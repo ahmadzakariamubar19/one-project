@@ -6,6 +6,7 @@
 - Failed collections: 5
 
 ## Files created
+
 - research/linkedin-posts/linkedin-posts-prompt.md
 - research/linkedin-posts/aleyda-solis/post-01.md
 - research/linkedin-posts/aleyda-solis/post-02.md
@@ -62,3 +63,4 @@
 - research/linkedin-posts/steven-van-vessum/post-03.md
 - research/linkedin-posts/steven-van-vessum/post-04.md
 - research/linkedin-posts/steven-van-vessum/post-05.md
+
