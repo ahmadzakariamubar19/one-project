@@ -6,6 +6,7 @@
 - Failed transcripts: 0
 
 ## Files created
+
 - research/youtube-transcripts/aleyda-solis/video-01.md
 - research/youtube-transcripts/aleyda-solis/video-02.md
 - research/youtube-transcripts/aleyda-solis/video-03.md
