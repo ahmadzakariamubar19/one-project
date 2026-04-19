@@ -63,4 +63,3 @@
 - research/linkedin-posts/steven-van-vessum/post-03.md
 - research/linkedin-posts/steven-van-vessum/post-04.md
 - research/linkedin-posts/steven-van-vessum/post-05.md
-
