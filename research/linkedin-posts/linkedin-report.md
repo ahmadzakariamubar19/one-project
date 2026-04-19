@@ -1,76 +1,26 @@
 # LinkedIn Posts Collection Report
 
 - Experts processed: 11
-- Posts processed: 55
-- Successful posts collected: 15
-- Failed collections: 40
-- Total media assets collected: 32
-- Experts with inaccessible LinkedIn pages: Brian Harnish, Edward Sturm, Jason Barnard, Kevin Indig, Mark Williams-Cook, Matt Diggity, Nathan Gotch, Steven van Vessum
+- Experts with at least one accessible post: 0
+- Posts processed: 0
+- Successful posts collected: 0
+- Inaccessible posts skipped: 0
+- Failed collections: 11
+- Total media assets collected: 0
+- Experts with inaccessible LinkedIn pages: Aleyda Solís, Brian Harnish, Cyrus Shepard, Dixon Jones, Edward Sturm, Jason Barnard, Kevin Indig, Mark Williams-Cook, Matt Diggity, Nathan Gotch, Steven van Vessum
 
 ## Notes on missing data or scraping limitations
+- Aleyda Solís: HTTP 999 while fetching https://www.linkedin.com/in/aleyda/details/recent-activity/shares/
 - Brian Harnish: HTTP 999 while fetching https://www.linkedin.com/in/brianharnish/details/recent-activity/shares/
+- Cyrus Shepard: HTTP 999 while fetching https://www.linkedin.com/in/cyrusshepard/details/recent-activity/shares/
+- Dixon Jones: HTTP 999 while fetching https://www.linkedin.com/in/dixonjones/details/recent-activity/shares/
 - Edward Sturm: HTTP 999 while fetching https://www.linkedin.com/in/edward-sturm/details/recent-activity/shares/
 - Jason Barnard: HTTP 999 while fetching https://www.linkedin.com/in/jasonmbarnard/details/recent-activity/shares/
 - Kevin Indig: HTTP 999 while fetching https://www.linkedin.com/in/kevinindig/details/recent-activity/shares/
-- Mark Williams-Cook: HTTP 999 while fetching https://www.linkedin.com/in/markseo/details/recent-activity/shares/
+- Mark Williams-Cook: HTTP 404 while fetching https://www.linkedin.com/in/markseo/details/recent-activity/shares/
 - Matt Diggity: HTTP 999 while fetching https://www.linkedin.com/in/mattdiggityseo/details/recent-activity/shares/
 - Nathan Gotch: HTTP 999 while fetching https://www.linkedin.com/in/nathangotch/details/recent-activity/shares/
 - Steven van Vessum: HTTP 999 while fetching https://www.linkedin.com/in/stevenvanvessum/details/recent-activity/shares/
 
 ## Files created
 - research/linkedin-posts/linkedin-posts-prompt.md
-- research/linkedin-posts/aleyda-solis/post-01.md
-- research/linkedin-posts/aleyda-solis/post-02.md
-- research/linkedin-posts/aleyda-solis/post-03.md
-- research/linkedin-posts/aleyda-solis/post-04.md
-- research/linkedin-posts/aleyda-solis/post-05.md
-- research/linkedin-posts/brian-harnish/post-01.md
-- research/linkedin-posts/brian-harnish/post-02.md
-- research/linkedin-posts/brian-harnish/post-03.md
-- research/linkedin-posts/brian-harnish/post-04.md
-- research/linkedin-posts/brian-harnish/post-05.md
-- research/linkedin-posts/cyrus-shepard/post-01.md
-- research/linkedin-posts/cyrus-shepard/post-02.md
-- research/linkedin-posts/cyrus-shepard/post-03.md
-- research/linkedin-posts/cyrus-shepard/post-04.md
-- research/linkedin-posts/cyrus-shepard/post-05.md
-- research/linkedin-posts/dixon-jones/post-01.md
-- research/linkedin-posts/dixon-jones/post-02.md
-- research/linkedin-posts/dixon-jones/post-03.md
-- research/linkedin-posts/dixon-jones/post-04.md
-- research/linkedin-posts/dixon-jones/post-05.md
-- research/linkedin-posts/edward-sturm/post-01.md
-- research/linkedin-posts/edward-sturm/post-02.md
-- research/linkedin-posts/edward-sturm/post-03.md
-- research/linkedin-posts/edward-sturm/post-04.md
-- research/linkedin-posts/edward-sturm/post-05.md
-- research/linkedin-posts/jason-barnard/post-01.md
-- research/linkedin-posts/jason-barnard/post-02.md
-- research/linkedin-posts/jason-barnard/post-03.md
-- research/linkedin-posts/jason-barnard/post-04.md
-- research/linkedin-posts/jason-barnard/post-05.md
-- research/linkedin-posts/kevin-indig/post-01.md
-- research/linkedin-posts/kevin-indig/post-02.md
-- research/linkedin-posts/kevin-indig/post-03.md
-- research/linkedin-posts/kevin-indig/post-04.md
-- research/linkedin-posts/kevin-indig/post-05.md
-- research/linkedin-posts/mark-williams-cook/post-01.md
-- research/linkedin-posts/mark-williams-cook/post-02.md
-- research/linkedin-posts/mark-williams-cook/post-03.md
-- research/linkedin-posts/mark-williams-cook/post-04.md
-- research/linkedin-posts/mark-williams-cook/post-05.md
-- research/linkedin-posts/matt-diggity/post-01.md
-- research/linkedin-posts/matt-diggity/post-02.md
-- research/linkedin-posts/matt-diggity/post-03.md
-- research/linkedin-posts/matt-diggity/post-04.md
-- research/linkedin-posts/matt-diggity/post-05.md
-- research/linkedin-posts/nathan-gotch/post-01.md
-- research/linkedin-posts/nathan-gotch/post-02.md
-- research/linkedin-posts/nathan-gotch/post-03.md
-- research/linkedin-posts/nathan-gotch/post-04.md
-- research/linkedin-posts/nathan-gotch/post-05.md
-- research/linkedin-posts/steven-van-vessum/post-01.md
-- research/linkedin-posts/steven-van-vessum/post-02.md
-- research/linkedin-posts/steven-van-vessum/post-03.md
-- research/linkedin-posts/steven-van-vessum/post-04.md
-- research/linkedin-posts/steven-van-vessum/post-05.md

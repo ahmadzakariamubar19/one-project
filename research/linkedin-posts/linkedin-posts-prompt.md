@@ -38,14 +38,26 @@ post-01.md
 post-02.md
 post-03.md
 
-Collect the latest 5 recent posts per expert.
+TARGET COLLECTION RULE:
+
+Attempt to collect up to 5 accessible posts per expert.
+
+Do NOT require the latest 5 strictly in sequence.
+
+If one or more newest posts are unavailable, deleted, private, blocked, redirected, or inaccessible, skip them and continue scanning older posts until 5 accessible posts are collected or no more accessible posts are found.
+
+Prioritize recency, but accessibility comes first.
 
 FILE CONTENT FORMAT:
 
 # Expert Name
+
 # Post Title (if available)
+
 # Post URL
+
 # Publish Date
+
 # Content Source
 
 ## Post Content
@@ -56,30 +68,26 @@ If full text is unavailable, capture the visible text only.
 
 ## Media Assets
 
-* Profile Photo URL
-* Profile Banner URL
-* Post Image URL(s)
-* Carousel Slide Image URL(s)
-* Video Thumbnail URL
-* Attached Document Preview URL
+- Profile Photo URL
+- Profile Banner URL
+- Post Image URL(s)
+- Carousel Slide Image URL(s)
+- Video Thumbnail URL
+- Attached Document Preview URL
 
 (Only include fields where data exists. Do not write unavailable, none, N/A, or empty placeholders.)
 
 ## Engagement Data
 
-* Likes / Reactions
-* Comments
-* Reposts
+- Likes / Reactions
+- Comments
+- Reposts
 
 (Required for every post. Extract displayed values exactly as shown.)
 
-IF POST NOT AVAILABLE:
+IF NO ACCESSIBLE POSTS FOUND:
 
-Create the file and write:
-
-Post unavailable.
-
-Include reason if known.
+Create folder and report in final summary.
 
 RULES:
 
@@ -94,11 +102,13 @@ RULES:
 9. Expand hidden text such as “see more” whenever possible.
 10. Capture lazy-loaded images and dynamically loaded media assets.
 11. If multiple images exist in one post, collect all.
-12. Preserve original post ordering from newest to oldest.
+12. Preserve newest-to-oldest priority among accessible posts.
 13. Avoid duplicate posts.
 14. If exact publish date unavailable, capture displayed relative date.
 15. Do not print missing-field labels. Omit missing fields entirely.
 16. Engagement Data section must always exist in every post file.
+17. Skip inaccessible posts silently and continue searching older accessible posts.
+18. Stop only after 5 accessible posts are collected or no further accessible posts remain.
 
 PROJECT VISIBILITY:
 
@@ -123,10 +133,11 @@ research/linkedin-posts/linkedin-report.md
 Include:
 
 - Experts processed
+- Experts with at least one accessible post
 - Posts processed
 - Successful posts collected
-- Failed collections
+- Inaccessible posts skipped
 - Files created
-* Total media assets collected
-* Experts with inaccessible LinkedIn pages
-* Notes on missing data or scraping limitations
+- Total media assets collected
+- Experts with inaccessible LinkedIn pages
+- Notes on missing data or scraping limitations

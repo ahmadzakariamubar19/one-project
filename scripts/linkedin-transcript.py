@@ -235,7 +235,7 @@ def extract_visible_posts_from_html(html: str, base_url: str) -> List[Post]:
                 reposts=reposts,
             )
         )
-        if len(posts) >= 5:
+        if len(posts) >= 40:
             break
 
     # Preserve natural extracted order (typically newest -> oldest), avoid duplicates.
@@ -261,6 +261,7 @@ def try_fetch_linkedin_posts(linkedin_url: str) -> Tuple[List[Post], Optional[st
     ]
 
     best_error = "No public post data found."
+    collected_posts: List[Post] = []
     for url in candidate_urls:
         try:
             response = session.get(url, timeout=25, allow_redirects=True)
@@ -277,14 +278,37 @@ def try_fetch_linkedin_posts(linkedin_url: str) -> Tuple[List[Post], Optional[st
 
             posts = extract_visible_posts_from_html(html, response.url)
             if posts:
-                return posts[:5], None
-            best_error = "No visible public posts found on fetched page."
+                collected_posts.extend(posts)
+            else:
+                best_error = "No visible public posts found on fetched page."
             time.sleep(1.2)
         except requests.RequestException as error:
             best_error = f"Request failed: {error}"
             time.sleep(1.2)
 
+    if collected_posts:
+        deduped: List[Post] = []
+        seen_urls: Set[str] = set()
+        for post in collected_posts:
+            if post.url in seen_urls:
+                continue
+            seen_urls.add(post.url)
+            deduped.append(post)
+        return deduped, None
     return [], best_error
+
+
+def is_accessible_post_url(session: requests.Session, post_url: str) -> bool:
+    try:
+        response = session.get(post_url, timeout=20, allow_redirects=True)
+        if response.status_code >= 400:
+            return False
+        blocked_markers = ("authwall", "checkpoint/challenge", "/login", "/signup")
+        if any(marker in response.url for marker in blocked_markers):
+            return False
+        return True
+    except requests.RequestException:
+        return False
 
 
 def write_post_file(
@@ -395,14 +419,26 @@ post-01.md
 post-02.md
 post-03.md
 
-Collect the latest 5 recent posts per expert.
+TARGET COLLECTION RULE:
+
+Attempt to collect up to 5 accessible posts per expert.
+
+Do NOT require the latest 5 strictly in sequence.
+
+If one or more newest posts are unavailable, deleted, private, blocked, redirected, or inaccessible, skip them and continue scanning older posts until 5 accessible posts are collected or no more accessible posts are found.
+
+Prioritize recency, but accessibility comes first.
 
 FILE CONTENT FORMAT:
 
 # Expert Name
+
 # Post Title (if available)
+
 # Post URL
+
 # Publish Date
+
 # Content Source
 
 ## Post Content
@@ -430,13 +466,9 @@ If full text is unavailable, capture the visible text only.
 
 (Required for every post. Extract displayed values exactly as shown.)
 
-IF POST NOT AVAILABLE:
+IF NO ACCESSIBLE POSTS FOUND:
 
-Create the file and write:
-
-Post unavailable.
-
-Include reason if known.
+Create folder and report in final summary.
 
 RULES:
 
@@ -451,19 +483,21 @@ RULES:
 9. Expand hidden text such as “see more” whenever possible.
 10. Capture lazy-loaded images and dynamically loaded media assets.
 11. If multiple images exist in one post, collect all.
-12. Preserve original post ordering from newest to oldest.
+12. Preserve newest-to-oldest priority among accessible posts.
 13. Avoid duplicate posts.
 14. If exact publish date unavailable, capture displayed relative date.
 15. Do not print missing-field labels. Omit missing fields entirely.
 16. Engagement Data section must always exist in every post file.
+17. Skip inaccessible posts silently and continue searching older accessible posts.
+18. Stop only after 5 accessible posts are collected or no further accessible posts remain.
 
 PROJECT VISIBILITY:
 
 Ensure the process is clear and professional through existing project files:
 
-- Keep requirements.txt updated with needed Python packages.
-- Keep .gitignore clean and ensure sensitive files like .env are ignored.
-- Keep repository structure organized and readable.
+* Keep requirements.txt updated with needed Python packages.
+* Keep .gitignore clean and ensure sensitive files like .env are ignored.
+* Keep repository structure organized and readable.
 
 PROMPT RECORD:
 
@@ -479,11 +513,12 @@ research/linkedin-posts/linkedin-report.md
 
 Include:
 
-- Experts processed
-- Posts processed
-- Successful posts collected
-- Failed collections
-- Files created
+* Experts processed
+* Experts with at least one accessible post
+* Posts processed
+* Successful posts collected
+* Inaccessible posts skipped
+* Files created
 * Total media assets collected
 * Experts with inaccessible LinkedIn pages
 * Notes on missing data or scraping limitations
@@ -495,14 +530,19 @@ def main() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     experts = parse_experts_from_sources(SOURCES_FILE)
     save_prompt_record()
+    access_session = requests.Session()
+    access_session.headers.update(REQUEST_HEADERS)
 
     experts_processed = 0
+    experts_with_accessible_posts = 0
     posts_processed = 0
     successful_collections = 0
     failed_collections = 0
+    inaccessible_posts_skipped = 0
     total_media_assets_collected = 0
     inaccessible_experts: List[str] = []
     missing_data_notes: List[str] = []
+    experts_with_no_accessible_posts: List[str] = []
     files_created: List[str] = [str(PROMPT_FILE.relative_to(ROOT_DIR))]
 
     for expert in experts:
@@ -512,87 +552,57 @@ def main() -> None:
 
         posts, error_message = try_fetch_linkedin_posts(expert.linkedin_url)
         if posts:
-            for index in range(1, 6):
-                output_file = expert_dir / f"post-{index:02d}.md"
-                if index <= len(posts):
-                    post = posts[index - 1]
-                    write_post_file(
-                        file_path=output_file,
-                        expert_name=expert.name,
-                        post_title=post.title,
-                        post_url=post.url,
-                        publish_date=post.publish_date,
-                        source=post.source,
-                        post_content=post.content,
-                        media_profile_photo_url=post.profile_photo_url,
-                        media_profile_banner_url=post.profile_banner_url,
-                        media_post_image_urls=post.post_image_urls,
-                        media_carousel_slide_urls=post.carousel_slide_urls,
-                        media_video_thumbnail_url=post.video_thumbnail_url,
-                        media_document_preview_url=post.document_preview_url,
-                        reactions=post.reactions,
-                        comments=post.comments,
-                        reposts=post.reposts,
-                    )
-                    posts_processed += 1
-                    successful_collections += 1
-                    total_media_assets_collected += (
-                        (1 if post.profile_photo_url else 0)
-                        + (1 if post.profile_banner_url else 0)
-                        + len(post.post_image_urls)
-                        + len(post.carousel_slide_urls)
-                        + (1 if post.video_thumbnail_url else 0)
-                        + (1 if post.document_preview_url else 0)
-                    )
+            accessible_posts: List[Post] = []
+            for post in posts:
+                if len(accessible_posts) >= 5:
+                    break
+                if is_accessible_post_url(access_session, post.url):
+                    accessible_posts.append(post)
                 else:
-                    write_post_file(
-                        file_path=output_file,
-                        expert_name=expert.name,
-                        post_title="Post unavailable",
-                        post_url=expert.linkedin_url,
-                        publish_date="Unknown",
-                        source="Public LinkedIn HTML",
-                        post_content=None,
-                        media_profile_photo_url="",
-                        media_profile_banner_url="",
-                        media_post_image_urls=[],
-                        media_carousel_slide_urls=[],
-                        media_video_thumbnail_url="",
-                        media_document_preview_url="",
-                        reactions="Not displayed on public page",
-                        comments="Not displayed on public page",
-                        reposts="Not displayed on public page",
-                        failure_reason="Fewer than 5 public posts were available.",
-                    )
-                    posts_processed += 1
-                    failed_collections += 1
-                files_created.append(str(output_file.relative_to(ROOT_DIR)))
-        else:
-            for index in range(1, 6):
+                    inaccessible_posts_skipped += 1
+
+            if accessible_posts:
+                experts_with_accessible_posts += 1
+            else:
+                experts_with_no_accessible_posts.append(expert.name)
+                missing_data_notes.append(
+                    f"{expert.name}: No accessible public posts found after scanning available feed links."
+                )
+
+            for index, post in enumerate(accessible_posts, start=1):
                 output_file = expert_dir / f"post-{index:02d}.md"
                 write_post_file(
                     file_path=output_file,
                     expert_name=expert.name,
-                    post_title="Post unavailable",
-                    post_url=expert.linkedin_url,
-                    publish_date="Unknown",
-                    source="Public LinkedIn HTML",
-                    post_content=None,
-                    media_profile_photo_url="",
-                    media_profile_banner_url="",
-                    media_post_image_urls=[],
-                    media_carousel_slide_urls=[],
-                    media_video_thumbnail_url="",
-                    media_document_preview_url="",
-                    reactions="Not displayed on public page",
-                    comments="Not displayed on public page",
-                    reposts="Not displayed on public page",
-                    failure_reason=error_message or "Unknown error",
+                    post_title=post.title,
+                    post_url=post.url,
+                    publish_date=post.publish_date,
+                    source=post.source,
+                    post_content=post.content,
+                    media_profile_photo_url=post.profile_photo_url,
+                    media_profile_banner_url=post.profile_banner_url,
+                    media_post_image_urls=post.post_image_urls,
+                    media_carousel_slide_urls=post.carousel_slide_urls,
+                    media_video_thumbnail_url=post.video_thumbnail_url,
+                    media_document_preview_url=post.document_preview_url,
+                    reactions=post.reactions,
+                    comments=post.comments,
+                    reposts=post.reposts,
                 )
                 posts_processed += 1
-                failed_collections += 1
+                successful_collections += 1
+                total_media_assets_collected += (
+                    (1 if post.profile_photo_url else 0)
+                    + (1 if post.profile_banner_url else 0)
+                    + len(post.post_image_urls)
+                    + len(post.carousel_slide_urls)
+                    + (1 if post.video_thumbnail_url else 0)
+                    + (1 if post.document_preview_url else 0)
+                )
                 files_created.append(str(output_file.relative_to(ROOT_DIR)))
+        else:
             inaccessible_experts.append(expert.name)
+            experts_with_no_accessible_posts.append(expert.name)
             missing_data_notes.append(
                 f"{expert.name}: {error_message or 'Unknown public-access limitation.'}"
             )
@@ -603,9 +613,11 @@ def main() -> None:
         "# LinkedIn Posts Collection Report",
         "",
         f"- Experts processed: {experts_processed}",
+        f"- Experts with at least one accessible post: {experts_with_accessible_posts}",
         f"- Posts processed: {posts_processed}",
         f"- Successful posts collected: {successful_collections}",
-        f"- Failed collections: {failed_collections}",
+        f"- Inaccessible posts skipped: {inaccessible_posts_skipped}",
+        f"- Failed collections: {failed_collections + len(experts_with_no_accessible_posts)}",
         f"- Total media assets collected: {total_media_assets_collected}",
         (
             "- Experts with inaccessible LinkedIn pages: "
