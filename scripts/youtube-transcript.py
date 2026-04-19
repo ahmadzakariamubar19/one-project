@@ -3,7 +3,7 @@ import re
 import unicodedata
 from dataclasses import dataclass
 from pathlib import Path
-from typing import List, Optional, Tuple
+from typing import Dict, List, Optional, Tuple
 
 import requests
 from dotenv import load_dotenv
@@ -113,6 +113,37 @@ def get_latest_videos(channel_url: str, limit: int = 2) -> List[VideoItem]:
     return videos
 
 
+def format_timestamp(seconds: float) -> str:
+    total = int(seconds)
+    hours = total // 3600
+    minutes = (total % 3600) // 60
+    secs = total % 60
+    if hours > 0:
+        return f"[{hours:02d}:{minutes:02d}:{secs:02d}]"
+    return f"[{minutes:02d}:{secs:02d}]"
+
+
+def normalize_timed_segments(segments: List[Dict]) -> Optional[str]:
+    lines: List[str] = []
+    for segment in segments:
+        if not isinstance(segment, dict):
+            continue
+        text = str(segment.get("text", "")).strip()
+        if not text:
+            continue
+        ts = (
+            segment.get("start")
+            or segment.get("offset")
+            or segment.get("start_time")
+            or segment.get("from")
+        )
+        if isinstance(ts, (int, float)):
+            lines.append(f"{format_timestamp(float(ts))} {text}")
+        else:
+            lines.append(text)
+    return "\n".join(lines).strip() if lines else None
+
+
 def fetch_supadata_transcript(
     video_url: str, supadata_api_key: str
 ) -> Tuple[Optional[str], str]:
@@ -133,11 +164,7 @@ def fetch_supadata_transcript(
                 if isinstance(value, str) and value.strip():
                     return value.strip(), "Supadata"
                 if isinstance(value, list):
-                    stitched = " ".join(
-                        part.get("text", "")
-                        for part in value
-                        if isinstance(part, dict) and part.get("text")
-                    ).strip()
+                    stitched = normalize_timed_segments(value)
                     if stitched:
                         return stitched, "Supadata"
         return None, "Supadata returned empty transcript"
@@ -148,7 +175,7 @@ def fetch_supadata_transcript(
 def fetch_free_transcript(video_id: str) -> Tuple[Optional[str], str]:
     try:
         transcript = YouTubeTranscriptApi.get_transcript(video_id)
-        transcript_text = "\n".join(chunk.get("text", "") for chunk in transcript).strip()
+        transcript_text = normalize_timed_segments(transcript)
         if transcript_text:
             return transcript_text, "youtube-transcript-api"
         return None, "youtube-transcript-api returned empty transcript"
@@ -206,7 +233,7 @@ def main() -> None:
         expert_dir = OUTPUT_DIR / expert.slug
         expert_dir.mkdir(parents=True, exist_ok=True)
 
-        videos = get_latest_videos(expert.youtube_url, limit=2)
+        videos = get_latest_videos(expert.youtube_url, limit=5)
         if not videos:
             fallback_file = expert_dir / "video-01.md"
             write_video_file(
