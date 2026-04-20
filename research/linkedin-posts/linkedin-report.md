@@ -10,10 +10,13 @@
 - Experts with inaccessible LinkedIn pages: David Quaid
 
 ## Notes on missing data or scraping limitations
-- David Quaid: HTTP 999 while fetching https://www.linkedin.com/in/davidquaid/details/recent-activity/shares/
+
+- David Quaid: HTTP 999 while fetching [https://www.linkedin.com/in/davidquaid/details/recent-activity/shares/](https://www.linkedin.com/in/davidquaid/details/recent-activity/shares/)
 
 ## Files created
+
 - research/linkedin-posts/linkedin-posts-prompt.md
+- research/linkedin-posts/david-quaid/
 - research/linkedin-posts/harry-sanders/post-01.md
 - research/linkedin-posts/harry-sanders/post-02.md
 - research/linkedin-posts/harry-sanders/post-03.md
@@ -34,3 +37,4 @@
 - research/linkedin-posts/mark-williams-cook/post-03.md
 - research/linkedin-posts/mark-williams-cook/post-04.md
 - research/linkedin-posts/mark-williams-cook/post-05.md
+

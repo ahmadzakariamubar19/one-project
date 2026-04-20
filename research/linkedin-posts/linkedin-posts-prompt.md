@@ -31,6 +31,7 @@ Use clean slug folder names such as:
 research/linkedin-posts/aleyda-solis/
 research/linkedin-posts/matt-diggity/
 research/linkedin-posts/kevin-indig/
+research/linkedin-posts/david-quaid/
 
 Inside each expert folder, save post files as:
 
