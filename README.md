@@ -1,6 +1,8 @@
-# **100Hires Research Project**
+# **# 🚀 100Hires Research Project**
 
-> **A structured research repository built to collect and organize from selected industry experts across YouTube and LinkedIn.**
+**A curated and structured research repository designed to collect, organize, and analyze insights from selected industry experts across YouTube and LinkedIn.**
+
+**This project serves as a centralized knowledge base for tracking thought leaders, their strategies, and actionable insights in SEO, digital marketing, and growth systems.**
 
 ---
 
