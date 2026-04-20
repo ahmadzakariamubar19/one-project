@@ -142,8 +142,11 @@ def normalize_timed_segments(segments: List[Dict]) -> Optional[TranscriptResult]
     segment_count = 0
     max_coverage = 0.0
     for segment in ordered:
-        text = str(segment.get("text", "")).strip()
-        if not text:
+        text = segment.get("text", "")
+        if text is None:
+            continue
+        text = str(text)
+        if text == "":
             continue
         segment_count += 1
         ts = (
@@ -169,7 +172,7 @@ def normalize_timed_segments(segments: List[Dict]) -> Optional[TranscriptResult]
         return None
 
     return TranscriptResult(
-        text="\n".join(lines).strip(),
+        text="\n".join(lines),
         source="",
         segment_count=segment_count,
         coverage_seconds=int(max_coverage),
@@ -193,10 +196,10 @@ def fetch_supadata_transcript(
         if isinstance(payload, dict):
             for key in ("content", "transcript", "text"):
                 value = payload.get(key)
-                if isinstance(value, str) and value.strip():
+                if isinstance(value, str) and value != "":
                     return (
                         TranscriptResult(
-                            text=value.strip(),
+                            text=value,
                             source="Supadata",
                             segment_count=0,
                             coverage_seconds=0,
@@ -275,6 +278,26 @@ def passes_duration_check(
     return tail_gap <= max(20, int(video_duration_seconds * 0.1))
 
 
+def passes_density_check(transcript_text: str, video_duration_seconds: Optional[int]) -> bool:
+    if not video_duration_seconds or video_duration_seconds <= 0:
+        return True
+    # Guardrail against shortened summaries: transcript text should scale with video length.
+    # 4 visible chars/sec is conservative and still allows pauses/outros.
+    min_chars = max(400, int(video_duration_seconds * 4))
+    if len(transcript_text) < min_chars:
+        return False
+
+    # If timestamped, require a reasonable number of lines for the runtime.
+    timestamped_lines = re.findall(
+        r"^\[\d{2}:\d{2}:\d{2}\]\s", transcript_text, flags=re.MULTILINE
+    )
+    if timestamped_lines:
+        min_lines = max(20, int(video_duration_seconds / 20))
+        if len(timestamped_lines) < min_lines:
+            return False
+    return True
+
+
 def main() -> None:
     load_dotenv(ROOT_DIR / ".env")
     supadata_api_key = os.getenv("SUPADATA_API_KEY", "").strip()
@@ -345,6 +368,17 @@ def main() -> None:
                 coverage_failed += 1
             elif transcript_result:
                 coverage_verified += 1
+            if transcript_result and not passes_density_check(
+                transcript_result.text, video.duration_seconds
+            ):
+                expected = video.duration_seconds or 0
+                failure_reason = (
+                    f"Transcript appears too short for video length (~{expected}s). "
+                    "Potentially summarized or incomplete output."
+                )
+                transcript_result = None
+                source = "N/A"
+                coverage_failed += 1
 
             if not transcript_result:
                 if not failure_reason:

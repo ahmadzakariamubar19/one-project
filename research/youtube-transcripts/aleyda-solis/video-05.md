@@ -8,7 +8,7 @@ Google's August 2025 Spam Update Finished Rolling Out - #SEOFOMO TL;DR September
 
 # Video URL
 
-https://www.youtube.com/watch?v=3Tel_m4YPGE
+[https://www.youtube.com/watch?v=3Tel_m4YPGE](https://www.youtube.com/watch?v=3Tel_m4YPGE)
 
 # Publish Date
 
