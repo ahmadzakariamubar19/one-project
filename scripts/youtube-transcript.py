@@ -35,6 +35,15 @@ class VideoItem:
     url: str
     publish_date: str
     video_id: str
+    duration_seconds: Optional[int] = None
+
+
+@dataclass
+class TranscriptResult:
+    text: str
+    source: str
+    segment_count: int
+    coverage_seconds: int
 
 
 def slugify(value: str) -> str:
@@ -106,6 +115,9 @@ def get_latest_videos(channel_url: str, limit: int = 2) -> List[VideoItem]:
                     url=webpage_url,
                     publish_date=publish_date,
                     video_id=video_id,
+                    duration_seconds=(
+                        int(item.get("duration")) if item.get("duration") else None
+                    ),
                 )
             )
         if len(videos) >= limit:
@@ -118,35 +130,55 @@ def format_timestamp(seconds: float) -> str:
     hours = total // 3600
     minutes = (total % 3600) // 60
     secs = total % 60
-    if hours > 0:
-        return f"[{hours:02d}:{minutes:02d}:{secs:02d}]"
-    return f"[{minutes:02d}:{secs:02d}]"
+    return f"[{hours:02d}:{minutes:02d}:{secs:02d}]"
 
 
-def normalize_timed_segments(segments: List[Dict]) -> Optional[str]:
+def normalize_timed_segments(segments: List[Dict]) -> Optional[TranscriptResult]:
+    ordered: List[Dict] = sorted(
+        [segment for segment in segments if isinstance(segment, dict)],
+        key=lambda x: float(x.get("start") or x.get("offset") or x.get("from") or 0),
+    )
     lines: List[str] = []
-    for segment in segments:
-        if not isinstance(segment, dict):
-            continue
+    segment_count = 0
+    max_coverage = 0.0
+    for segment in ordered:
         text = str(segment.get("text", "")).strip()
         if not text:
             continue
+        segment_count += 1
         ts = (
             segment.get("start")
             or segment.get("offset")
             or segment.get("start_time")
             or segment.get("from")
         )
+        duration = segment.get("duration") or segment.get("dur") or segment.get("length")
+        segment_end = None
         if isinstance(ts, (int, float)):
             lines.append(f"{format_timestamp(float(ts))} {text}")
+            if isinstance(duration, (int, float)):
+                segment_end = float(ts) + float(duration)
+            else:
+                segment_end = float(ts)
         else:
             lines.append(text)
-    return "\n".join(lines).strip() if lines else None
+        if isinstance(segment_end, (int, float)):
+            max_coverage = max(max_coverage, float(segment_end))
+
+    if not lines:
+        return None
+
+    return TranscriptResult(
+        text="\n".join(lines).strip(),
+        source="",
+        segment_count=segment_count,
+        coverage_seconds=int(max_coverage),
+    )
 
 
 def fetch_supadata_transcript(
     video_url: str, supadata_api_key: str
-) -> Tuple[Optional[str], str]:
+) -> Tuple[Optional[TranscriptResult], str]:
     if not supadata_api_key:
         return None, "Supadata API key missing"
 
@@ -162,22 +194,40 @@ def fetch_supadata_transcript(
             for key in ("content", "transcript", "text"):
                 value = payload.get(key)
                 if isinstance(value, str) and value.strip():
-                    return value.strip(), "Supadata"
+                    return (
+                        TranscriptResult(
+                            text=value.strip(),
+                            source="Supadata",
+                            segment_count=0,
+                            coverage_seconds=0,
+                        ),
+                        "Supadata",
+                    )
                 if isinstance(value, list):
                     stitched = normalize_timed_segments(value)
                     if stitched:
+                        stitched.source = "Supadata"
                         return stitched, "Supadata"
         return None, "Supadata returned empty transcript"
     except requests.RequestException as error:
         return None, f"Supadata error: {error}"
 
 
-def fetch_free_transcript(video_id: str) -> Tuple[Optional[str], str]:
+def fetch_free_transcript(video_id: str) -> Tuple[Optional[TranscriptResult], str]:
     try:
-        transcript = YouTubeTranscriptApi.get_transcript(video_id)
-        transcript_text = normalize_timed_segments(transcript)
-        if transcript_text:
-            return transcript_text, "youtube-transcript-api"
+        transcript_items = YouTubeTranscriptApi().fetch(video_id)
+        transcript = [
+            {
+                "text": getattr(item, "text", ""),
+                "start": getattr(item, "start", 0),
+                "duration": getattr(item, "duration", 0),
+            }
+            for item in transcript_items
+        ]
+        transcript_result = normalize_timed_segments(transcript)
+        if transcript_result:
+            transcript_result.source = "youtube-transcript-api"
+            return transcript_result, "youtube-transcript-api"
         return None, "youtube-transcript-api returned empty transcript"
     except (NoTranscriptFound, TranscriptsDisabled, VideoUnavailable) as error:
         return None, f"Free method unavailable: {error.__class__.__name__}"
@@ -215,6 +265,16 @@ def write_video_file(
     file_path.write_text("\n".join(lines).strip() + "\n", encoding="utf-8")
 
 
+def passes_duration_check(
+    transcript_result: TranscriptResult, video_duration_seconds: Optional[int]
+) -> bool:
+    if not video_duration_seconds or transcript_result.coverage_seconds <= 0:
+        return True
+    # Allow a practical tail gap for outros/music and segmentation variance.
+    tail_gap = video_duration_seconds - transcript_result.coverage_seconds
+    return tail_gap <= max(20, int(video_duration_seconds * 0.1))
+
+
 def main() -> None:
     load_dotenv(ROOT_DIR / ".env")
     supadata_api_key = os.getenv("SUPADATA_API_KEY", "").strip()
@@ -226,6 +286,8 @@ def main() -> None:
     videos_processed = 0
     successful_transcripts = 0
     failed_transcripts = 0
+    coverage_verified = 0
+    coverage_failed = 0
     created_files: List[str] = []
 
     for expert in experts:
@@ -252,13 +314,41 @@ def main() -> None:
 
         for index, video in enumerate(videos, start=1):
             videos_processed += 1
-            transcript, source = fetch_supadata_transcript(video.url, supadata_api_key)
+            transcript_result, source = fetch_supadata_transcript(
+                video.url, supadata_api_key
+            )
             failure_reason = None
-            if not transcript:
-                transcript, free_source = fetch_free_transcript(video.video_id)
+            if not transcript_result:
+                transcript_result, free_source = fetch_free_transcript(video.video_id)
                 source = free_source
-            if not transcript:
-                failure_reason = source
+            if (
+                transcript_result
+                and not passes_duration_check(transcript_result, video.duration_seconds)
+            ):
+                # Retry with free transcript source to ensure all available segments.
+                fallback_result, free_source = fetch_free_transcript(video.video_id)
+                if fallback_result and passes_duration_check(
+                    fallback_result, video.duration_seconds
+                ):
+                    transcript_result = fallback_result
+                    source = free_source
+            if transcript_result and not passes_duration_check(
+                transcript_result, video.duration_seconds
+            ):
+                expected = video.duration_seconds or 0
+                failure_reason = (
+                    f"Transcript coverage ended at ~{transcript_result.coverage_seconds}s "
+                    f"but video duration is ~{expected}s."
+                )
+                transcript_result = None
+                source = "N/A"
+                coverage_failed += 1
+            elif transcript_result:
+                coverage_verified += 1
+
+            if not transcript_result:
+                if not failure_reason:
+                    failure_reason = source
                 failed_transcripts += 1
                 source = "N/A"
             else:
@@ -272,7 +362,7 @@ def main() -> None:
                 video_url=video.url,
                 publish_date=video.publish_date,
                 source=source,
-                transcript=transcript,
+                transcript=transcript_result.text if transcript_result else None,
                 failure_reason=failure_reason,
             )
             created_files.append(str(output_file.relative_to(ROOT_DIR)))
@@ -284,6 +374,8 @@ def main() -> None:
         f"- Videos processed: {videos_processed}",
         f"- Successful transcripts: {successful_transcripts}",
         f"- Failed transcripts: {failed_transcripts}",
+        f"- Coverage verified: {coverage_verified}",
+        f"- Coverage failed: {coverage_failed}",
         "",
         "## Files created",
     ]
