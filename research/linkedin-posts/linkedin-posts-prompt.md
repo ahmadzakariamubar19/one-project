@@ -50,38 +50,45 @@ Prioritize recency, but accessibility comes first.
 
 FILE CONTENT FORMAT:
 
-# Expert Name
+Expert Name
 
-# Post Title (if available)
+Post Title (if available)
 
-# Post URL
+Post URL
 
-# Publish Date
+Publish Date
 
-# Content Source
+Content Source
 
-## Post Content
+Post Content
 
 (full visible post text)
 
 If full text is unavailable, capture the visible text only.
 
-## Media Assets
+Media Assets
 
-- Profile Photo URL
-- Profile Banner URL
-- Post Image URL(s)
-- Carousel Slide Image URL(s)
-- Video Thumbnail URL
-- Attached Document Preview URL
+Profile Photo
+
+Profile Banner
+
+Post Image
+
+Carousel Slide Image URL(s)
+
+Video Thumbnail URL
+
+Attached Document Preview URL
 
 (Only include fields where data exists. Do not write unavailable, none, N/A, or empty placeholders.)
 
-## Engagement Data
+Engagement Data
 
-- Likes / Reactions
-- Comments
-- Reposts
+Likes / Reactions
+
+Comments
+
+Reposts
 
 (Required for every post. Extract displayed values exactly as shown.)
 
@@ -91,32 +98,51 @@ Create folder and report in final summary.
 
 RULES:
 
-1. Use scraping methods to collect publicly available LinkedIn content.
-2. Read all valid LinkedIn links from research/sources.md and process them automatically in batch.
-3. Keep filenames clean and consistent.
-4. Use slug folder names.
-5. Do NOT edit sources.md.
-6. Do NOT process experts without LinkedIn links.
-7. Keep markdown neat and professional.
-8. Respect rate limits and avoid excessive requests.
-9. Expand hidden text such as “see more” whenever possible.
-10. Capture lazy-loaded images and dynamically loaded media assets.
-11. If multiple images exist in one post, collect all.
-12. Preserve newest-to-oldest priority among accessible posts.
-13. Avoid duplicate posts.
-14. If exact publish date unavailable, capture displayed relative date.
-15. Do not print missing-field labels. Omit missing fields entirely.
-16. Engagement Data section must always exist in every post file.
-17. Skip inaccessible posts silently and continue searching older accessible posts.
-18. Stop only after 5 accessible posts are collected or no further accessible posts remain.
+Use scraping methods to collect publicly available LinkedIn content.
+
+Read all valid LinkedIn links from research/sources.md and process them automatically in batch.
+
+Keep filenames clean and consistent.
+
+Use slug folder names.
+
+Do NOT edit sources.md.
+
+Do NOT process experts without LinkedIn links.
+
+Keep markdown neat and professional.
+
+Respect rate limits and avoid excessive requests.
+
+Expand hidden text such as “see more” whenever possible.
+
+Capture lazy-loaded images and dynamically loaded media assets.
+
+If multiple images exist in one post, collect all.
+
+Preserve newest-to-oldest priority among accessible posts.
+
+Avoid duplicate posts.
+
+If exact publish date unavailable, capture displayed relative date.
+
+Do not print missing-field labels. Omit missing fields entirely.
+
+Engagement Data section must always exist in every post file.
+
+Skip inaccessible posts silently and continue searching older accessible posts.
+
+Stop only after 5 accessible posts are collected or no further accessible posts remain.
 
 PROJECT VISIBILITY:
 
 Ensure the process is clear and professional through existing project files:
 
-- Keep requirements.txt updated with needed Python packages.
-- Keep .gitignore clean and ensure sensitive files like .env are ignored.
-- Keep repository structure organized and readable.
+Keep requirements.txt updated with needed Python packages.
+
+Keep .gitignore clean and ensure sensitive files like .env are ignored.
+
+Keep repository structure organized and readable.
 
 PROMPT RECORD:
 
@@ -132,12 +158,20 @@ research/linkedin-posts/linkedin-report.md
 
 Include:
 
-- Experts processed
-- Experts with at least one accessible post
-- Posts processed
-- Successful posts collected
-- Inaccessible posts skipped
-- Files created
-- Total media assets collected
-- Experts with inaccessible LinkedIn pages
-- Notes on missing data or scraping limitations
+Experts processed
+
+Experts with at least one accessible post
+
+Posts processed
+
+Successful posts collected
+
+Inaccessible posts skipped
+
+Files created
+
+Total media assets collected
+
+Experts with inaccessible LinkedIn pages
+
+Notes on missing data or scraping limitations

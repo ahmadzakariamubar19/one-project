@@ -1,20 +1,23 @@
 # Expert Name: Mark Williams-Cook
-# Post Title: Post unavailable
-# Post URL: https://www.linkedin.com/in/markseo/
+
+# Post Title: Mark Williams-Cook posted this Unsolicited #SEO tip: You can add UCP-compatible data attri...
+
+# Post URL: [https://www.linkedin.com/posts/markseo_seo-activity-7451974219858391040-Ujyn](https://www.linkedin.com/posts/markseo_seo-activity-7451974219858391040-Ujyn)
+
 # Publish Date: Unknown
+
 # Content Source: Public LinkedIn HTML
 
 ## Post Content
 
-Post unavailable.
-
-Reason: HTTP 999 while fetching https://www.linkedin.com/in/markseo/details/recent-activity/shares/
+Mark Williams-Cook posted this Unsolicited #SEO tip: You can add UCP-compatible data attributes like product Q&A, accessories, sizing guides, shipping details, and return policies to your Google Merchant Center product feeds. This lets AI agents in Search, Gemini, and Business chats access rich product info for seamless shopping. If you missed the memo Universal Commerce Protocol (UCP for the cool kids) is Google's new open standard announced in January for agentic commerce. It creates a common language so AI agents interact across platforms, shoppers, and payments, powering features like direct checkout on AI Mode in Search and Gemini app. More info in comments (click "recent" and scroll)
 
 ## Media Assets
 
+- Profile Photo URL: [https://media.licdn.com/dms/image/v2/D4E03AQGLlOJmEp_siQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731942579380?e=2147483647&v=beta&t=VX2xjhwnV2sdRfcYbbHzpFs-FLWueFtuacQrZRSxRTQ](https://media.licdn.com/dms/image/v2/D4E03AQGLlOJmEp_siQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731942579380?e=2147483647&v=beta&t=VX2xjhwnV2sdRfcYbbHzpFs-FLWueFtuacQrZRSxRTQ)
 
 ## Engagement Data
 
-* Likes / Reactions: Not displayed on public page
-* Comments: Not displayed on public page
-* Reposts: Not displayed on public page
+- Likes / Reactions: Not displayed on public page
+- Comments: Not displayed on public page
+- Reposts: Not displayed on public page
