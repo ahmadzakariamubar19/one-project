@@ -1,7 +1,8 @@
 # Expert Name: Chris Palmer
 # Video Title: Near Me Local Business SEO Strategies
 # Video URL: https://www.youtube.com/watch?v=9Gec6s3L7GQ
-# Publish Date: Unknown
+# Publish Date: 2026-03-30
+# Created Date: 2026-03-30
 
 # Video Statistics (if available):
 - Views: 644

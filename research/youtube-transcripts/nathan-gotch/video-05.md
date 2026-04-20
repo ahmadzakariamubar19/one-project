@@ -1,7 +1,8 @@
 # Expert Name: Nathan Gotch
 # Video Title: How to ACTUALLY Learn AI SEO (in 2026)
 # Video URL: https://www.youtube.com/watch?v=HzgMpTVJpz0
-# Publish Date: Unknown
+# Publish Date: 2026-03-14
+# Created Date: 2026-03-14
 
 # Video Statistics (if available):
 - Views: 2,106

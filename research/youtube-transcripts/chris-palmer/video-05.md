@@ -1,7 +1,8 @@
 # Expert Name: Chris Palmer
 # Video Title: Google Business Profile: Google Maps SEO Tips Course
 # Video URL: https://www.youtube.com/watch?v=m7tG4wuyukQ
-# Publish Date: Unknown
+# Publish Date: 2026-03-23
+# Created Date: 2026-03-23
 
 # Video Statistics (if available):
 - Views: 264

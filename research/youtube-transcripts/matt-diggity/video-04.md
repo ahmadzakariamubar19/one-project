@@ -1,7 +1,8 @@
 # Expert Name: Matt Diggity
 # Video Title: I Tried 3 Weird AI-SEO Techniques. Trash or Smash?
 # Video URL: https://www.youtube.com/watch?v=EItVZ5W5FUc
-# Publish Date: Unknown
+# Publish Date: 2025-07-23
+# Created Date: 2025-07-23
 
 # Video Statistics (if available):
 - Views: 9,552

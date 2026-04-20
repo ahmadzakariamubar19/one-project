@@ -1,7 +1,8 @@
 # Expert Name: Chris Palmer
 # Video Title: Google Maps Optimization Tips to SEO Google Business Profile Setup
 # Video URL: https://www.youtube.com/watch?v=qN1_yWxlnBA
-# Publish Date: Unknown
+# Publish Date: 2026-03-25
+# Created Date: 2026-03-25
 
 # Video Statistics (if available):
 - Views: 418

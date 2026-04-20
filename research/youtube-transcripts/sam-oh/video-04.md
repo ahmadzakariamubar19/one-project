@@ -1,7 +1,8 @@
 # Expert Name: Sam Oh
 # Video Title: How to Pick a Niche If You’re Just Starting Out (SEO)
 # Video URL: https://www.youtube.com/watch?v=PTe1TAuTXHI
-# Publish Date: Unknown
+# Publish Date: 2026-03-04
+# Created Date: 2026-03-04
 
 # Video Statistics (if available):
 - Views: 7,195

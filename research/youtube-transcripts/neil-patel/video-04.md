@@ -1,7 +1,8 @@
 # Expert Name: Neil Patel
 # Video Title: You Don't Have an SEO Problem. You Have a "Brand Entity" Problem.
 # Video URL: https://www.youtube.com/watch?v=QNLdhW6Wxs4
-# Publish Date: Unknown
+# Publish Date: 2026-03-25
+# Created Date: 2026-03-25
 
 # Video Statistics (if available):
 - Views: 10,417

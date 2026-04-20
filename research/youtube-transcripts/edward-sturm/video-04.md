@@ -1,7 +1,8 @@
 # Expert Name: Edward Sturm
 # Video Title: Deindexed Overnight: The SEO Nightmare That Wasn’t What It Seemed
 # Video URL: https://www.youtube.com/watch?v=nyT2L8m6Aco
-# Publish Date: Unknown
+# Publish Date: 2026-04-16
+# Created Date: 2026-04-16
 
 # Video Statistics (if available):
 - Views: 2,879

@@ -1,7 +1,8 @@
 # Expert Name: Matt Diggity
 # Video Title: I Let an AI Run my SEO Campaign. Here’s what happened…
 # Video URL: https://www.youtube.com/watch?v=xG9Vu9yrQzw
-# Publish Date: Unknown
+# Publish Date: 2025-10-29
+# Created Date: 2025-10-29
 
 # Video Statistics (if available):
 - Views: 9,297

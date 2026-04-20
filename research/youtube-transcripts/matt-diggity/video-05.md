@@ -1,7 +1,8 @@
 # Expert Name: Matt Diggity
 # Video Title: I did AI-SEO for ChatGPT and Google AI. Here’s what happened…
 # Video URL: https://www.youtube.com/watch?v=4GBlHObjOrY
-# Publish Date: Unknown
+# Publish Date: 2025-06-18
+# Created Date: 2025-06-18
 
 # Video Statistics (if available):
 - Views: 52,512

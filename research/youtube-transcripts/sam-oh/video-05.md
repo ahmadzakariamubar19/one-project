@@ -1,7 +1,8 @@
 # Expert Name: Sam Oh
 # Video Title: Keyword Research Tutorial for Google and AI SEO
 # Video URL: https://www.youtube.com/watch?v=KjK5-L-wDVg
-# Publish Date: Unknown
+# Publish Date: 2026-02-18
+# Created Date: 2026-02-18
 
 # Video Statistics (if available):
 - Views: 19,321

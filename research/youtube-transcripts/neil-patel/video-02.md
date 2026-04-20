@@ -1,7 +1,8 @@
 # Expert Name: Neil Patel
 # Video Title: How the Best Marketers Actually Use AI (Hint: It's Not a Prompt)
 # Video URL: https://www.youtube.com/watch?v=YOcciB2u4UY
-# Publish Date: Unknown
+# Publish Date: 2026-04-10
+# Created Date: 2026-04-10
 
 # Video Statistics (if available):
 - Views: 10,211
