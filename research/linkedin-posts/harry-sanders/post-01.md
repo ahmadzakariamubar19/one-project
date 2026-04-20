@@ -14,8 +14,13 @@ Harry Sanders shared this I've never been more confident about demand for SEO in
 
 ## Media Assets
 
-- Profile Photo URL: [https://media.licdn.com/dms/image/v2/C5603AQHdgK8U-Cuvgw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1534915480276?e=2147483647&v=beta&t=dm4kuSn_yenGInAwop2_DiQjaUPs8g_z3H4ChC16JNo](https://media.licdn.com/dms/image/v2/C5603AQHdgK8U-Cuvgw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1534915480276?e=2147483647&v=beta&t=dm4kuSn_yenGInAwop2_DiQjaUPs8g_z3H4ChC16JNo)
-- Post Image URL(s): [https://media.licdn.com/dms/image/v2/D4E22AQHPkffLlCsZAg/feedshare-shrink_1280/B4EZ2YkyeUI0AM-/0/1776381274399?e=2147483647&v=beta&t=FMZeu3nMOqZTT-K2cbanQxhrqB4BO8H3eciISkgOy64](https://media.licdn.com/dms/image/v2/D4E22AQHPkffLlCsZAg/feedshare-shrink_1280/B4EZ2YkyeUI0AM-/0/1776381274399?e=2147483647&v=beta&t=FMZeu3nMOqZTT-K2cbanQxhrqB4BO8H3eciISkgOy64)
+### Profile Photo
+
+![Profile photo](https://media.licdn.com/dms/image/v2/C5603AQHdgK8U-Cuvgw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1534915480276?e=2147483647&v=beta&t=dm4kuSn_yenGInAwop2_DiQjaUPs8g_z3H4ChC16JNo)
+
+### Post Images
+
+![Post image 1](https://media.licdn.com/dms/image/v2/D4E22AQHPkffLlCsZAg/feedshare-shrink_1280/B4EZ2YkyeUI0AM-/0/1776381274399?e=2147483647&v=beta&t=FMZeu3nMOqZTT-K2cbanQxhrqB4BO8H3eciISkgOy64)
 
 ## Engagement Data
 

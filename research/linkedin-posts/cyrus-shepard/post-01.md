@@ -14,8 +14,13 @@ Cyrus S. shared this Big change how Google's AI Mode opens links to your website
 
 ## Media Assets
 
-- Profile Photo URL: [https://media.licdn.com/dms/image/v2/D5603AQHCJo0jKHHVaQ/profile-displayphoto-scale_200_200/B56Zm_gyzmIYAc-/0/1759854669438?e=2147483647&v=beta&t=hVhuXtG8i3k_sH0DcCvU4hXDVTmEzigZyZfR4KqmMzk](https://media.licdn.com/dms/image/v2/D5603AQHCJo0jKHHVaQ/profile-displayphoto-scale_200_200/B56Zm_gyzmIYAc-/0/1759854669438?e=2147483647&v=beta&t=hVhuXtG8i3k_sH0DcCvU4hXDVTmEzigZyZfR4KqmMzk)
-- Post Image URL(s): [https://media.licdn.com/dms/image/v2/D5605AQEmeFWmKYdSEw/videocover-high/B56Z2cZcSEIsBY-/0/1776445410129?e=2147483647&v=beta&t=KYIfF8BzQfP2IJuIVT0uHhzFzM6bsyoSdUSuxMgy-ik](https://media.licdn.com/dms/image/v2/D5605AQEmeFWmKYdSEw/videocover-high/B56Z2cZcSEIsBY-/0/1776445410129?e=2147483647&v=beta&t=KYIfF8BzQfP2IJuIVT0uHhzFzM6bsyoSdUSuxMgy-ik)
+### Profile Photo
+
+Profile photo
+
+### Post Images
+
+Post image 1
 
 ## Engagement Data
 

@@ -10,8 +10,13 @@ Lawrence Hitches shared this Shoutout to Harry Sanders who's been cooking hard i
 
 ## Media Assets
 
-* Profile Photo URL: https://media.licdn.com/dms/image/v2/C5603AQH0st1FyLo6og/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1637404031631?e=2147483647&v=beta&t=AsqUhNkU3H-ajvqTk6qc9SNR2yeR1laqcKmucU6WtNk
-* Post Image URL(s): https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2
+### Profile Photo
+
+![Profile photo](https://media.licdn.com/dms/image/v2/C5603AQH0st1FyLo6og/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1637404031631?e=2147483647&v=beta&t=AsqUhNkU3H-ajvqTk6qc9SNR2yeR1laqcKmucU6WtNk)
+
+### Post Images
+
+![Post image 1](https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2)
 
 ## Engagement Data
 

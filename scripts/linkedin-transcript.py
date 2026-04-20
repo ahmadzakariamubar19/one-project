@@ -92,6 +92,76 @@ def clean_text(value: str) -> str:
     return re.sub(r"\s+", " ", value).strip()
 
 
+def is_direct_video_url(url: str) -> bool:
+    base = url.split("?", maxsplit=1)[0].lower()
+    return base.endswith((".mp4", ".webm", ".ogg", ".mov", ".m4v")) or "/videoplayback" in url.lower()
+
+
+def embed_image_markdown(alt: str, url: str) -> str:
+    safe_alt = alt.replace("[", "").replace("]", "")
+    return f"![{safe_alt}]({url})"
+
+
+def embed_video_html(url: str) -> str:
+    escaped = url.replace('"', "&quot;")
+    return (
+        f'<video controls width="100%" preload="metadata">'
+        f'<source src="{escaped}" type="video/mp4">'
+        f"Your browser does not support embedded video."
+        f"</video>"
+    )
+
+
+def build_media_assets_lines(
+    media_profile_photo_url: str,
+    media_profile_banner_url: str,
+    media_post_image_urls: List[str],
+    media_carousel_slide_urls: List[str],
+    media_video_thumbnail_url: str,
+    media_document_preview_url: str,
+) -> List[str]:
+    """Embedded images / playable video only; no raw URL lists. Empty section if no media."""
+    parts: List[str] = []
+    if media_profile_photo_url:
+        parts.extend(["### Profile Photo", "", embed_image_markdown("Profile photo", media_profile_photo_url), ""])
+    if media_profile_banner_url:
+        parts.extend(["### Profile Banner", "", embed_image_markdown("Profile banner", media_profile_banner_url), ""])
+    if media_post_image_urls:
+        parts.append("### Post Images")
+        parts.append("")
+        for idx, img_url in enumerate(media_post_image_urls, start=1):
+            parts.append(embed_image_markdown(f"Post image {idx}", img_url))
+            parts.append("")
+    if media_carousel_slide_urls:
+        parts.append("### Carousel")
+        parts.append("")
+        for idx, img_url in enumerate(media_carousel_slide_urls, start=1):
+            parts.append(embed_image_markdown(f"Slide {idx}", img_url))
+            parts.append("")
+    if media_video_thumbnail_url:
+        parts.append("### Video")
+        parts.append("")
+        if is_direct_video_url(media_video_thumbnail_url):
+            parts.append(embed_video_html(media_video_thumbnail_url))
+        else:
+            parts.append(embed_image_markdown("Video preview", media_video_thumbnail_url))
+        parts.append("")
+    if media_document_preview_url:
+        parts.append("### Document Preview")
+        parts.append("")
+        if is_direct_video_url(media_document_preview_url):
+            parts.append(embed_video_html(media_document_preview_url))
+        else:
+            parts.append(embed_image_markdown("Document preview", media_document_preview_url))
+        parts.append("")
+
+    if not parts:
+        return ["", "## Media Assets", ""]
+    while parts and parts[-1] == "":
+        parts.pop()
+    return ["", "## Media Assets", ""] + parts + [""]
+
+
 def unique_preserve_order(values: List[str]) -> List[str]:
     seen: Set[str] = set()
     ordered: List[str] = []
@@ -347,24 +417,16 @@ def write_post_file(
         if failure_reason:
             message += f"\n\nReason: {failure_reason}"
         lines.append(message)
-    media_lines = ["", "## Media Assets", ""]
-    if media_profile_photo_url:
-        media_lines.append(f"* Profile Photo URL: {media_profile_photo_url}")
-    if media_profile_banner_url:
-        media_lines.append(f"* Profile Banner URL: {media_profile_banner_url}")
-    if media_post_image_urls:
-        media_lines.append(f"* Post Image URL(s): {', '.join(media_post_image_urls)}")
-    if media_carousel_slide_urls:
-        media_lines.append(
-            f"* Carousel Slide Image URL(s): {', '.join(media_carousel_slide_urls)}"
+    lines.extend(
+        build_media_assets_lines(
+            media_profile_photo_url,
+            media_profile_banner_url,
+            media_post_image_urls,
+            media_carousel_slide_urls,
+            media_video_thumbnail_url,
+            media_document_preview_url,
         )
-    if media_video_thumbnail_url:
-        media_lines.append(f"* Video Thumbnail URL: {media_video_thumbnail_url}")
-    if media_document_preview_url:
-        media_lines.append(
-            f"* Attached Document Preview URL: {media_document_preview_url}"
-        )
-    lines.extend(media_lines)
+    )
     lines.extend(
         [
             "",
@@ -376,6 +438,93 @@ def write_post_file(
         ]
     )
     file_path.write_text("\n".join(lines).strip() + "\n", encoding="utf-8")
+
+
+def _legacy_media_line_urls(line: str) -> List[str]:
+    stripped = re.sub(r"^[-*]\s*", "", line.strip())
+    urls: List[str] = []
+    for match in re.finditer(r"\((https?://[^)]+)\)", stripped):
+        urls.append(match.group(1))
+    if not urls:
+        for match in re.finditer(r"https?://[^\s\])>,]+", stripped):
+            urls.append(match.group(0).rstrip(",.;"))
+    return unique_preserve_order(urls)
+
+
+def migrate_post_file_embedded_media(file_path: Path) -> bool:
+    """Rewrite legacy URL-list Media Assets to embedded images / video HTML."""
+    text = file_path.read_text(encoding="utf-8")
+    match = re.search(
+        r"(?ms)^## Media Assets\s*\n.*?(?=^## Engagement Data\s*$)",
+        text,
+    )
+    if not match:
+        return False
+    section = match.group(0)
+    legacy_markers = (
+        "Profile Photo URL",
+        "Profile Banner URL",
+        "Post Image URL",
+        "Carousel Slide",
+        "Video Thumbnail URL",
+        "Attached Document",
+    )
+    if not any(marker in section for marker in legacy_markers):
+        return False
+    section_lines = section.splitlines()
+    body = "\n".join(section_lines[1:]) if len(section_lines) > 1 else ""
+    profile_photo = ""
+    banner = ""
+    post_images: List[str] = []
+    carousel: List[str] = []
+    video_thumb = ""
+    doc_prev = ""
+
+    for raw in body.splitlines():
+        line = raw.strip()
+        if not line:
+            continue
+        urls = _legacy_media_line_urls(raw)
+        if not urls:
+            continue
+        upper = line.upper()
+        if "PROFILE PHOTO" in upper:
+            profile_photo = urls[0]
+        elif "PROFILE BANNER" in upper:
+            banner = urls[0]
+        elif "CAROUSEL" in upper or "SLIDE IMAGE" in upper:
+            carousel.extend(urls)
+        elif "POST IMAGE" in upper:
+            post_images.extend(urls)
+        elif "DOCUMENT" in upper:
+            doc_prev = urls[0]
+        elif "VIDEO" in upper:
+            video_thumb = urls[0]
+
+    new_lines = build_media_assets_lines(
+        profile_photo,
+        banner,
+        unique_preserve_order(post_images),
+        unique_preserve_order(carousel),
+        video_thumb,
+        doc_prev,
+    )
+    new_block = "\n".join(new_lines).lstrip("\n").rstrip() + "\n\n"
+    new_text = text[: match.start()] + new_block + text[match.end() :]
+    if new_text == text:
+        return False
+    file_path.write_text(new_text, encoding="utf-8")
+    return True
+
+
+def migrate_all_linkedin_post_media() -> int:
+    updated = 0
+    for path in sorted(OUTPUT_DIR.glob("*/*.md")):
+        if not path.name.startswith("post-"):
+            continue
+        if migrate_post_file_embedded_media(path):
+            updated += 1
+    return updated
 
 
 def save_prompt_record() -> None:
@@ -643,4 +792,9 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+
+    if len(sys.argv) > 1 and sys.argv[1] == "--migrate-media":
+        print(f"migrated_files={migrate_all_linkedin_post_media()}")
+    else:
+        main()

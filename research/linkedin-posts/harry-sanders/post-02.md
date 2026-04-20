@@ -14,8 +14,13 @@ Harry Sanders shared this I've been doing SEO for over a decade and worked with 
 
 ## Media Assets
 
-- Profile Photo URL: [https://media.licdn.com/dms/image/v2/C5603AQHdgK8U-Cuvgw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1534915480276?e=2147483647&v=beta&t=dm4kuSn_yenGInAwop2_DiQjaUPs8g_z3H4ChC16JNo](https://media.licdn.com/dms/image/v2/C5603AQHdgK8U-Cuvgw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1534915480276?e=2147483647&v=beta&t=dm4kuSn_yenGInAwop2_DiQjaUPs8g_z3H4ChC16JNo)
-- Post Image URL(s): [https://media.licdn.com/dms/image/v2/D4E05AQEgKVUKIgourg/feedshare-thumbnail_720_1280/B4EZ2Tq4tOG0A4-/0/1776298989146?e=2147483647&v=beta&t=ApcUtg5Oet2EZRTm93i3_uJ3sS3u7HY8cvqDgBwhzzg](https://media.licdn.com/dms/image/v2/D4E05AQEgKVUKIgourg/feedshare-thumbnail_720_1280/B4EZ2Tq4tOG0A4-/0/1776298989146?e=2147483647&v=beta&t=ApcUtg5Oet2EZRTm93i3_uJ3sS3u7HY8cvqDgBwhzzg)
+### Profile Photo
+
+![Profile photo](https://media.licdn.com/dms/image/v2/C5603AQHdgK8U-Cuvgw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1534915480276?e=2147483647&v=beta&t=dm4kuSn_yenGInAwop2_DiQjaUPs8g_z3H4ChC16JNo)
+
+### Post Images
+
+![Post image 1](https://media.licdn.com/dms/image/v2/D4E05AQEgKVUKIgourg/feedshare-thumbnail_720_1280/B4EZ2Tq4tOG0A4-/0/1776298989146?e=2147483647&v=beta&t=ApcUtg5Oet2EZRTm93i3_uJ3sS3u7HY8cvqDgBwhzzg)
 
 ## Engagement Data
 

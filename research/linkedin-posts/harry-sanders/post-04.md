@@ -10,8 +10,13 @@ Harry Sanders shared this I know this will sound wrong, but after 50,000 hours o
 
 ## Media Assets
 
-* Profile Photo URL: https://media.licdn.com/dms/image/v2/C5603AQHdgK8U-Cuvgw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1534915480276?e=2147483647&v=beta&t=dm4kuSn_yenGInAwop2_DiQjaUPs8g_z3H4ChC16JNo
-* Post Image URL(s): https://media.licdn.com/dms/image/v2/D4E22AQEYrqP_3omzaw/feedshare-shrink_800/B4EZ2JOrK1HsAg-/0/1776123823384?e=2147483647&v=beta&t=_8vDJiQ4PIxXa3hnuBaTYoD-keTd5GRDtnH61xTH5qs
+### Profile Photo
+
+![Profile photo](https://media.licdn.com/dms/image/v2/C5603AQHdgK8U-Cuvgw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1534915480276?e=2147483647&v=beta&t=dm4kuSn_yenGInAwop2_DiQjaUPs8g_z3H4ChC16JNo)
+
+### Post Images
+
+![Post image 1](https://media.licdn.com/dms/image/v2/D4E22AQEYrqP_3omzaw/feedshare-shrink_800/B4EZ2JOrK1HsAg-/0/1776123823384?e=2147483647&v=beta&t=_8vDJiQ4PIxXa3hnuBaTYoD-keTd5GRDtnH61xTH5qs)
 
 ## Engagement Data
 

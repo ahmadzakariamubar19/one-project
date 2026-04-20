@@ -14,8 +14,13 @@ Cyrus S. shared this Listen, I don't want to put down anybody's LLMs.txt files, 
 
 ## Media Assets
 
-- Profile Photo URL: [https://media.licdn.com/dms/image/v2/D5603AQHCJo0jKHHVaQ/profile-displayphoto-scale_200_200/B56Zm_gyzmIYAc-/0/1759854669438?e=2147483647&v=beta&t=hVhuXtG8i3k_sH0DcCvU4hXDVTmEzigZyZfR4KqmMzk](https://media.licdn.com/dms/image/v2/D5603AQHCJo0jKHHVaQ/profile-displayphoto-scale_200_200/B56Zm_gyzmIYAc-/0/1759854669438?e=2147483647&v=beta&t=hVhuXtG8i3k_sH0DcCvU4hXDVTmEzigZyZfR4KqmMzk)
-- Post Image URL(s): [https://media.licdn.com/dms/image/v2/D5622AQFI5Ep8G-_URQ/feedshare-shrink_1280/B56Z2XYeOOIYAM-/0/1776361268448?e=2147483647&v=beta&t=wMvATonk420zdlesP6gH8fBYW7BzN_LHfKd88CSJPyY](https://media.licdn.com/dms/image/v2/D5622AQFI5Ep8G-_URQ/feedshare-shrink_1280/B56Z2XYeOOIYAM-/0/1776361268448?e=2147483647&v=beta&t=wMvATonk420zdlesP6gH8fBYW7BzN_LHfKd88CSJPyY)
+### Profile Photo
+
+Profile photo
+
+### Post Images
+
+Post image 1
 
 ## Engagement Data
 

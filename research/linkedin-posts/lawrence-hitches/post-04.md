@@ -10,8 +10,13 @@ Lawrence Hitches shared this Had the pleasure of joining the UTS Digital Marketi
 
 ## Media Assets
 
-* Profile Photo URL: https://media.licdn.com/dms/image/v2/C5603AQH0st1FyLo6og/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1637404031631?e=2147483647&v=beta&t=AsqUhNkU3H-ajvqTk6qc9SNR2yeR1laqcKmucU6WtNk
-* Post Image URL(s): https://media.licdn.com/dms/image/v2/D5622AQFAlcqeHAfkTg/feedshare-shrink_800/B56Z0tI7DYHEAg-/0/1774578807306?e=2147483647&v=beta&t=HXUvKLGBo9iFM-9CSrFdHOaOcRpLfSObH8L9I3Dvgg8
+### Profile Photo
+
+![Profile photo](https://media.licdn.com/dms/image/v2/C5603AQH0st1FyLo6og/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1637404031631?e=2147483647&v=beta&t=AsqUhNkU3H-ajvqTk6qc9SNR2yeR1laqcKmucU6WtNk)
+
+### Post Images
+
+![Post image 1](https://media.licdn.com/dms/image/v2/D5622AQFAlcqeHAfkTg/feedshare-shrink_800/B56Z0tI7DYHEAg-/0/1774578807306?e=2147483647&v=beta&t=HXUvKLGBo9iFM-9CSrFdHOaOcRpLfSObH8L9I3Dvgg8)
 
 ## Engagement Data
 

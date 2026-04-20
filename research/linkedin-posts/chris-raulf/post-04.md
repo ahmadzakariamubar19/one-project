@@ -10,8 +10,13 @@ Chris Raulf shared this On April 13 I'm standing on stage in Berlin at Globaliza
 
 ## Media Assets
 
-* Profile Photo URL: https://media.licdn.com/dms/image/v2/D5603AQFAT66ro1F2tQ/profile-displayphoto-shrink_200_200/B56ZWwgkd5GoAY-/0/1742423083194?e=2147483647&v=beta&t=paoyRHLpOpCHXjaP9kMBHFxZQO00NtNn2eOHe_UhRm4
-* Post Image URL(s): https://media.licdn.com/dms/image/sync/v2/D5627AQHYNQTIgtdw1w/articleshare-shrink_1280_800/B56ZxSoPdaH8AQ-/0/1770912807727?e=2147483647&v=beta&t=NNkdn7xgRdajMOf-wMnLL1zBFqWIGJ8YmlDnbpZsunA
+### Profile Photo
+
+![Profile photo](https://media.licdn.com/dms/image/v2/D5603AQFAT66ro1F2tQ/profile-displayphoto-shrink_200_200/B56ZWwgkd5GoAY-/0/1742423083194?e=2147483647&v=beta&t=paoyRHLpOpCHXjaP9kMBHFxZQO00NtNn2eOHe_UhRm4)
+
+### Post Images
+
+![Post image 1](https://media.licdn.com/dms/image/sync/v2/D5627AQHYNQTIgtdw1w/articleshare-shrink_1280_800/B56ZxSoPdaH8AQ-/0/1770912807727?e=2147483647&v=beta&t=NNkdn7xgRdajMOf-wMnLL1zBFqWIGJ8YmlDnbpZsunA)
 
 ## Engagement Data
 

@@ -14,8 +14,13 @@ Chris Raulf shared this Video production doesn't have to be slow, expensive, or 
 
 ## Media Assets
 
-- Profile Photo URL: [https://media.licdn.com/dms/image/v2/D5603AQFAT66ro1F2tQ/profile-displayphoto-shrink_200_200/B56ZWwgkd5GoAY-/0/1742423083194?e=2147483647&v=beta&t=paoyRHLpOpCHXjaP9kMBHFxZQO00NtNn2eOHe_UhRm4](https://media.licdn.com/dms/image/v2/D5603AQFAT66ro1F2tQ/profile-displayphoto-shrink_200_200/B56ZWwgkd5GoAY-/0/1742423083194?e=2147483647&v=beta&t=paoyRHLpOpCHXjaP9kMBHFxZQO00NtNn2eOHe_UhRm4)
-- Video Thumbnail URL: [https://media.licdn.com/dms/image/v2/D4E12AQEhpB7XEAZcTQ/article-cover_image-shrink_720_1280/B4EZ2VEKa.JkAI-/0/1776322397679?e=2147483647&v=beta&t=e0JNcmCFO3YzaTMDo0VXJkWb74-7yIRMVNFGdIIjLH8](https://media.licdn.com/dms/image/v2/D4E12AQEhpB7XEAZcTQ/article-cover_image-shrink_720_1280/B4EZ2VEKa.JkAI-/0/1776322397679?e=2147483647&v=beta&t=e0JNcmCFO3YzaTMDo0VXJkWb74-7yIRMVNFGdIIjLH8)
+### Profile Photo
+
+Profile photo
+
+### Video
+
+Video preview
 
 ## Engagement Data
 

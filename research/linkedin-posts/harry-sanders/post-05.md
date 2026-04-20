@@ -10,8 +10,13 @@ Harry Sanders shared this If you're a gamer and running a business you'll 100% g
 
 ## Media Assets
 
-* Profile Photo URL: https://media.licdn.com/dms/image/v2/C5603AQHdgK8U-Cuvgw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1534915480276?e=2147483647&v=beta&t=dm4kuSn_yenGInAwop2_DiQjaUPs8g_z3H4ChC16JNo
-* Post Image URL(s): https://media.licdn.com/dms/image/v2/D4E22AQHPFOx0YCKh3A/feedshare-shrink_2048_1536/B4EZ12AzEjJwAk-/0/1775801415044?e=2147483647&v=beta&t=Xd6PyoU0ZY7pJ36gNKI8Fgoh_vIYxBoUJ80ygMzGb-0
+### Profile Photo
+
+![Profile photo](https://media.licdn.com/dms/image/v2/C5603AQHdgK8U-Cuvgw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1534915480276?e=2147483647&v=beta&t=dm4kuSn_yenGInAwop2_DiQjaUPs8g_z3H4ChC16JNo)
+
+### Post Images
+
+![Post image 1](https://media.licdn.com/dms/image/v2/D4E22AQHPFOx0YCKh3A/feedshare-shrink_2048_1536/B4EZ12AzEjJwAk-/0/1775801415044?e=2147483647&v=beta&t=Xd6PyoU0ZY7pJ36gNKI8Fgoh_vIYxBoUJ80ygMzGb-0)
 
 ## Engagement Data
 

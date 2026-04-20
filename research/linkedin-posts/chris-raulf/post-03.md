@@ -14,8 +14,13 @@ Chris Raulf shared this I published a 100% AI-generated blog post on April 4th u
 
 ## Media Assets
 
-- Profile Photo URL: [https://media.licdn.com/dms/image/v2/D5603AQFAT66ro1F2tQ/profile-displayphoto-shrink_200_200/B56ZWwgkd5GoAY-/0/1742423083194?e=2147483647&v=beta&t=paoyRHLpOpCHXjaP9kMBHFxZQO00NtNn2eOHe_UhRm4](https://media.licdn.com/dms/image/v2/D5603AQFAT66ro1F2tQ/profile-displayphoto-shrink_200_200/B56ZWwgkd5GoAY-/0/1742423083194?e=2147483647&v=beta&t=paoyRHLpOpCHXjaP9kMBHFxZQO00NtNn2eOHe_UhRm4)
-- Post Image URL(s): [https://media.licdn.com/dms/image/v2/D4E12AQFn0GFuJHJbHA/article-cover_image-shrink_720_1280/B4EZ1yVrDxG8AI-/0/1775739781179?e=2147483647&v=beta&t=PiIsk5gv_pxf7mfT2PIMd2C8JrdGFDao9RSPG1P39nk](https://media.licdn.com/dms/image/v2/D4E12AQFn0GFuJHJbHA/article-cover_image-shrink_720_1280/B4EZ1yVrDxG8AI-/0/1775739781179?e=2147483647&v=beta&t=PiIsk5gv_pxf7mfT2PIMd2C8JrdGFDao9RSPG1P39nk)
+### Profile Photo
+
+Profile photo
+
+### Post Images
+
+Post image 1
 
 ## Engagement Data
 

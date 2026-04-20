@@ -14,7 +14,9 @@ Mark Williams-Cook posted this SEO updates you ✨NEED✨ to know [20 April]: �
 
 ## Media Assets
 
-- Profile Photo URL: [https://media.licdn.com/dms/image/v2/D4E03AQGLlOJmEp_siQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731942579380?e=2147483647&v=beta&t=VX2xjhwnV2sdRfcYbbHzpFs-FLWueFtuacQrZRSxRTQ](https://media.licdn.com/dms/image/v2/D4E03AQGLlOJmEp_siQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731942579380?e=2147483647&v=beta&t=VX2xjhwnV2sdRfcYbbHzpFs-FLWueFtuacQrZRSxRTQ)
+### Profile Photo
+
+![Profile photo](https://media.licdn.com/dms/image/v2/D4E03AQGLlOJmEp_siQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731942579380?e=2147483647&v=beta&t=VX2xjhwnV2sdRfcYbbHzpFs-FLWueFtuacQrZRSxRTQ)
 
 ## Engagement Data
 

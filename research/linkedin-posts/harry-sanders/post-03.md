@@ -14,8 +14,13 @@ Harry Sanders shared this I run a $20,000,000 SEO agency, most of our leads come
 
 ## Media Assets
 
-- Profile Photo URL: [https://media.licdn.com/dms/image/v2/C5603AQHdgK8U-Cuvgw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1534915480276?e=2147483647&v=beta&t=dm4kuSn_yenGInAwop2_DiQjaUPs8g_z3H4ChC16JNo](https://media.licdn.com/dms/image/v2/C5603AQHdgK8U-Cuvgw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1534915480276?e=2147483647&v=beta&t=dm4kuSn_yenGInAwop2_DiQjaUPs8g_z3H4ChC16JNo)
-- Post Image URL(s): [https://media.licdn.com/dms/image/v2/D4E05AQG_ct8VWT9OoA/videocover-high/B4EZ2PEC5jHYBY-/0/1776221698756?e=2147483647&v=beta&t=eY9LAKVNt4hSTdmKYupzFlzLRGQSIOQPzroD8j0M3wk](https://media.licdn.com/dms/image/v2/D4E05AQG_ct8VWT9OoA/videocover-high/B4EZ2PEC5jHYBY-/0/1776221698756?e=2147483647&v=beta&t=eY9LAKVNt4hSTdmKYupzFlzLRGQSIOQPzroD8j0M3wk)
+### Profile Photo
+
+![Profile photo](https://media.licdn.com/dms/image/v2/C5603AQHdgK8U-Cuvgw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1534915480276?e=2147483647&v=beta&t=dm4kuSn_yenGInAwop2_DiQjaUPs8g_z3H4ChC16JNo)
+
+### Post Images
+
+![Post image 1](https://media.licdn.com/dms/image/v2/D4E05AQG_ct8VWT9OoA/videocover-high/B4EZ2PEC5jHYBY-/0/1776221698756?e=2147483647&v=beta&t=eY9LAKVNt4hSTdmKYupzFlzLRGQSIOQPzroD8j0M3wk)
 
 ## Engagement Data
 
