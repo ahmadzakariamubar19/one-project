@@ -6,20 +6,106 @@
 
 # Publish Date: Unknown
 
-# Transcript Source: N/A
+# Video Statistics (if available):
+
+- Views: 328
+- Likes: 18
+- Comments: 2
+- Duration: 03:04
+
+# Transcript Source: Supadata
 
 ## Transcript
 
-Transcript unavailable.
-
-Reason: Supadata: Supadata request failed (429); youtube-transcript-api: Free method error: 
-Could not retrieve a transcript for the video [https://www.youtube.com/watch?v=QXDPJ53Wvfk](https://www.youtube.com/watch?v=QXDPJ53Wvfk)! This is most likely caused by:
-
-YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
-
-- You have done too many requests and your IP has been blocked by YouTube
-- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
-
-Ways to work around this are explained in the "Working around IP bans" section of the README ([https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception](https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception)).
-
-If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at [https://github.com/jdepoix/youtube-transcript-api/issues](https://github.com/jdepoix/youtube-transcript-api/issues). Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!; yt-dlp auto subtitles: yt-dlp found no subtitles or auto-captions
+So, back in the day, ranking number
+three in Google used to be a huge win,
+but not anymore. So, when we look at the
+traditional search results, you don't
+want to just view it the way that I'm
+currently viewing it here in
+Rankability, because the way this
+appears is that if you're ranking number
+three, you might be able to score some
+clicks. But, the reality of it is when
+we expand the AI overview, we see what
+happens. Okay, we see that number three
+result gets completely buried below the
+fold. when you're thinking about when
+you're trying to determine what keywords
+actually go after, you have to really
+think about the estimated clicks that
+you're going to get for that keyword.
+That should be a part of your
+prioritization technique. So, even in
+this scenario, if I was trying to
+determine if I should go after this
+keyword, I'm really going to be looking
+at it. Let's say the number one spot
+gets roughly 30% CTR just for the
+traditional blue links. If we exclude
+all the SERP features and we're just
+looking at the traditional blue links,
+number one result gets about 30% CTR.
+For example, we can see discussion in
+forums. This only takes up a small
+amount of real estate on the first page,
+but AI overviews takes up way more real
+estate, and it's way more impactful cuz
+someone can actually get their answer
+right on the spot, which further
+incentivizes them to not click at all.
+So, the this is much more devastating to
+CTR than just having discussion in
+forums, cuz this doesn't actually solve
+anything for them. It's just an
+opportunity for them to explore even
+further. But, this actually can solve
+the searcher's problem, which then gives
+them even just more reason to not click,
+okay? So, when we're looking at this,
+you have to really be thinking about
+this. How much is it going to be worth
+being number three? Or, if it's really
+competitive, like maybe you can't even
+get to number one cuz it's going to
+require so many backlinks and so much
+authority to get there, because it
+ranking just to rank is not the goal
+here. We are ranking with clear
+objectives to actually help grow the
+business. And in this case, if you know,
+this particular page that we have here
+that's ranking, is there a good reason
+to push this up to number one?
+Absolutely. But, even it at number one,
+you look at the situation, you're
+sandwiched between two huge SERP
+features. So, it's more about lowering
+your expectations as far as the amount
+of organic traffic you're going to get
+just for that one singular phrase. Now,
+of course, when you combine all the
+keyword variants and everything else,
+yeah, that can help accumulate more
+clicks, but this is something you really
+have to be thinking about. In
+Rankability, we already measured this
+specifically, so part of our keyword
+opportunity score that we've built,
+we're already thinking about organic
+CTR. So, the way that it works is it
+looks at how many SERP features are
+present. We have certain weightings
+towards certain SERP features, like for
+example, AI overviews is weighted much
+more heavy as far as the reduction in
+CTR. This is why we bake this into the
+keyword opportunity score, because it's
+such a critical component here. So, make
+sure that you're doing a full analysis
+of the SERPs. Don't just look at the 10
+blue links. Really look what you're
+competing against. And when I say
+competing, you are competing for clicks.
+These SERP features are your competition
+for clicks.

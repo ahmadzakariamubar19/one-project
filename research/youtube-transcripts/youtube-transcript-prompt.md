@@ -28,11 +28,13 @@ You MUST use a fallback system in this order:
 3. Tertiary: yt-dlp auto-generated subtitles
 
 If one method fails or returns partial transcript:
+
 - Automatically retry using the next method
 - Do NOT stop after first failure
 - Ensure final output is FULL transcript before marking success
 
 If transcript is returned in segments or chunks:
+
 - You MUST iterate through ALL segments
 - You MUST concatenate all segments in correct chronological order
 - You MUST NOT stop after the first chunk
@@ -93,6 +95,7 @@ Example format:
 [00:01:02] transcript text
 
 Rules:
+
 - Do not use raw second values like [12321:20]
 - Always convert timestamps into proper HH:MM:SS format
 - Ensure timestamps are sequential and consistent.
