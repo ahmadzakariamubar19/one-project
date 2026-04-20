@@ -1,529 +1,609 @@
-# Expert Name: Nathan Gotch
-# Video Title: Local SEO & AI Search Masterclass for 2026
-# Video URL: https://www.youtube.com/watch?v=53h_-LoEGiw
-# Publish Date: Unknown
-# Transcript Source: Supadata
+# Expert Name
+
+Nathan Gotch
+
+# Video Title
+
+Important Change to SEO (New Google Algorithm Update)
+
+# Video URL
+
+https://www.youtube.com/watch?v=qhxbngpPXYQ
+
+# Publish Date
+
+Unknown
+
+# Transcript Source
+
+Supadata YouTube Transcript API
 
 ## Transcript
 
-[01:20] If you want better local SEO results,
-[42:40] you need to win on Google. But in 2026,
-[01:35:59] you can't ignore other platforms that
-[02:05:20] influence visibility. That's why the
-[02:32:00] real play now is search everywhere
-[03:15:59] optimization. My name is Nathan Gotch,
-[03:46:39] and I've led hundreds of successful SEO
-[04:25:20] and local SEO campaigns since 2013, and
-[05:16:00] my systems are used by thousands of SEO
-[05:57:19] professionals and agencies worldwide.
-[06:23:59] Let's get right into it. I'm going to be
-[06:42:40] building a local SEO strategy from
-[07:21:20] scratch in less than 30 minutes. So, I
-[08:05:19] picked a random business in Bowwin,
-[08:53:20] Missouri. Right away, when we look at
-[09:20:00] this particular Google business profile,
-[09:53:20] it's got some good stuff going for it,
-[10:18:40] but it has some there's a glaring
-[10:50:40] opportunity that we're looking at right
-[11:12:00] here. As you can tell, they service the
-[11:43:59] city of Bowwin, but when we look at
-[12:32:00] their preferred location, they're
-[13:03:59] actually preferring Chesterfield. This
-[13:46:40] is a big mistake. And you can see their
-[14:27:59] address is actually in Bowwin. They they
-[15:08:00] are situated in the city of Bowwin, but
-[15:47:59] yet the Google business profile is
-[16:17:20] optimized for Chesterfield. So this is
-[16:53:20] as simple as literally going to the
-[17:14:39] Google business profile, just switching
-[17:44:00] it to Bowwin, and boom, performance will
-[18:22:39] probably jump five five to seven spots
-[19:11:59] in the Google business profile in the
-[19:48:00] local pack. And plus, they have a lot of
-[20:21:20] reviews, right? Nearly 700 reviews. So
-[21:10:40] just a simple switch on that can just
-[21:45:20] like immediately improve their
-[22:08:00] performance. Aside from that, everything
-[22:37:19] else looks pretty solid. I think they
-[22:59:59] could add maybe more visual depth and
-[23:40:00] enhance the profile a little bit, but at
-[24:11:59] the end of the day, just make sure
-[24:34:39] you're targeting Ballwin and that's
-[25:05:20] going to do most of the heavy lifting
-[25:26:40] there in the Google business profile and
-[25:50:40] continue to drive reviews consistently.
-[26:22:40] Now, going back to that, whenever you
-[27:09:19] start one of these campaigns, what you
-[27:34:40] don't want to do is start taking action
-[28:13:20] right away. If you see something you're
-[28:34:40] like, I'm just going to go fix this
-[28:53:20] right away. I would hold off on doing
-[29:21:20] that. Especially if you're working with,
-[29:46:40] let's say, this was my client, it's
-[30:18:39] smart to go and get a benchmark report.
-[30:49:20] go and benchmark the information and the
-[31:37:20] performance before you start acting. So
-[32:08:00] at least you can see the performance
-[32:36:00] gains over time. So what I do is I set
-[33:21:19] up tracking and you go into your
-[33:58:40] preferred tracking software. But the key
-[34:37:20] thing here is no matter what you're
-[34:58:40] tracking, you have to track multiple
-[35:37:19] surfaces, multiple search surfaces,
-[36:10:39] especially for local. The first one that
-[36:34:40] matters the most is local pack. Okay, so
-[37:02:40] you can see here we're tracking dentists
-[37:38:40] in Bowwin, Missouri. Okay, so they're
-[38:20:00] number 20 for dentist Bowwin, Missouri.
-[38:57:19] They literally have a location in Bowwin
-[39:40:00] and they're still losing dramatically
-[40:15:59] and they actually have more reviews than
-[40:52:00] a lot of the top competitors. That
-[41:25:20] location switch, I hate to use the word
-[42:06:39] guarantee when it comes to SEO, but I've
-[42:33:20] just seen this so many times and how
-[43:08:00] effective this will be. Changing a
-[43:45:19] location to the correct location or
-[44:17:20] changing a category to the correct
-[44:46:40] category. Sometimes you can see a lift
-[45:21:20] of five, sometimes even 10 spots just
-[46:04:00] for one second of work. Okay? So, I'm
-[46:43:59] telling you, if they just change this,
-[47:10:40] boom, they're going to pop up probably
-[47:39:59] top 10 at least in the local pack, okay?
-[48:21:20] And then they just got to keep shipping
-[48:41:20] away there. But that's a very simple
-[49:12:00] thing. And then you can even see in the
-[49:33:20] grid here, it's causing a lot of
-[50:03:59] problems for them because they've
-[50:24:00] optimized for Chesterfield. So, they're
-[50:50:40] just not doing really well in the
-[51:28:00] location that they're actually
-[51:49:20] servicing. And then aside from that,
-[52:13:20] we'll go and check their category. So,
-[52:36:00] they got the right category, dentist.
-[53:00:00] So, they're good to go on that. All
-[53:22:39] right. Now, in addition to the local
-[54:02:40] pack, we know that to influence local
-[54:37:20] pack, we are going to focus just on the
-[55:12:00] Google business profile, right? That's
-[55:34:40] one of the key things. Now, there's a
-[55:57:20] bunch of other secondary variables that
-[56:26:40] we should consider outside of the Google
-[56:55:59] business profile, but we'll be talking
-[57:17:19] about here in a second. But we also want
-[57:46:40] to be tracking traditional search,
-[58:11:59] right? How are they doing in traditional
-[58:35:59] search? And we see here there's
-[59:12:00] opportunity, right? Like they they have
-[59:44:00] competitors that are beating them across
-[60:09:20] multiple search engines and they're
-[60:56:00] doing okay, but there's room to improve.
-[61:31:59] And I'll show you some of the gaps that
-[62:06:39] exist in the traditional search results.
-[62:42:40] But remember, on the local level, you
-[63:18:40] really want to be thinking about just
-[63:45:19] dominating the first page and trying to
-[64:17:20] occupy as much SER real estate as you
-[64:49:20] possibly can. So you want to hit that
-[65:20:00] local pack. You want to rank in the
-[65:52:00] traditional search results. And you also
-[66:18:40] want to rank on other websites in the
-[67:05:19] search results as well, not just your
-[67:32:00] website. We'll talk about that here in a
-[67:58:40] second. And then the AI answers. Okay,
-[68:41:20] this is absolutely critical. If you've
-[69:09:19] been doing SEO the way you should be
-[69:42:39] over the last 2 to 3 years, you should
-[70:25:19] be thinking about your brand or your
-[70:59:59] client's visibility inside of AI
-[71:42:40] answers. So, you can see here they're
-[72:11:59] actually doing really well. They're
-[72:33:19] visible across four different AI
-[73:13:20] platforms. They're not visible across
-[73:49:19] chat GBT, which is the one that really
-[74:18:40] matters the most here. But you can see
-[74:48:00] they're doing quite well, right? Like
-[75:12:00] Gemini Perplexi Claude Grock they're
-[75:53:19] doing well. All right, there's room to
-[76:20:00] improve, but they're doing pretty well.
-[76:41:20] And that's a good sign. All right. Then
-[77:09:19] we also want to see AI citations. All
-[77:38:40] right. This is a big one here because
-[78:04:00] first of all, we want to be one of the
-[78:45:20] sided sources. So you want to try to
-[79:14:40] your own website try to be one of those
-[79:44:00] citation sources, one of those sources
-[80:16:00] of retrieval, but we also want to be
-[80:48:00] looking at the opportunities. Okay? What
-[81:14:39] opportunities exist here? Now, some of
-[81:38:39] these are competitors, but some of them
-[82:01:20] are not. We have HealthGrades, and then
-[82:32:00] we also have Delta Dental. So these are
-[83:13:20] two obvious citation opportunities that
-[83:53:20] we're going to want to pursue. Now, I'm
-[84:21:20] going to show you how to take this to
-[84:38:40] the next level. Okay, now actually
-[85:06:40] before I get into that, make sure you
-[85:28:00] have Google Search Console installed and
-[85:56:00] make sure you have Google Analytics 4
-[86:18:40] installed and make sure you have call
-[86:41:20] tracking. Okay, those are the three
-[87:05:20] additional tracking things that you need
-[87:30:39] to do for local. This is pretty much all
-[88:06:39] you need. You need to be tracking across
-[88:29:20] all of these search surfaces and you can
-[89:06:40] see like just with some slight tweaks or
-[89:50:40] the things I'm going be showing here in
-[90:07:59] a second can see dramatic lifts in
-[90:50:39] visibility here. Now, the one thing I
-[91:20:00] really want to show you is the citation
-[92:01:20] sources. So for many years you would on
-[92:42:39] the local level we would just go and
-[93:17:20] build citations and it'd be like a
-[93:45:20] oneanddone activity like let's go build
-[94:13:19] our citations and then move on to some
-[94:49:20] other stuff because honestly they
-[95:17:19] weren't that important but they have
-[95:56:00] become important again and but not in
-[96:42:40] the way that you think. So this is not a
-[97:08:00] game of volume. The way you want to
-[97:44:00] think about citations is simply just to
-[98:18:39] look at what citations are popping up in
-[99:02:40] for this particular industry, this
-[99:45:20] niche, this particular scenario. Okay?
-[100:18:40] And then those are your you should put
-[101:04:00] all your focus and all your energy on
-[101:35:59] those because we know that they're being
-[102:13:20] used in the AI platforms. So from there
-[102:51:59] it becomes quite simple. So like in in
-[103:22:40] this case we only got about three,
-[104:03:59] right? We got health grades, we got
-[104:24:00] Delta Dental, and we've got Yelp. So
-[105:07:59] we've got basically three citation
-[105:50:39] sources that we need to get hyperfocused
-[106:23:59] on and do a really good job there. And
-[106:50:39] also ADA.org as well. So we actually got
-[107:22:40] four. Okay, so four total citation
-[107:57:19] sources based on most local industries
-[108:37:19] that we've seen, four to seven give or
-[109:34:39] take citations that you're going to
-[109:58:39] spend your time on. The rest are
-[110:21:20] probably not worth your time at all.
-[110:49:20] Okay, so what does that mean though to
-[111:21:20] spend your time here? You want to be
-[111:49:20] thinking about how do we actually do SEO
-[112:33:19] on this citation source? Okay, so when
-[113:12:00] we're looking at health grades, how do I
-[113:45:20] actually get this particular dentist to
-[114:37:19] show up higher on this particular
-[115:19:59] directory? Okay. And so when we're
-[115:45:20] looking at this, clearly we've got 1 2
-[116:18:40] 3. We've got three sponsored listings
-[116:56:00] here. Maybe worth considering being a
-[117:39:59] sponsored listing. Here's the thing. The
-[118:15:59] AI platforms don't care if it's
-[118:42:40] sponsored or not. So, it's going to come
-[119:09:20] in here and it's going to see these
-[119:38:40] three brands popping up here and it's
-[120:14:40] going to give it weight just because
-[120:40:00] it's here, just because it's the the
-[121:17:19] most retrievable. And then also improve
-[121:46:40] the organic performance in this list.
-[122:37:20] Okay. And we can see the particular
-[123:12:00] dentist that we're looking at here.
-[123:30:39] They're not actually showing up anywhere
-[124:05:20] super high on this list. They're all the
-[124:34:39] way down here. So the question is, what
-[125:10:39] should Brandon in this case do? He needs
-[125:54:40] to go to his profile and he needs to
-[126:37:20] start driving reviews to this profile.
-[127:13:20] Okay, start driving reviews here. This
-[127:49:20] is what I would call a secondary review
-[128:18:39] surface where Google is 90% of your
-[129:08:00] effort for your reviews. The other 10%
-[129:40:00] should be going to these secondary
-[130:05:19] citation sources as a way to ultimately
-[130:56:00] improve the visibility in the AI
-[131:25:20] platforms. Okay, so start with the
-[131:56:00] reviews. The next thing is just looking
-[132:23:59] at the profile itself, it's very thin,
-[133:05:20] right? When we look at this stuff, not a
-[133:50:40] lot of information. You got a couple
-[134:14:40] reviews in there, but it's pretty pretty
-[134:45:20] light. So, we need to actually optimize
-[135:37:20] this profile just like we would a web
-[136:09:20] page on our own website. Very simply run
-[136:52:00] it through a content optimization tool.
-[137:20:00] Okay, so I did an extraction of this
-[137:53:20] particular profile just to show you
-[138:22:40] this. And you can see like it's pulling
-[139:02:40] a bunch of stuff that's not relevant to
-[139:29:20] him, which naturally would happen on a
-[140:02:40] directory based website. But if you were
-[140:34:40] to get rid of all this other fluff
-[140:59:59] stuff, you'd basically be left with a
-[141:34:40] sentence about what he does, right?
-[142:11:59] Okay. So, what this tells me is I would
-[142:48:00] want to reoptimize
-[143:29:20] this particular profile. And so you
-[144:05:19] could just regenerate the draft and it's
-[144:42:39] going to use all of these keyword
-[145:15:59] opportunities to build something
-[145:54:39] incredibly relevant, right? And we're
-[146:17:20] looking at a target of maybe 500 words.
-[146:57:20] This will vary depending on the type of
-[147:32:00] platform that you're using. We don't
-[148:01:20] know the restrictions as far as how deep
-[148:48:00] you can go on content on healthgrades,
-[149:30:40] but you can still use that original
-[150:12:00] asset that's been generated by the AI.
-[150:45:20] And then you could even take it and
-[151:08:00] throw it into chat GPT and say, "Okay, I
-[151:46:39] need you to compress this down to 150
-[152:28:00] words or 300 words, whatever the
-[152:56:00] limitation is. But this will greatly
-[153:42:40] improve performance on this particular
-[154:20:00] profile. It may actually allow you to
-[154:42:39] even maybe even rank this profile in
-[155:30:39] traditional search, right? That's a
-[156:01:20] secondary thing that you can do to
-[156:25:20] occupy more real estate. So that's what
-[157:13:20] you should be thinking about. I need to
-[157:34:39] actually optimize my profiles, right?"
-[158:05:20] So you optimize your website, then you
-[158:34:40] optimize your profiles. And you can see
-[159:18:39] in about couple seconds here we can
-[159:51:59] already see great improvement as far as
-[160:30:39] covering the appropriate topics much
-[161:05:20] better right a lot quicker a lot better
-[161:38:40] like dental veneers you just click on
-[162:09:20] this and it will the AI will find a
-[162:54:40] place to cover that topic in a natural
-[163:44:00] way and you can see perfectly covers
-[164:20:00] that topic no problem at all so this is
-[164:54:40] just what you can do you keep adding
-[165:22:40] more and more to make it more relevant
-[165:54:39] and you repeat this process for all your
-[166:21:20] critical profiles next thing we're going
-[166:45:20] to be doing here is we're going to focus
-[167:25:20] on the brand itself. Come up here and
-[168:34:40] I'm going to show you two different
-[168:48:00] techniques. The first technique is using
-[169:23:59] chat GBT and this is a prompt that you
-[170:17:20] can use and basically what it's going to
-[170:41:20] do is it's going to it's going to scour
-[171:12:00] the internet and look for
-[171:44:00] inconsistencies about this brand. Okay,
-[172:25:20] that's what you want. Identify those
-[172:50:40] inconsistencies and then go and attack
-[173:20:00] them. And so you can see here I just
-[173:53:20] used GBT 5.4 to do this. But regardless,
-[175:22:40] you have two options here. You can use
-[175:44:00] GBT 5.4 thinking and you'll still get a
-[176:21:20] really comprehensive analysis. And you
-[176:55:59] can see this apparently this practice
-[177:33:20] was taken over by the current dentist.
-[178:07:59] So it actually made it transitioned and
-[178:45:19] there's a bunch of old baggage left over
-[179:18:39] from the previous dentists still
-[179:53:20] floating around the internet. So this is
-[180:20:00] something you want to go and start
-[180:37:20] cleaning up and and improving all of the
-[181:27:59] accuracy for this particular dental
-[182:16:00] practice or any business that you're
-[182:38:39] working on. Okay? And this is just
-[183:01:20] barely any work to do, but you get a
-[183:34:40] massive report, tons of work that you
-[184:01:20] can execute on. You can also use deep
-[184:33:19] research. Okay, honestly, I've been I
-[185:24:00] haven't really been using deep research
-[185:49:19] as much as I used to because I have
-[186:17:20] found that 5.4 or even 5.2 prior to
-[187:25:20] this. It uses web search anyway and it
-[188:21:19] does pretty much the same thing and it
-[188:52:00] takes way less time. So, I would just my
-[189:45:20] preference is I just use the 5.4
-[190:24:00] thinking and I let it just run and it's
-[190:50:40] way quicker. Okay, so that's what you
-[191:25:20] do. Then now we're going to move into
-[191:54:40] technical SEO. Okay, so from here I'm
-[192:34:39] just doing a very simple screaming frog
-[193:06:40] crawl. If I had access to Google
-[193:42:40] Analytics and Google Search Console, I
-[194:16:00] would integrate those as well. Okay, but
-[194:58:40] in this case, I don't. So, couple key
-[195:37:20] things we're looking at here. This site
-[196:03:59] is actually not in that bad a shape.
-[196:38:40] There's just some kind of broader level
-[197:10:39] things that we need to go after. So, the
-[197:37:20] first one is is title tag optimization
-[198:21:19] is quite aggressive. Okay, I would not
-[199:02:40] be this aggressive with title tags. And
-[199:46:40] you can see right here, for example, we
-[200:22:40] have dental bonding in Bowwin, Missouri,
-[201:00:00] which is great. This is a fine title
-[201:29:20] tag. But then we've got dental bonding
-[202:04:00] plus the zip code. And now we're just
-[202:28:00] getting over optimized. So you would
-[202:58:40] just get rid of this and just keep it
-[203:29:20] like this. All right. And this would be
-[204:01:20] totally fine. This would work perfectly
-[204:38:40] well. Okay, that should be the style.
-[205:14:40] You could even just use the the actual
-[205:45:20] dentist name here. So you like Brandon
-[206:20:00] Cousins DDS. Maybe if you don't want to
-[206:50:39] use the dental practice name, it could
-[207:17:20] just be like this. But either way, you
-[207:54:40] don't need to include these secondary
-[208:35:59] variations in here plus a zip code
-[209:06:40] because LLMs are incredibly smart and
-[209:50:40] they know those are the same thing. So,
-[210:13:20] you do not need to do that and it will
-[210:42:40] not actually improve your performance.
-[211:02:40] Actually, probably hurt you more than
-[211:25:20] anything. And then meta description.
-[211:54:40] When we look at this couple key things
-[212:18:40] here, we got the boilerplate metad
-[212:50:40] descriptions here. Now that we have LLM,
-[213:35:59] there's just no good reason not to have
-[214:01:20] unique metadescriptions. Like every
-[214:45:20] single description you write can be
-[215:20:00] unique now with barely any effort. So I
-[216:10:40] would highly recommend rewriting every
-[216:36:00] metad description. Make sure it's
-[216:58:40] unique. I don't recommend putting the
-[217:34:39] phone number in the metad description.
-[217:57:19] The reason is because organic CTR is
-[218:48:00] critical and we know it's a proven
-[219:14:39] ranking factor. So when you put that
-[219:42:39] phone number in there, you're greatly
-[220:14:40] increasing the odds that someone is not
-[220:39:59] going to click. We need them to click.
-[221:20:00] That is absolutely critical. So, I would
-[221:52:00] avoid putting the phone number in the
-[222:29:19] title or the metad description. This
-[222:57:19] does not apply to the Google business
-[223:22:40] profile. I'm just purely talking about
-[223:56:00] your traditional search results. Okay?
-[224:23:59] So, you I would be careful doing that.
-[224:50:40] And then aside from that, I think
-[225:18:40] everything else is pretty solid. The
-[225:42:40] only thing I would avoid doing is like
-[226:21:20] thisformational stuff. This is not the
-[227:04:00] type of content you want to be creating
-[227:23:59] on the local level. This is all just
-[227:56:00] generic stuff that AI could easily
-[228:29:20] produce. How long do dental implants
-[229:10:40] last? Okay, that's a general question on
-[229:49:20] the national level. It's not going to
-[230:15:59] serve this website that only focuses on
-[231:16:00] Bowwin. So, you want to focus just on
-[231:57:20] your core location. Don't focus on
-[232:26:40] topics that are generally b in the
-[233:09:20] practice itself. That's not a good idea.
-[233:37:20] You want to focus specifically on the
-[234:14:39] location and the subject matter exp. So,
-[235:04:00] how do you do that? Very easy. Go into
-[235:43:59] chat GBT and I'll run a couple examples.
-[236:33:20] So, the first one here is linkbait.
-[236:57:20] Okay? So you can run this prompt and
-[237:43:59] come up with different statistics driven
-[238:17:19] ideas. There's like endless amounts of
-[238:52:00] ideas that you can run. There's no
-[239:29:20] shortage of ideas now. You come up with
-[240:01:19] the ideas, then you just need to go and
-[240:33:20] execute these. Some of good, some are
-[240:57:20] not. But the point is, you can see this
-[241:25:20] is much better because it's focused
-[242:04:00] specifically on Ballwin. And that is the
-[242:43:59] key. You want to build that proper
-[243:21:19] relevance and localized relevance for
-[243:59:59] this site. Then we go down. We can run
-[244:26:40] the same thing here. Similar concept.
-[245:05:20] And you can see these are additional
-[245:32:00] local content ideas as well. So once
-[246:17:19] again, just use these prompts and just
-[246:50:39] make them applicable to any business
-[247:13:20] that you're currently working on. Okay.
-[247:47:59] And then we can actually go over here
-[248:26:39] and this is the last piece of this
-[248:53:20] equation,
-[249:18:39] which is some additional off-site work.
-[250:02:40] So with one simple oneshot prompt like
-[250:43:59] this, you can basically be done with all
-[251:13:19] of your link prospecting. Okay, you can
-[251:42:40] see right here within about took about 4
-[252:34:39] minutes, we've got all kinds of link
-[253:26:39] prospects that we can pursue
-[253:52:00] specifically in Bowwin. Okay. And this
-[254:46:39] will help us build proper topic
-[255:19:59] relevance and topic authority the way
-[255:46:40] that we really should be doing it. Okay.
-[256:25:20] And then the last piece of this is the
-[257:12:00] page level as well. So we I showed you
-[257:57:19] the the different dedicated pages here.
-[258:32:00] So they have Invisalign in Bowwin,
-[258:54:39] Missouri. This is actually a proper
-[259:17:20] structure. I think this is actually good
-[259:42:39] right here. So, we have the service,
-[260:13:20] then we have the core location. This is
-[260:37:20] actually a very good setup. I would
-[261:05:20] stick to doing this. That's good. But
-[261:40:00] it's really about the optimization of
-[262:09:20] those pages. So, you can see here like
-[262:45:20] this is the homepage and it has probably
-[263:35:59] too many words. It's a little
-[263:57:20] aggressive. It's not actually optimized
-[264:44:00] particularly well. And so, you'd really
-[265:17:20] want something more like this, right?
-[265:45:20] Which is like you've got a word count
-[266:13:19] that's more within range of the
-[266:42:40] competitors in that median word count
-[267:16:00] range. and then you are properly
-[268:00:00] covering all of the critical topics and
-[268:37:20] entities. Okay, that's what a good page
-[269:16:00] is going to look like for SEO purposes.
-[269:44:00] It's going to be perfectly optimized for
-[270:37:20] the location and that primary topic.
-[271:27:59] Okay, and you can see this is for
-[271:48:00] cosmetic dentist involvement, Missouri.
-[272:22:40] Took about 3 minutes to build this.
-[273:00:00] Okay. And then you can just literally go
-[273:34:40] in here and export and whatever CMS
-[274:21:20] you're using, you can literally just
-[274:41:20] click this HTML, hand this off to the
-[275:24:00] AI, and boom, it will go and just format
-[276:02:39] this exactly how you want. And of
-[276:35:59] course, you'll need to design it and
-[277:05:19] work on that. But you can do it that
-[277:30:40] way. You can also go and just export a
-[278:06:39] classic markdown file. Once again, very
-[278:46:40] useful for AI platforms. They understand
-[279:20:00] markdown it exceptionally well. And then
-[280:00:00] if you're using WordPress, obviously
-[280:24:00] you're going to have to work with
-[280:37:20] whatever builder you have. So that is a
-[281:33:20] full local SEO strategy in less than 30
-[282:26:40] minutes. Told you I would do it. So
-[282:56:00] that's those are all the kind of
-[283:24:00] component pieces you need to go through.
-[283:52:00] You get your tracking set up. You attack
-[284:30:40] the core citations that tend to show up,
-[285:13:19] right? Want to go after the common
-[285:36:00] citations. We want to go and we can
-[286:15:59] continue to acquire links around the
-[287:06:40] local area to build localized topic
-[287:49:20] authority. And then we need to just fill
-[288:28:00] in all the topic gaps. So focus on your
-[289:17:19] service pages first and you know build
-[289:53:20] relevant content for all of your service
-[290:23:59] pages. Cosmetic dentists and all your
-[290:52:00] secondary services. Do that first. Then
-[291:41:20] once you've got all those knocked out,
-[292:11:59] then just move into building topic
-[292:44:00] support with properformational content
-[293:33:19] orformational assets that focus on the
-[294:30:40] local area. As I demonstrated, these are
-[295:10:40] the types of assets we want to be
-[295:34:40] building specifically to support this
+[02:40] Google just launched the March 2026 spam
+[53:20] update. And today I'm going to be
+[74:40] showing you what actions you need to
+[109:20] take. So the first action you need to
+[143:59] take is actually nothing. Okay? So that
+[189:20] is the very first thing. Whenever there
+[213:20] is any core update, whenever there's a
+[240:00] spam update, any update from Google,
+[285:19] just take a breather. Don't act on
+[321:19] anything. You have to let the dust
+[348:00] settle. Sometimes these updates can take
+[383:59] a few days. Sometimes they can take a
+[413:20] few weeks. A lot of the time you'll
+[444:00] start to see some action from these
+[482:40] updates even before it's announced. So
+[514:40] what you want to do is just let the dust
+[539:59] settle. Once it's settled, then we can
+[572:00] start to target maybe the specific items
+[610:40] that maybe could have caused maybe a
+[644:00] decrease in traffic, decrease in
+[667:59] rankings, whatever it may be. So first
+[701:19] things first is you can see this
+[737:19] directly on Google's documentation.
+[778:39] They'll actually show you exactly what
+[808:00] these updates do. Okay? They're pretty
+[846:40] vague for the most part. That's why I'm
+[870:39] going to show you. We're going to dig
+[886:39] into some of the like key things that I
+[922:40] commonly see that affect websites in a
+[961:20] negative way. So, we're going to dig
+[986:39] into that. So, the first one here is
+[1025:20] this very specific passage is important
+[1061:20] to understand. So, sites that see a
+[1094:40] change after a spam update should review
+[1122:40] our spam policies, which I'm going to be
+[1148:00] showing you. Very specific spam
+[1181:20] policies. We'll be talking about here.
+[1212:00] Sites that violate our policies may rank
+[1249:20] lower in results or not appear in
+[1282:40] results at all. Okay? Based on what I've
+[1330:40] seen auditing hundreds of penalized
+[1370:40] websites over the last decade of doing
+[1398:40] this, if you completely disappear from
+[1445:20] the search results, that's a that's
+[1470:40] usually a manual action. Very rarely is
+[1513:19] an algorithmic change going to
+[1540:00] completely wipe you out and completely
+[1573:20] de-index you from the SERs. You got to
+[1610:40] be doing something pretty radical for
+[1637:20] that to h to happen. And usually it's
+[1676:00] going to be a manual action that you'll
+[1700:00] see inside of Google Search Console.
+[1725:20] Usually with most algorithm updates,
+[1757:19] you're going to see a huge dip in
+[1784:00] rankings and also organic search
+[1822:40] traffic. So that's much more likely in
+[1854:40] this particular scenario. So then they
+[1894:40] say making changes may help a site
+[1926:40] improve if our automated systems learn
+[1977:20] over a period of months that the site
+[2007:59] complies with our spam policies. So
+[2056:00] let's talk about the specific. So when
+[2086:40] you go into the spam policies, it's very
+[2122:40] long. There's lots of different
+[2142:40] sections, okay? But I want to get you
+[2171:59] focused on a few sections because
+[2194:40] honestly most of the stuff that's in the
+[2237:19] spam policy section is really for the
+[2277:20] real nasty stuff. Guys that are
+[2306:40] intentionally doing black hat SEO like
+[2347:59] they're just pushing the limits and
+[2374:40] pushing these algorithms like to the
+[2402:40] fullest extent. Most regular websites,
+[2446:40] regular business are not going to this
+[2470:39] level. So you don't really need to be
+[2486:40] concerned about that. But there are some
+[2513:20] ones where you may be playing a
+[2562:40] dangerous game and you don't realize it.
+[2589:20] Okay. So the first one is doorway abuse.
+[2630:40] And this one is really common on the
+[2665:20] local level. You'll see this all the
+[2686:40] time where basically a local business
+[2721:20] creates a whole group of pages that are
+[2766:40] specifically targeting a one core
+[2824:00] service and one city and then basically
+[2869:20] replicating that across many different
+[2894:40] cities without actually making the
+[2928:00] content unique. So basically just
+[2954:40] swapping out the city and then just
+[2991:59] building out tons of these pages. So
+[3017:20] here's an example what this might look
+[3040:00] like. Right? You've got car accident
+[3066:40] lawyer in Chesterfield, Missouri. Then
+[3096:00] it's you just swap out in Bowwin. Then
+[3125:19] you swap in Clayton. And that's
+[3156:00] basically what a doorway page is. Like
+[3180:00] they're basically just designed purely
+[3209:20] to rank in Google, which there's a right
+[3261:20] way to do this and a wrong way to do
+[3285:20] this. This is not the right way. Okay?
+[3313:20] You don't want to just basically create
+[3342:40] a bunch of duplicate content, just swap
+[3369:19] out the city. That's not a good idea,
+[3398:40] especially in this day and age where you
+[3435:59] can use AI. There's no good reason to be
+[3477:20] this lazy. AI can immediately make the
+[3524:00] content unique because whenever you
+[3556:00] create content with AI, it's
+[3585:20] non-deterministic. So it's very rare
+[3624:00] that if you were to run the same exact
+[3653:20] query, so car accident lawyer in
+[3676:00] Chesterfield, Missouri versus car
+[3702:39] accident lawyer in Ballwin, and you had
+[3737:19] two different AIs write content for
+[3778:40] those particular keywords or phrases,
+[3826:39] it's going to give you different content
+[3849:19] every time. Yes, it will be similar.
+[3878:40] Yes, it will talk about similar topics
+[3901:20] and different and similar entities, but
+[3941:20] the actual structure of the content is
+[3971:59] going to be different. But I would
+[3998:40] actually recommend a better strategy. So
+[4041:20] my strategy these days is first of all
+[4081:19] focus on wherever your core location is.
+[4122:40] So if Chesterfield is where you serve
+[4157:19] and that's where your physical location
+[4181:19] is the site should be structured around
+[4215:59] Chesterfield. That means all the core
+[4245:20] service pages that appear in the
+[4270:39] navigation should be for Chesterfield.
+[4313:19] Okay? Because that is your core
+[4338:40] location. Yes, it is attractive to want
+[4380:00] to go after the big metro which in this
+[4410:39] case would be St. Louis city. But I see
+[4445:20] this time and time again where you have
+[4474:39] a lawyer or a local business that has a
+[4518:40] physical location in a city that's
+[4549:20] outside of the metro, but they try to
+[4584:00] win in the metro. It's very hard to do
+[4617:20] that, especially in the local pack. You
+[4652:00] basically have no chance in a local
+[4673:20] pack. You've got a little bit of a
+[4695:59] better chance in traditional organic,
+[4733:20] but in the local pack, it's game over if
+[4772:00] you don't have an address in the metro.
+[4797:20] Like, it's you're just not going to win.
+[4828:00] So, a better strategy is win where you
+[4876:00] already have leverage. Don't expand to
+[4918:40] additional cities when you haven't even
+[4942:40] dominated the one city where you
+[4973:20] actually have an address. So start
+[5005:20] there. Dominate your core location
+[5040:00] first. Build out all the proper service
+[5073:20] pages that would be in this structure.
+[5110:39] If you want to expand to adjacent
+[5150:39] cities, there's a way to do this that's
+[5185:20] not spammy. Now it will depend on the
+[5231:59] tolerance of the business that you're
+[5253:19] working with. So the way we've reframed
+[5292:00] this is instead of just building another
+[5333:20] basically doorway page, we'll build a
+[5372:00] listical on the blog that'll be like top
+[5407:59] 10 best car accident lawyers in Bowwin,
+[5441:19] Missouri. Okay? And then we're able to
+[5478:40] target that keyword in a natural way
+[5528:00] that's not going to cause a bunch of
+[5554:40] thin content and kind of this doorway
+[5592:00] environment. There's a lot of kind of
+[5624:00] discussion on listicles, right? And
+[5656:00] whether they're a good idea, whether or
+[5686:39] not a bad idea, but the truth is they
+[5714:40] work. Okay? they just work and they're
+[5750:39] really powerful on the local level. The
+[5782:40] only issue is when you're working with
+[5805:20] local businesses, they don't like to
+[5836:00] talk about their competitors. That's
+[5872:00] there's workarounds for this. For
+[5890:40] example, you can go and publish that
+[5914:40] content on other websites, not your own
+[5952:00] blog, that already have authority. Okay?
+[5985:20] So, you can do that as well. Okay.
+[6009:20] Expired domain abuse. This is one that's
+[6048:00] been around forever. I'll even show you
+[6074:39] an example of this. I actually started
+[6109:20] talking about the merger technique in
+[6148:00] 2015. It was heavily expired domains,
+[6194:40] right? You would find expired domains
+[6219:59] that were relevant and you would 301
+[6250:39] redirect them to your website and the
+[6300:00] end outcome of that is you get those the
+[6342:40] link equity flowing to that site. And
+[6393:20] anyone that says that this doesn't work
+[6418:40] has never truly done this the right way
+[6445:20] because it works and it works incredibly
+[6481:20] well. But with one caveat, I don't
+[6529:19] recommend using expired domains really
+[6561:20] anymore. That's that is definitely the
+[6598:39] old school way to do it. I would highly
+[6622:40] recommend trying to find an existing
+[6661:20] asset that's already alive and then
+[6705:19] merging that with your website. So,
+[6734:40] there's a lot of different examples of
+[6752:00] this. You can find some blog in your
+[6788:00] industry that's just gone dormant and is
+[6822:40] no longer active and you can send an
+[6856:00] acquisition offer. You can find a little
+[6892:00] micro tool in your industry that maybe
+[6936:00] just been sitting there for a long time,
+[6958:40] but it's actually accumulated a bunch of
+[6982:40] links and then you can send an
+[7010:39] acquisition offer to that. So, there's
+[7042:40] lots of different ways to do this, but I
+[7065:19] highly recommend just like thinking
+[7092:00] about this more as like you're Warren
+[7129:19] Buffett and you're trying to acquire a
+[7156:00] business. Do your due diligence and make
+[7205:19] sure that if you're going to do this,
+[7230:40] you're acquiring a relevant asset in
+[7270:40] your industry that has a relevant link
+[7318:40] profile to what you do. If you do that,
+[7364:00] you're going to be in good shape. And if
+[7388:00] you want to see an example of this,
+[7409:20] I31red redirected got seo.com to
+[7469:20] rankability.com. And you'll be able to
+[7500:00] see the amount of strength that
+[7537:20] Rankability has now because of that
+[7582:40] redirect. And like I said, I've done
+[7618:40] this technique across multiple
+[7643:59] verticals, multiple niches. It has
+[7681:20] worked every time because it's really
+[7709:20] about being very intentional about the
+[7766:40] type of domain that you're going to
+[7789:20] actually merge. I would be very careful
+[7825:20] though not to do this too much. I would
+[7853:19] say use the whole punch card method that
+[7901:20] Warren Buffett talks about, which is if
+[7924:00] you only had you could only make 10
+[7954:40] investments in your entire life. You you
+[7997:20] would be very deliberate about those
+[8018:40] investments that you would make. It's
+[8040:00] the same thing with this. If you could
+[8069:20] only pick five domains to ever 301
+[8119:59] redirect to your website or a client's
+[8154:40] website, you'd be a lot more deliberate
+[8186:39] about that process, right? So, do the
+[8221:20] due diligence. Okay. Keyword stuffing.
+[8281:19] This is this goes on even to this day
+[8319:59] all the time.
+[8343:59] constant focus on keyword injection,
+[8393:19] keyword stuffing, keyword density, all
+[8438:39] that stuff does not really work at all
+[8480:00] and it is in fact totally a useless
+[8519:59] practice at this point because of AI,
+[8577:20] LLMs and NLP. So we know that the Google
+[8652:00] is starting to use more LLM technology
+[8707:59] even in its process of trying to
+[8741:20] understand the web. So it means AI is
+[8772:00] involved here. And there's one thing you
+[8813:20] can say what you want about AI and LLMs,
+[8861:20] but one thing it's really good at is
+[8897:19] understanding words. That is its number
+[8942:40] one most effective skill. That is
+[8998:40] unmatched as far as the speed. So, you
+[9042:40] do not need to be stuffing the same
+[9070:40] keyword multiple times into a piece of
+[9102:40] content for the AI to understand what
+[9129:20] that's about. And you can even just
+[9157:20] practice this. Like I throw some of the
+[9191:59] most poorly formatted, misspelled
+[9249:19] prompts, horrible grammar into the AI
+[9305:20] all the time and it just is able to
+[9338:40] figure it all out and know what I'm
+[9362:40] talking about. So you don't need to be
+[9402:40] just hitting it over the head with the
+[9444:00] same stuff. There's a better way to do
+[9468:00] this. So what you really want to focus
+[9500:00] more on is topic coverage. Okay? So this
+[9565:20] example you're looking at here, you can
+[9587:59] see there's two kind of key things you
+[9610:40] want to think about when it comes, let's
+[9632:00] just say keywords that you're using on
+[9680:00] one page. Okay, number one is keyword
+[9724:00] placement. Okay, this matters a lot. So
+[9766:40] putting your primary keyword in the most
+[9805:20] important spots. So in this case, you
+[9849:19] know, you are but it's not showing URL
+[9878:40] here, but URL, title tag, H1, first 100
+[9952:00] words, meta description, and early
+[9987:59] somewhere in the H2. Just getting that
+[10024:00] right can do a lot for you, but it's not
+[10062:40] enough to take you to the next level,
+[10086:40] especially when you're competing with in
+[10110:40] really competitive verticals. That won't
+[10144:00] be enough. To go to the next level, you
+[10184:00] got to focus on topic coverage. So, what
+[10218:40] we've done is we've taken our core seed
+[10248:00] keyword, we've put it in the most
+[10284:00] prominent places that tend to get a lot
+[10333:20] of attention with these algorithms and
+[10378:40] in retrieval. And then what we're going
+[10410:40] to do is we're going to branch out from
+[10441:20] that core seed keyword and we're going
+[10467:59] to start to attack other related topics.
+[10512:00] Right? So the goal here is not to think
+[10558:39] about how many times have I mentioned
+[10602:40] this one keyword in the content. Just
+[10636:00] totally disconnect from that idea. What
+[10667:59] we have found is that even if you just
+[10693:20] mention a topic one time in that
+[10734:39] content, it will be enough. Just one
+[10777:20] time. So naturally, if you write
+[10813:20] naturally and you do this the right way,
+[10838:40] you're just naturally going to include
+[10867:59] these topics probably more than once.
+[10913:20] It's just going to happen. But just let
+[10938:40] it be natural. The key here is just to
+[10982:39] cover the topics. Try to cover the
+[11015:59] topics as much as possible. And then
+[11046:40] you're going to have a very relevant
+[11072:00] page. One of the things that is
+[11108:00] absolutely proven to be effective is
+[11139:59] building a relevant page. that building
+[11181:20] a relevant page is one of the key
+[11215:59] pillars of effective SEO and not just
+[11254:39] ranking well in traditional search but
+[11286:40] ranking as a core retrieval source as
+[11330:39] well. So it doesn't matter whether
+[11346:40] you're doing AI SEO or traditional SEO,
+[11386:40] it is the same. Building relevant pages
+[11434:39] is a core fundamental that you have to
+[11473:19] do. And this is not just for pages that
+[11506:39] you're publishing on your website. This
+[11534:39] is also the case for any type of asset
+[11578:40] you're building across any platform. For
+[11613:20] example, let's say you want to get more
+[11638:40] views on YouTube. Building more relevant
+[11685:20] videos in your vertical is going to help
+[11732:00] you get more visibility on the platform,
+[11769:20] right? Same thing on Tik Tok, same thing
+[11806:39] on LinkedIn. It's all the same because
+[11858:39] these platforms are driven by the
+[11885:20] interest graph. When you go on YouTube,
+[11915:59] it's trying to show you whatever's most
+[11941:20] relevant to you, whatever you care about
+[11966:40] the most. And it's using obviously how
+[12004:00] you engage with certain types of pieces
+[12034:39] of content, but it starts to give you
+[12081:20] these different pieces of content that
+[12122:40] it knows you're interested in. And how
+[12157:20] does it do that initially? If you're a
+[12190:40] channel that continually creates content
+[12225:19] about the same topic, then you're going
+[12265:20] to that's going to give you a lift
+[12297:19] compared to another channel that
+[12318:40] basically just creates a bunch of random
+[12357:20] stuff, right? So, you're training the
+[12391:59] algorithm. There's multiple ways to do
+[12414:40] this, but the key is like no matter
+[12446:40] whether it's your website or YouTube or
+[12474:40] LinkedIn or X, you're focused on one
+[12520:00] core subject matter expertise 80% of the
+[12578:40] time. And for every asset you build, try
+[12630:39] to cover the topics to the fullest
+[12661:20] extent and those supporting topics.
+[12705:20] Okay, next one here is with link spam.
+[12745:20] Okay, so we covered some of the other
+[12773:19] bigger elements more on the content
+[12797:19] side, but link spam is probably the
+[12836:00] biggest one. And if you go into Google
+[12891:59] spam policies, you're going to see that
+[12917:20] the link spam section is the longest
+[12946:40] section. Now, why is that? It's because
+[12985:20] links work and they work very well. good
+[13042:40] links like doing things the right way
+[13076:00] works well but also doing things in a
+[13114:40] sketchy way also works as well and
+[13156:00] that's why they have this entire section
+[13208:00] basically saying that this stuff works
+[13243:59] so you shouldn't do it okay and now it's
+[13284:00] very dangerous right this is like very
+[13318:40] dangerous stuff you I would not
+[13339:59] recommend it personally but we cannot
+[13370:40] deny that it's effectiveness at least in
+[13396:00] the short term it certainly can work
+[13436:00] just not my style okay so couple of
+[13484:00] things is like whenever whenever these
+[13515:59] spam updates come and maybe you see a
+[13545:20] little decrease in traffic or rankings,
+[13577:19] just go and look at your link profile.
+[13605:20] Dig in. Start looking for sketchy links.
+[13662:40] Start looking for links that are
+[13689:20] irrelevant. Okay, so there's a couple
+[13713:20] kind of key things you can look at as
+[13746:40] far as the characteristics of a quality
+[13777:19] backlink. Okay, number one is relevance.
+[13818:40] Going back to top content relevance, we
+[13860:00] know that's really important, but so is
+[13893:20] the relevance of your link profile. And
+[13932:00] relevance can be broken down in kind of
+[13960:00] two different buckets. So if you're on
+[13984:00] the local level, localized relevance is
+[14030:39] really important. So it is actually
+[14069:20] beneficial. If you're a personal injury
+[14101:19] lawyer and you get a link because you
+[14142:40] donated to the local softball league,
+[14185:20] that is actually a good link. So this is
+[14229:20] one of those weird situations where like
+[14254:39] you don't need subject matter relevance.
+[14301:19] You can actually just have localized
+[14328:00] relevance and it can still be effective.
+[14354:39] Now, why is that? Most people say that
+[14385:20] softball league website only has a DR of
+[14425:19] 10 or whatever. This is why you don't
+[14456:00] want to focus on thirdparty metrics
+[14480:00] because that is not how you should
+[14512:00] assess the quality of a link. You should
+[14558:39] assess the quality of a link based on
+[14597:19] the links that it has. So a lot of the
+[14637:20] times when you look at a softball league
+[14672:00] or a local theater on the surface it may
+[14724:00] look weak quote unquote but when you dig
+[14766:40] and you look at that link profile a lot
+[14793:20] of the times you'll find it has links
+[14822:40] from the local government. It's got
+[14849:19] links from the local news. It's got
+[14877:19] links from like really trusted powerful
+[14909:20] entities. So that is what you want to be
+[14949:19] focused on is looking at the quality of
+[14977:19] the link profile, not just looking at,
+[15019:59] hey, does it have a good third-party
+[15049:19] metric on the surface. Now, third-party
+[15076:00] metrics are good for initial kind of
+[15112:00] filtering, but when you've got to dig
+[15152:00] in, you don't make that your core reason
+[15184:00] why you don't go after a link
+[15205:20] opportunity because you're probably
+[15224:00] missing out on some good ones. Okay? So,
+[15257:20] that's on the local level. Then also on
+[15302:40] the niche level, so for example, we have
+[15343:59] a software company and it's an SEO
+[15381:20] software company. So us getting links
+[15422:40] from other SEObased websites is a good
+[15478:40] thing. Okay. So you just do that. You
+[15512:00] focus on relevant opportunities. That's
+[15553:19] going to take care of a lot for you.
+[15580:00] Okay. Aside from that, I already
+[15628:00] mentioned the importance of backlink
+[15660:00] relevance. So what we're talking about
+[15681:20] here is more about the topical relevance
+[15717:20] of that entity, but also here is the
+[15762:40] relevance of that entity's link profile.
+[15806:39] And then backlink quality. Okay,
+[15834:39] backlink quality in my opinion is it's
+[15893:20] from a trusted website. It's from a
+[15930:39] well-known entity and generally it's
+[15973:19] relevant. That's what I would consider
+[16001:19] backlink quality and that's pretty easy
+[16038:40] to assess, right? If you see junk in
+[16066:40] your link profile, it's pretty obvious
+[16091:59] usually. And then the last piece here is
+[16121:19] backlink placement. So, is that link in
+[16169:20] a sidebar? Is that link in a footer? Or
+[16198:40] is it in the actual meat of that
+[16229:19] content? Usually the most effective
+[16282:39] links are actually in the body of a
+[16324:00] content asset and it's using an anchor
+[16369:20] text that based on your current anchor
+[16412:00] text profile is using an anchor text
+[16450:40] that's pretty descriptive but not overly
+[16494:40] aggressive. So speaking of anchor text
+[16546:40] when we look at this in any update or
+[16595:59] any situation where you get hit by an
+[16626:40] algorithm go to your anchor text
+[16658:39] profile. It's very important. So when
+[16693:20] you look at the distribution, you really
+[16730:39] want to see the large majority of your
+[16756:00] anchor text is branded, right? Branded,
+[16804:00] URL, naked, generic. This is you're in
+[16853:19] the safe zone over here. You're not
+[16878:40] going to run into too many problems as
+[16902:40] long as this the large majority. So this
+[16936:00] particular website that ranks really
+[16960:00] well for anything related to St. Louis
+[16993:20] SEO or St. Louis SEO consultant. You can
+[17037:20] see very minimal keyword-rich anchor
+[17077:20] text like only about 1% maybe we'll call
+[17115:59] it 3% give or take for the whole domain.
+[17154:40] Okay, this is not just one page, but you
+[17190:39] really want to be thinking out for the
+[17209:19] entire domain, what is that kind of core
+[17250:39] anchor text? You don't want to see your
+[17283:59] primary keyword just being slammed over
+[17322:40] and over. It creates a very dangerous
+[17353:19] environment. So, if you are going to use
+[17401:19] keyword-rich anchor text, I like to
+[17441:20] treat it as like my backpocket kind of
+[17478:40] highest leverage move that I won't
+[17510:40] usually use until I really need it. I'll
+[17549:20] see how far we can push that page and
+[17594:39] let's say it stagnates at like number
+[17631:59] two or three and like I just can't get
+[17658:40] it to move up even though I keep hitting
+[17681:20] it with more good quality links. Then
+[17717:19] I'm going to hit it with a really good
+[17742:39] link with the really strong anchor text.
+[17786:40] Okay? And that usually can be can give
+[17822:40] it a nice lift to get it to where it
+[17848:00] needs to go. But I would say just
+[17878:40] reserve it for the best of the best
+[17909:19] links and only reserve it for when you
+[17948:00] really need it. Okay, that's really
+[17973:20] important. And then the next one here is
+[18016:00] about scaled content abuse. In the age
+[18044:00] of using generative AI tools, you can
+[18074:40] see they mentioned that very
+[18090:40] specifically. It's easy to create
+[18121:20] content now. So people are just pumping
+[18160:00] content out all the time and not adding
+[18205:20] anything unique to it. This is a
+[18240:00] mistake. It's really easy to make your
+[18272:00] content unique. You don't have to make
+[18293:20] the entire asset unique. You have to
+[18344:00] just add elements of uniqueness in it.
+[18378:40] So if you're going to use AI, add some
+[18417:19] expert level insights in there. Add a
+[18448:00] couple blocks that are human written.
+[18488:00] Add some unique data, some firstparty
+[18522:40] data. Like add some testimonials. Like
+[18560:00] just figure out a way to make it unique
+[18596:00] in some way instead of just pumping out
+[18650:39] the same stuff that anyone else can do
+[18685:20] using any LLM. Parasite SEO is the
+[18740:00] process of finding a very strong website
+[18801:20] in typically you try to find in your
+[18829:20] industry, but it technically doesn't
+[18848:00] need to be in your industry. It could
+[18864:00] also just be a strong site in general.
+[18900:00] and then you build a keyword targeted
+[18942:39] asset on that website to rank that asset
+[19006:40] because you're going to leverage that
+[19038:40] site's authority. Now, there's a reason
+[19074:40] why Google puts this here in the spam
+[19108:00] policies is because it works. It works
+[19158:40] really well. So, there's a good way to
+[19194:39] do it and there's a bad way to do it.
+[19216:00] Obviously, a lot of people that do
+[19238:40] engage in parasite SEO are more in a
+[19275:59] kind of a churn and burn strategy, but
+[19320:00] you can actually do this in a really
+[19345:20] safe and long-term kind of stable way,
+[19390:40] which is basically just going and being
+[19427:59] a contributor on your most important
+[19469:20] websites in any particular vertical. And
+[19506:40] then you build keyword driven content
+[19538:40] and of course you promote your brand.
+[19574:40] Okay, so that's like the that's the
+[19606:40] clean way to do it. One thing I would
+[19638:40] highly recommend doing as far as like
+[19664:00] your overall SEO strategy and kind of
+[19697:20] off-site strategy, just build a list of
+[19737:20] your top 100 websites in any industry
+[19781:20] that you're working in, top 100, and
+[19818:40] then work like literally just have a
+[19849:20] list and say, "Do we have a link on
+[19874:40] these?" Because if you work through that
+[19908:00] list and you get 25% of that top 100,
+[19975:59] it's almost impossible not to see
+[20002:40] performance gains. Now, many different
+[20031:59] ways you can find these. You can just
+[20052:00] use AI to do the prospect list. But the
+[20082:40] point is build that list of 100 and then
+[20124:00] focus on trying to get brand placement
+[20162:40] there. When it comes to AI, you don't
+[20193:20] actually even need to get a link. By the
+[20217:19] way, like getting just your brand
+[20249:20] mentioned on entities that are used a
+[20293:20] lot in retrieval that can do it as far
+[20334:40] as influencing the AI answers. We just
+[20369:20] are starting to release a lot of lessons
+[20406:40] for the local SEO and AI search
+[20448:00] playbook. So, there's a bunch of new
+[20478:40] lessons in here. We're get get
+[20498:39] approaching about 20 new lessons that
+[20529:20] have just been put into the platform.
+[20558:40] So, if you're interested, I'll have a
+[20578:40] link below the video. And once again,
+[20605:20] thank you so much for watching.

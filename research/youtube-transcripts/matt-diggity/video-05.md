@@ -1,283 +1,277 @@
-# Expert Name: Matt Diggity
-# Video Title: How to Start YouTube (as an Introvert)
-# Video URL: https://www.youtube.com/watch?v=hgLs5sk5Muc
-# Publish Date: Unknown
-# Transcript Source: Supadata
+# Expert Name
+
+Matt Diggity
+
+# Video Title
+
+I did AI-SEO for ChatGPT and Google AI.  Here’s what happened…
+
+# Video URL
+
+https://www.youtube.com/watch?v=4GBlHObjOrY
+
+# Publish Date
+
+Unknown
+
+# Transcript Source
+
+Supadata YouTube Transcript API
 
 ## Transcript
 
-[01:20] as an introvert you have a secret
-[25:20] superpower and no it&amp;#39;s not just finding
-[52:39] the best hiding spot at parties the
-[01:19:19] advantage I&amp;#39;m talking about could make
-[01:41:20] you a YouTube Star now how do I know
-[02:13:20] this because I&amp;#39;m the world&amp;#39;s biggest
-[02:39:59] introvert seriously here&amp;#39;s what goes on
-[03:09:20] in my head during any social interaction
-[03:42:00] notice my social battery depleting
-[04:11:20] faster than Google&amp;#39;s user
-[05:03:19] base but in all seriousness 3 years ago
-[05:51:59] I saw the writing on the wall blogging
-[06:19:20] was becoming less popular as a way to
-[06:45:59] reach customers to grow an audience to
-[07:16:39] Market people just weren&amp;#39;t reading
-[07:42:00] anymore and I needed to figure out a way
-[08:08:40] to grow my business meanwhile I did some
-[08:41:19] research and found out that YouTube
-[09:05:19] adoption grows 10% Year on-ear everyone
-[09:50:40] consumes content on YouTube these days
-[10:22:00] myself included so I set up on a mission
-[10:53:20] to create one video per week until I
-[11:22:40] figured this whole YouTube thing out
-[11:46:39] later on in this video we&amp;#39;ll see how
-[12:07:20] that three-year effort panned out
-[12:36:00] however there&amp;#39;s a common misconception
-[13:06:00] that only extroverts can do YouTube The
-[13:40:39] High School quarterback the prom King
-[14:16:00] the alpha with the gift of the Gap the
-[14:44:39] guys that seem to dominate social
-[15:08:40] situations with effortless conversation
-[15:44:40] the reason that extroverts appear to
-[16:19:20] have effortless conversation is because
-[16:51:59] they speak quickly they hear something
-[17:21:20] and they respond almost instantly as an
-[17:56:39] introvert you like to take your time and
-[18:35:20] think before you speak you don&amp;#39;t speak
-[19:04:00] that much but when you do you&amp;#39;ll often
-[19:33:59] hear bro you don&amp;#39;t talk that much but
-[20:06:00] when you do it counts this is why you&amp;#39;re
-[20:44:00] meant for YouTube in videos like I&amp;#39;m
-[21:12:00] doing right now talking head videos
-[21:40:00] there&amp;#39;s two ways to go about it the
-[22:06:00] first is bullet pointing let&amp;#39;s say you
-[22:31:59] want to make a video about how to build
-[22:56:00] a website you write a bullet point
-[23:20:00] outline for your video and as you&amp;#39;re
-[23:46:00] filming you review these bullets and
-[24:10:40] then freestyle speaking your top of Mind
-[24:40:40] thoughts about each section this is not
-[25:10:40] for you you&amp;#39;re not best on the Fly you
-[25:47:20] want to fully script your videos word
-[26:24:39] for word you want to fully map out your
-[26:56:40] content by doing this you&amp;#39;ll be way
-[27:26:39] better at giving the YouTube algorithm
-[27:56:00] and your viewers exactly what they want
-[28:33:19] storytelling engaging hooks
-[29:01:19] entertainment and most importantly
-[29:34:39] concise well- delivered information
-[30:07:19] we&amp;#39;ll get into all these things that
-[30:26:40] make a great YouTube script soon but
-[30:57:19] first let me explain why scripting works
-[31:26:40] so well for an introvert you&amp;#39;re already
-[31:57:59] a master at thinking before you speak
-[32:25:19] you do it every freaking day of your
-[32:47:59] life use this to your advantage and yes
-[33:31:59] I&amp;#39;m an introvert too and I stutter a
-[34:03:20] billion times when I film but with
-[34:30:40] simple editing all that goes away and
-[35:07:59] what you end up with is the Polish video
-[35:39:59] like the one you&amp;#39;re watching now in this
-[36:08:39] video you&amp;#39;re going to learn the secrets
-[36:34:00] of the YouTube algorithm that I acquired
-[37:01:20] by making over 500 videos and how to
-[37:39:59] leverage your introvert personality to
-[38:08:00] get an unfair Advantage at YouTube but
-[38:41:59] before that I want to let you know that
-[39:07:20] my video agency epic video has a sale
-[39:46:00] going on until the end of the month use
-[40:12:40] coupon code digity 20 to get 20% off any
-[40:57:20] of our products including blog to video
-[41:29:20] conversion explainer videos review
-[42:05:19] videos and video ad creatives now back
-[42:40:40] to the video all right let&amp;#39;s start to
-[43:05:20] break down how the YouTube algorithm
-[43:37:20] really works what I&amp;#39;m about to teach you
-[44:10:00] wasn&amp;#39;t all self-discovered I have an
-[44:38:40] unfair Advantage myself being close with
-[45:09:20] Nick nimon the dude with the biggest
-[45:35:59] YouTube channel on the planet that helps
-[46:01:20] people with YouTube and Stanley Loop
-[46:33:19] France&amp;#39;s biggest marketing YouTuber by
-[47:07:20] the way both are Giga introverts
-[47:38:00] YouTube&amp;#39;s algorithm has one Golden Rule
-[48:12:40] keep people watching this is also where
-[48:47:20] your introverted skill set starts to
-[49:16:40] shine it&amp;#39;s simple when you think about
-[49:45:20] it if most people watch your video then
-[50:17:20] it&amp;#39;s a pretty good sign that they liked
-[50:40:40] it so YouTube is like let&amp;#39;s get this
-[51:08:00] masterpiece of content in front of more
-[51:36:00] people you get retention statistics for
-[52:08:40] each video in YouTube Studio this is one
-[52:42:00] of my better videos performing with the
-[53:09:20] average person completing 48.9% of the
-[53:52:39] video the x-axis is the time point in
-[54:28:00] the video the y- AIS is how many people
-[55:03:20] made it to that point basically you want
-[55:37:19] this line as high as possible anytime
-[56:09:19] there&amp;#39;s a peak that means you did
-[56:32:40] something that people like so do more of
-[57:01:20] that anytime you see a drop off like
-[57:30:40] this you want to do less of that I&amp;#39;ll
-[57:58:40] teach you what those things are right
-[58:20:00] now I want you to get freaking married
-[58:48:00] to the idea of hooks hooks are attention
-[59:24:00] grabbing statements that encourage your
-[59:50:00] viewer to continue watching your video
-[60:25:19] the first hook is actually created with
-[60:51:20] your title and thumbnail the title of
-[61:20:40] this YouTube video is how to start
-[61:50:40] YouTube as an introvert yes there&amp;#39;s a
-[62:24:40] billion videos on YouTube on how to
-[62:51:20] start a YouTube channel but for
-[63:16:00] introverts that&amp;#39;s a bit weird I mean in
-[63:49:20] front of a camera is the most unlikely
-[64:19:20] place that I&amp;#39;d expect an introvert to
-[64:44:39] want to be this is worth clicking on to
-[65:12:00] find out and the thumb shows an arrow
-[65:40:00] pointing to me with the word introvert
-[66:11:59] implying that youd be learning this from
-[66:38:40] a Bonafide introvert also implying that
-[67:15:20] it&amp;#39;s more authentic because I&amp;#39;ve gone
-[67:42:00] through this journey is this hook good
-[68:07:19] enough you tell me and you clicked on
-[68:30:40] this video now what I&amp;#39;m about to tell
-[68:56:40] you is something I had wrong for years
-[69:30:39] and once I changed this I started
-[69:54:00] getting way better retention rates and
-[70:27:20] results on YouTube in fact I don&amp;#39;t think
-[70:57:19] I&amp;#39;d be at 160,000 subscribers unless I&amp;#39;d
-[71:40:00] make this change I used to think that in
-[72:15:20] order to get people to watch the whole
-[72:43:59] video the idea was to deliver on the
-[73:20:00] promise of the hook at the end of the
-[73:51:59] video makes sense right for example in
-[74:25:19] this video I built a website with a 100%
-[75:05:20] AI content here&amp;#39;s what happened the hook
-[75:42:40] is clearly what happened did it work or
-[76:16:40] did it not I thought it was best to tell
-[76:47:59] them at the end it&amp;#39;s not and here&amp;#39;s why
-[77:30:00] because we live in a world of instant
-[78:00:00] satisfaction and high dopamine all
-[78:34:00] thanks to social media Instagram Tik Tok
-[79:14:00] and whatever other digital crack people
-[79:40:40] are smoking these days people are
-[80:09:20] impatient and if you don&amp;#39;t give them
-[80:34:40] their dopamine quick they&amp;#39;re gone that&amp;#39;s
-[81:09:20] why you pay off the hook right away and
-[81:45:20] then immediately after that you drop in
-[82:22:40] New hooks that make them want to stay
-[82:46:00] glued in even longer if you want get
-[83:18:00] meta let me show you how I did it in
-[83:44:39] this video all right title had a hook
-[84:16:00] YouTube for introverts we get it but
-[84:46:00] then right away as an introvert you have
-[85:30:00] a secret superpower the advantage I&amp;#39;m
-[86:00:39] talking about could make you a YouTube
-[86:26:39] star that was the hook introverts can
-[87:03:20] actually be better at YouTube the
-[87:31:20] Intrigue level is growing and then I
-[88:01:20] started dropping more hooks than Alex
-[88:30:39] prior fight all encouraging you to stay
-[89:05:59] to watch more first here later on in
-[89:51:19] this video we&amp;#39;ll see how that threeyear
-[90:12:00] effort panned out and then here in this
-[90:48:00] video you&amp;#39;re going to learn it works if
-[91:35:20] every time but hooks aren&amp;#39;t the only
-[92:11:20] strategy you use for retention there&amp;#39;s
-[92:37:59] also storytelling by the way here&amp;#39;s a
-[93:10:00] quick word from the sponsor of this
-[93:32:00] video search intelligence this campaign
-[94:05:20] got us big links in websites such as
-[94:36:00] Life Hacker Welles Online daily record
-[95:15:19] and about 20 other news websites let me
-[95:46:40] show you how we&amp;#39;ve done it we knew that
-[96:13:20] people will be flying a lot this summer
-[96:45:19] and we knew that journalists will be
-[97:09:19] writing about this topic a lot so on
-[97:51:59] behalf of our client we put together a
-[98:22:00] nice guide about how to fall asleep on
-[99:06:40] the plane then we use mrack to find
-[99:43:59] journalists who write about travel then
-[100:21:20] we put our advice in a nice email and
-[101:02:39] send the tips to the journalists within
-[101:48:40] just a few days the links started
-[102:22:40] Landing securing our client natural
-[103:01:59] placements in really big websites just
-[103:38:40] like this this and this this is a great
-[104:15:19] example about how you can leverage
-[104:48:00] seasonal Trends to earn links to a
-[105:21:59] website anticipate what journalists want
-[106:02:00] to write about at all times and give
-[106:38:39] them the stories that they need they
-[107:09:19] will reward you with some great juicy
-[107:56:39] links I hope hope this is helpful now
-[108:39:59] back to the video humans are
-[109:03:59] storytelling machines we learn best
-[109:38:40] through story because our emotions and
-[110:08:40] curiosity are kindled in the
-[110:34:40] introduction section of your videos make
-[111:05:19] sure to connect your content to a
-[111:35:59] personal story such as but in all
-[112:10:40] seriousness 3 years ago I saw the
-[112:42:00] writing on the wall so I set up on a
-[113:08:39] mission to create one video per week
-[113:38:00] until I figured this whole YouTube thing
-[114:02:40] out next I hope I don&amp;#39;t sound like
-[114:29:59] Captain Obvious here the best way to
-[115:02:00] keep people on your videos is with
-[115:28:40] quality information ultimately you want
-[115:59:59] your viewers to learn and sometimes it&amp;#39;s
-[116:29:20] just not enough to say guys trust me do
-[117:10:00] X Y and Z and this will happen for you
-[117:39:20] which is why you should always try to
-[118:00:40] back up your claims with data and
-[118:27:59] success stories now this next tip is the
-[119:00:00] one that new YouTubers fail on the most
-[119:34:39] at the end of the day YouTube is a
-[120:02:40] platform designed for entertainment it
-[120:31:59] was built off the backs of prank videos
-[121:04:39] fail videos and the hard work of
-[121:29:20] millions of cats the biggest channels
-[121:57:19] are all entertainment or entertainment
-[122:24:40] adjacent remember that always in the
-[123:12:40] beginning of this video I dropped in a
-[123:38:40] joke about Google losing the asset of
-[124:08:39] their user base could I have done that
-[124:33:20] on the fly if I were just fre fre
-[124:54:40] styling maybe but why leave it up to
-[125:26:39] chance this is where scripting shines
-[126:00:39] next I want to address an introvert&amp;#39;s
-[126:32:00] biggest fear and concern all right you
-[127:02:40] got the whole script all written and
-[127:30:00] planned out now how in God&amp;#39;s name do you
-[128:06:00] actually film it make it sound smooth
-[128:39:20] it&amp;#39;s actually the easiest part of the
-[129:09:20] whole process here&amp;#39;s my script in my
-[129:41:59] iPad I read a line memorize it and then
-[130:26:00] speak that line to the camera just like
-[130:54:40] I did right now and then in post editing
-[131:35:20] Stitches the whole thing together
-[131:59:59] removes all my stutters and
-[132:23:19] mispronunciations and makes me sound
-[132:52:40] like an actual competent human here&amp;#39;s a
-[133:24:00] sample of the bloopers it took to make
-[133:47:19] this video blogging was becoming less
-[134:19:59] popular as a
-[134:47:20] way I need do I study
-[135:52:39] a I can&amp;#39;t even say this earlier I told
-[136:49:59] you I let you know how this whole
-[137:11:19] YouTube introvert game plan played out
-[137:43:20] fast forward to now I got my introverted
-[138:15:20] ass 100,000 subscriber silver play
-[138:50:00] button and have one of the biggest
-[139:12:39] channels in my industry search engine
-[139:41:59] optimization in the meantime I built
-[140:14:39] eight successful businesses and by far
-[140:48:39] the biggest source of their growth has
-[141:15:20] been YouTube speak speaking of which if
-[141:46:00] you need help with video creation make
-[142:14:40] sure to use coupon code Matt 20 at Epic
-[142:52:40] video before the end of the month and
-[143:20:39] subscribe for more videos just like this
-[143:48:39] one
+[01:20] I spent the last six months trying to
+[37:20] figure out how to get websites featured
+[70:40] in Google's AI overviews, ChatGpt, and
+[117:20] every other AI search results. And I'm
+[153:20] afraid to say Iinging cracked it. One
+[195:59] client's AI traffic shot up over 2,000%
+[243:59] and they now appear in over 90 AI
+[277:20] overviews compared to zero before.
+[341:20] In this video, I'm going to show you how
+[370:40] to identify all the AI opportunities in
+[410:40] your niche, how to optimize your site to
+[445:20] show up in them, and how to track your
+[473:20] AI traffic so you're drowning in
+[500:00] dopamine every time you open analytics.
+[533:20] My name is Matt Diggity. I'm the
+[556:00] director of the Search Initiative, a
+[581:20] worldrenowned SEO agency managing some
+[616:00] of the biggest brands on the internet.
+[641:20] And today, I'm going to show you how
+[662:40] we're now doing SEO in the age of AI.
+[702:40] Let me first give you a quick background
+[726:40] on what this client was dealing with.
+[758:40] Imagine you run a website for a quality
+[792:00] brand. You're like the BMW of your
+[821:20] industry, but you don't show up in any
+[857:20] AI search results. Not Google, not Chad
+[898:40] GBT, nothing. Meanwhile, your
+[933:20] competitors with 1997 whatever mobile
+[977:20] websites are teaagging you and
+[1008:00] dominating all these AI searches. Our
+[1045:19] customer was frustrated. It would be
+[1071:59] like your grandma knowing how to out SEO
+[1105:20] you. With all due respect for grandma,
+[1134:40] we couldn't let that happen. Now, before
+[1162:40] I get started, quick heads up. My
+[1189:20] agency, The Search Initiative, is now
+[1217:20] taking on a handful of new clients. If
+[1248:00] you want results like this, we're
+[1268:00] offering $1,000 off month one in
+[1309:20] exchange for a testimonial down the
+[1334:40] road. Just head on over to the
+[1356:00] searchinitiative.com, put your deets
+[1386:40] into the form, and we'll hit you up. All
+[1414:40] right, let's get cooking. So, why would
+[1448:00] you want to optimize your website for AI
+[1486:40] anyways? Because not too long ago, when
+[1526:40] fine cultured people would search for
+[1553:20] something like premium Japanese whisies,
+[1592:00] they'd get served a set of websites from
+[1620:00] Google. And if you were the number one
+[1645:20] mofos like uisuki.com here, then you
+[1689:20] were like, I'm rich. But now the search
+[1748:00] result looks like this where AI
+[1774:39] overviews are summarizing the answer.
+[1810:40] There's links over on the right but no
+[1839:59] link to our tomodachi that means friend
+[1876:00] in Japanese. Usuki AI SEO is not only
+[1929:19] about getting your brand featured in the
+[1962:39] link section of the AI overviews. You
+[1997:20] also want to show up in chat GBT. Usuki
+[2035:59] is number one on freaking Google for its
+[2067:59] coveted keyword but not even listed here
+[2104:00] for online whiskey retailers in chat
+[2138:38] GBT. So how do you get into the AI
+[2177:19] answers? Think of it like this. If the
+[2210:40] AI uses you to come up with its answer,
+[2250:40] then it's likely to link to you. So, the
+[2289:20] name of the game is to do all the things
+[2321:20] that make the AI want to use your
+[2353:20] content. But where do we begin? First,
+[2386:40] you need to figure out all the AI
+[2414:39] opportunities in your niche so you can
+[2444:00] target them and optimize for them. HRS
+[2482:39] recently launched a new tool called
+[2506:40] Brand Radar. It lets you find out what
+[2537:19] AI is saying about your brand. Enter
+[2571:59] your brand name, product, or service and
+[2601:20] hit enter. I like to add my brand plus
+[2640:00] some competitors to see how I'm doing
+[2669:20] against them and what AI answers I need
+[2702:40] to steal. Once you hit explore, you can
+[2737:19] see the number of mentions of your brand
+[2765:20] versus your competition. Scrolling down
+[2798:40] further, here's where you'll find which
+[2825:19] AI keywords mention you or your
+[2858:39] competitors. If you want to see which
+[2885:20] keywords your competitors have and you
+[2913:20] don't, then set up a filter like you see
+[2942:40] here. And then voila, here we go. Now
+[2978:40] for the meat and potatoes. For the last
+[3006:40] 6 months, I've tested countless AI SEO
+[3044:00] theories. Here are the 12 most impactful
+[3078:40] tactics that you can use to make sure
+[3106:40] your website is featured in AI. Let's
+[3144:00] start with how to relearn your content
+[3176:00] strategy. The first tactic is to make
+[3214:39] sure your content is direct and concise
+[3253:20] and not fart around the answer with
+[3280:00] fluff. Here's the AI overview for do
+[3325:19] heat pumps work in water. The top Google
+[3365:20] results are actually from the sites
+[3394:40] Heatable and the Guardian, but they're
+[3424:00] not mentioned in the AI overview. in the
+[3453:20] Heatable article. Yes, it's very cute
+[3482:39] that they use language like when the
+[3510:40] Earth goes cold, we're likely to start
+[3540:00] seeing pigs fly, but AI don't play that
+[3578:40] game. Instead, let's look at Ira's
+[3612:00] article, who actually did get the AI
+[3645:20] overview link. Language like works
+[3688:00] exactly the same way in Winter is more
+[3728:00] confident and direct and immediately
+[3758:39] answers the question. Next, be
+[3789:20] conversational in the tone of your
+[3813:19] content. AI powered search isn't based
+[3847:59] on keywords like the old days of Google.
+[3881:19] It relies on how people actually speak.
+[3921:20] If you search for a keyword like
+[3949:19] 15minute home workout, surprise, no AI
+[3998:40] overview. But if you search, what's a
+[4032:00] quick 15-minute workout I can do at home
+[4066:40] without equipment? Sure enough, AI
+[4100:00] overview. So, to get picked up for these
+[4134:40] AI queries, you need to write
+[4161:20] conversationally and not robotically.
+[4200:00] Next, headings. You know, H1's, H2s, and
+[4249:19] so forth play a ridiculously important
+[4287:59] role in how AI systems understand your
+[4324:00] content. Here's how to think about them.
+[4350:40] H1, use a single H1 for the main title
+[4385:20] of your page. H2. Use H2 tags for major
+[4430:40] sections or questions. H3. Use H3s for
+[4485:20] sub points or nested ideas within an H2
+[4528:00] section. For example, here's a heading
+[4558:40] structure for an article on cloud
+[4580:00] hosting. Mailchimp has an article about
+[4612:00] when to post on Instagram with a
+[4640:00] designated H2 for posting on Sundays.
+[4681:20] Sure enough, it was picked up in the AI
+[4707:59] overview for should I post on Instagram
+[4742:40] on Sundays. After that, and this one is
+[4777:19] super easy, add a TLDDR summary at the
+[4817:20] beginning of your article. Providing a
+[4845:20] brief TLDDR, too long, didn't read,
+[4888:00] helps readers and AI quickly grasp the
+[4921:20] key points on your page. Alternatively,
+[4956:00] you can include a key takeaway section,
+[4988:00] which AI also really likes to site. Now,
+[5028:00] before I go on, here's one thing that
+[5054:40] you really need to know. All the AI bots
+[5094:40] need to trust you, your brand, your
+[5124:00] company, your reputation, if they're
+[5161:20] going to site you. So, let's get into
+[5183:59] some AI SEO tactics around brand and
+[5224:00] reputation. Start to regularly check AI
+[5276:00] platforms for what it knows and thinks
+[5305:20] about your brand. Some prompts you can
+[5334:40] use are, "What can you tell me about my
+[5364:00] brand?" and "What does my brand do?"
+[5397:20] Here's an example of what would come up
+[5419:59] in chat GBT. If you see anything that's
+[5465:19] wrong or inaccurate here, you need to
+[5497:20] take action in this next step. Take
+[5534:40] control of your brand narrative. LLMs
+[5574:39] learn about your business and its
+[5600:00] reputation from the following places:
+[5636:00] Google Business Profile, Yelp, LinkedIn,
+[5673:20] Trust Pilot, and so forth. Make sure
+[5705:20] you've claimed these listings and their
+[5736:00] information matches your website's about
+[5774:39] and FAQ pages and the reviews. Bro, do
+[5836:00] everything you can to maintain a high
+[5866:40] star rating. The number of reviews and
+[5900:00] average rating has a stupid amount of
+[5926:40] control over your AI SEO rankings. And
+[5970:40] don't just collect reviews on these
+[5995:59] profiles. Highlight them visibly on your
+[6034:40] website. Next is an industry secret that
+[6074:39] every OG SEO knows. If you want to
+[6110:39] improve your website's trust and
+[6138:39] reputation in Google's eyes, get
+[6166:40] high-quality links from relative
+[6192:00] domains. The oldest story in SEO.
+[6224:00] Backlinks from reputable sites act as
+[6260:00] trust signals for both users and AI
+[6309:20] systems. Now, this isn't a paid promo.
+[6341:19] In fact, they don't know I'm dropping
+[6361:20] this at all, but these days, I've been
+[6390:40] getting high authority links from simply
+[6419:59] media.digital. The quality for price is
+[6454:40] just way too good. Now that you've
+[6480:00] convinced Google to trust your brand, we
+[6513:20] still need to make sure that they trust
+[6536:00] your content, the stuff you write. If
+[6568:00] you think about how AI systems work,
+[6600:00] they dump out a bunch of information and
+[6631:59] they site the content they use so you
+[6668:00] can trust it. You need to do the same
+[6700:00] thing. Use credible sources and provide
+[6736:00] links to them. You also want to publish
+[6765:19] expert-driven content. Use quotes from
+[6802:40] experts to salt bay a dusting of trust
+[6834:40] to your content and include author bios
+[6866:40] with credentials on each of your
+[6889:20] articles. Speaking of credentials, if
+[6922:40] your business has any industry
+[6952:00] certifications or awards, list them on
+[6985:20] your site. If you're a Michelin star
+[7010:39] restaurant, you'd have to be smoking
+[7033:20] crack not to display it. Next, it's not
+[7068:00] just enough to say that you're an
+[7090:40] expert. You have to actually show it. Do
+[7124:00] that with case studies, real world
+[7156:00] examples, client success stories, and
+[7193:19] original research. This not only adds
+[7225:20] credibility, but signals to AI systems
+[7264:00] and Google that your content
+[7288:00] demonstrates firstirhand experience and
+[7318:40] proven results. That's exactly the kind
+[7353:19] of content that AIdriven systems are
+[7389:20] designed to highlight. Now, for the most
+[7421:20] important step of all, I'll quote the
+[7449:20] business legend Peter Ducker, "If you
+[7481:20] can't measure it, you can't improve it."
+[7513:20] You must track your AI traffic in Google
+[7552:00] Analytics 4. Navigate to reports,
+[7590:40] acquisition, traffic acquisition. This
+[7625:20] is where you'll find your general
+[7646:40] traffic stats. Then click add comparison
+[7685:20] at the top. Add a filter for only
+[7717:19] referral traffic. Then under dimension,
+[7752:00] search for session source/medium.
+[7794:40] Yes, I know analytics has the user
+[7822:40] experience of a medieval torture
+[7846:40] chamber, but we're almost done. Under
+[7871:59] match type, select matches reax and then
+[7918:40] paste this big ass regular expression,
+[7952:00] which is also in the description. With
+[7978:40] any luck, you'll have some AI traffic.
+[8006:40] You can see what platforms it came from
+[8034:40] and what pages on your site it's going
+[8061:20] to. So, what was the result of all this
+[8095:59] effort? 2,300% increase in AI referral
+[8147:59] traffic. The client site is appearing
+[8174:39] for 90 keywords and AI overviews
+[8206:40] compared to zero before the campaign.
+[8234:40] And yes, their typical Google SEO
+[8264:00] traffic took off, too. If you'd like us
+[8293:19] to take a look at your SEO, head on over
+[8324:00] to the searchinitiative.com and use the
+[8358:40] form at the bottom to reach out. That's
+[8389:20] it. We'd be happy to take a look at your
+[8416:00] site. Let you know what we can do for
+[8438:39] you. $1,000 off your first month until
+[8477:19] the end of the month.

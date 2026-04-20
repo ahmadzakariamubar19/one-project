@@ -1,735 +1,543 @@
-# Expert Name: Nathan Gotch
-# Video Title: How to ACTUALLY Learn AI SEO (in 2026)
-# Video URL: https://www.youtube.com/watch?v=HzgMpTVJpz0
-# Publish Date: Unknown
-# Transcript Source: Supadata
+# Expert Name
+
+Nathan Gotch
+
+# Video Title
+
+Local SEO & AI Search Masterclass for 2026
+
+# Video URL
+
+https://www.youtube.com/watch?v=53h_-LoEGiw
+
+# Publish Date
+
+Unknown
+
+# Transcript Source
+
+Supadata YouTube Transcript API
 
 ## Transcript
 
-[04:00] So today I'm going to be showing you how
-[32:00] I would learn, execute, and master SEO
-[01:18:40] and AI search optimization if I was
-[02:00:00] starting from scratch today in 2026. So
-[03:00:00] just to give you a little bit of
-[03:20:00] perspective, I actually started doing
-[03:52:00] SEO uh was actually 2011 was when I
-[04:45:19] discovered SEO for the first time and
-[05:16:00] then I started my SEO business in 2013.
-[06:18:40] And since that point, I have been doing
-[06:58:39] SEO every single day. And I've led
-[07:58:40] hundreds of successful SEO campaigns.
-[08:43:59] I've helped I mean, I guess I've lost
-[09:27:59] count. Uh, you know, hundreds, thousands
-[10:05:20] of agencies, SEO professionals, uh,
-[10:50:40] through my content, through my training.
-[11:24:00] Uh, and then, of course, I do run
-[11:51:59] multiple software companies where we're
-[12:19:59] helping, um, all kinds of businesses get
-[13:01:19] really great SEO and AI search results.
-[13:44:00] So, uh, I eat, live, and breathe this
-[14:46:39] all day, every day. And so, if you want
-[15:41:20] to learn how I would actually, you know,
-[16:22:40] kind of if I was starting today, what I
-[16:46:39] would do, I do things very differently.
-[17:21:20] Okay, when I started SEO, it's obviously
-[17:58:40] a different game. SEO was synonymous
-[18:34:40] with Google, and that's all you had to
-[18:58:40] think about was let's just rank in the
-[19:28:00] 10 blue links and we're good to go,
-[20:06:40] right? That was the idea. Um, and a lot
-[20:45:20] has changed to say the least. So, what I
-[21:28:00] want to show you is, you know, what I
-[22:00:00] would do. Um, and let's kind of walk
-[22:30:40] through kind of my framework for
-[23:02:40] thinking about about learning because
-[23:43:59] obviously the way that uh we we learn in
-[24:26:40] school is extremely outdated and not
-[25:16:00] applicable uh to this current
-[25:45:20] environment. Okay, I'm going to show you
-[26:09:19] how I I'm able to learn things uh very
-[26:58:39] very fast. Here's what it is. So, use
-[27:47:59] just in time learning. Okay, so just in
-[28:34:40] case learning is what we do in school,
-[29:08:00] right? So you you go into college and
-[29:45:19] you sign up for a bunch of classes and
-[30:13:19] you learn a bunch of stuff that you're
-[30:33:20] never going to use, right? And maybe one
-[31:14:39] day you might use it, but it's really
-[31:47:59] not that applicable in any way. But
-[32:19:59] something that's way more powerful, and
-[32:49:19] this took me a really long time to
-[33:14:40] learn, which is just in time learning.
-[33:52:00] And even when I was still early in my
-[34:18:40] SEO business, I would still spend so
-[34:55:59] much time like reading books and I'd set
-[35:36:00] up my reading routine and I'd read my,
-[36:09:20] you know, chapter a day and I'd do all
-[36:37:20] of that and then I would sit back and
-[37:04:00] I'd be like, I just read all this stuff,
-[37:42:40] but like I don't even know how to
-[38:08:00] implement it. I'm not implementing. I'm
-[38:38:40] not using it. And it wasn't until like
-[39:19:59] later on in my you know my journey as an
-[40:03:59] entrepreneur where I started to learn
-[40:36:00] that like it's much better just to
-[41:09:20] follow this framework here which is you
-[41:53:20] act when you face a roadblock during
-[42:42:40] action you go and solve that roadblock.
-[43:30:40] Now for many years before chat GBT came
-[44:18:39] out you actually had to solve this
-[44:49:20] problem and a lot of these problems were
-[45:21:20] very difficult to solve but now with AI
-[46:11:59] you hit a roadblock you can go to chat
-[46:53:20] GBT Gemini claude name whichever one you
-[47:37:20] want it doesn't make a difference they
-[47:54:40] can all solve problems really really
-[48:16:00] well you fix that one tiny little
-[49:02:40] problem and then you just keep moving
-[49:44:00] and you do that thousands and thousands
-[50:22:40] of times there is no shortcut to this
-[51:01:20] even with AI you still have to do this
-[51:38:40] So as of right now, the most important
-[52:18:39] thing you have to learn is search
-[52:54:40] everywhere optimization. So as I
-[53:44:00] mentioned before, Google was all that
-[54:19:59] mattered and Google is still absolutely
-[55:12:00] enormous. Okay, so this is not to say
-[55:49:19] that you should just disregard Google.
-[56:17:20] In fact, Google uh is much more
-[56:55:59] fragmented than ever. Okay, so it used
-[57:27:59] to be we would just care about you know
-[57:51:59] the 10 blue links. But now we have to
-[58:25:19] think about multiple products within
-[59:02:40] Google itself. So this is product number
-[59:36:00] one and this think of this as the index.
-[60:26:39] Okay. And this is what feeds the AI
-[61:19:59] products in Google. Okay. So you have to
-[61:58:40] do well in traditional search if you
-[62:48:00] want to have any way to actually
-[63:13:19] influence Google's AI products. Okay. So
-[63:50:40] like this is this goes without saying.
-[64:19:59] This is not going anywhere. It's just
-[65:00:00] not going to be uh it's not going to be
-[65:37:19] prioritized in this user interface
-[66:11:59] anymore. You're just going to see it
-[66:34:40] slowly just going to fade away. you're
-[66:57:20] not going to see blue links probably
-[67:18:39] very much uh because the blue links are
-[68:09:20] just designed to be the the meat for the
-[69:00:00] AI. Okay. Now, what are the other AI
-[69:37:20] products that you need to pay attention
-[69:58:40] to for the search everywhere
-[70:26:39] optimization process? Well, the first
-[71:16:00] one is when we're actually inside of the
-[71:55:59] traditional search and this is
-[72:22:40] e-commerce, so AI overviews don't always
-[72:54:39] pop up and it doesn't look like they're
-[73:24:00] actually showing up here. But if we
-[73:44:00] change this, if we modified this query a
-[74:20:00] little bit. So if we did like, you know,
-[74:50:40] what are the best baseball cleat for
-[75:41:19] pitchers,
-[76:13:20] this will probably spawn an AI overview,
-[76:49:20] right? Because I I I made a little
-[77:16:00] moreformational. I extended the length
-[77:52:00] of the query. I added more context. And
-[78:36:00] of course, it's going to push out that
-[78:56:00] AI overview. So this is the second
-[79:40:00] product that you need to understand as
-[80:14:40] an SEO. Okay. So how do we influence
-[81:00:00] this? All right. All right. And the good
-[81:24:00] news is it's it's pretty simple. You if
-[82:06:40] you do well on Google and you have a
-[83:12:00] presence on YouTube and you continually
-[84:17:20] uh drive awareness for your brand across
-[84:57:20] all of the uh the assets that are
-[85:37:20] performing well in search that greatly
-[86:06:40] increases your odds of influencing these
-[86:50:39] AI answers. Okay. So AI overview is the
-[87:29:20] second product we have to learn. Then we
-[88:10:40] also have to learn AI mode. Okay. And so
-[89:00:00] this is a separate product does not
-[89:37:19] function exactly the same as AI
-[90:09:20] overviews. And a perfect example is we
-[90:46:40] can see that the even the retrieval
-[91:16:00] sources that were used slightly
-[91:54:40] different than AI overviews, right? Not
-[92:26:40] exactly the same. This is
-[92:54:39] non-deterministic with AI. There's not
-[93:37:19] it's not like the traditional search
-[94:05:20] results where it basically stays the
-[94:30:40] same, you know, within reason. It's
-[95:06:40] there's a lot of volatility in in the
-[95:58:40] retrieval sources, the citations, what
-[96:38:39] AI is pulling from. it's changing all
-[97:13:20] the time and so it is somewhat of a
-[97:58:40] moving target in that way but you can
-[98:22:40] start to see the trends over time. Okay.
-[99:08:00] And so AI mode is the third product in
-[100:07:59] Google that you have to pay attention to
-[100:30:40] and you can even see uh the way that
-[101:09:20] this this answer structured is different
-[101:41:20] than the way it was structured in the AI
-[102:18:39] overviews. Much more product focused,
-[102:57:19] much more ecommerce focused. Okay. So
-[103:56:00] different game on that as well. Now we
-[104:37:19] can see one more Google product which is
-[105:49:20] uh good old Gemini. All right. And this
-[106:45:19] is once again another AI product that
-[107:30:39] Google has. It's a it's an independent
-[108:05:20] experience and we could run typically
-[108:42:40] you know run this same exact query and
-[109:26:40] we're probably going to get pretty
-[109:55:59] similar results but once again it's
-[110:24:00] going to be slightly different. Okay.
-[111:11:59] So, this puts us in a position where
-[111:42:40] just with Google alone, we've got
-[112:22:40] basically like four products that we got
-[112:58:40] to pay attention to. Oh, and I actually
-[113:27:59] didn't even mention the other one if
-[113:49:19] you're doing local. Okay. So, so we'll
-[114:33:20] go and just look, you know, um actually
-[115:01:20] there was a good one here for baseball
-[115:24:00] cleats. You can go down. We could see um
-[115:56:00] you know, we've got the local pack. All
-[116:21:20] right. And the local pack has its own
-[117:02:40] unique ranking variables. Okay. So,
-[117:48:00] let's do a little recap here. We've got
-[118:18:39] Google traditional. We've got goo uh
-[118:58:39] Google AI overviews. We have Google AI
-[119:36:00] mode, we have Google Gemini, and we have
-[120:18:40] the local pack. So, if you want to be a
-[121:09:20] a highly paid SEO and AI search expert
-[122:21:19] just on Google, you need to understand
-[122:56:00] five different products. Okay? Now, that
-[123:36:00] might seem extremely overwhelming, and I
-[124:05:20] understand that it would be, but the
-[124:36:00] good news is like there is there is uh
-[125:13:20] it's really starting to become very
-[125:40:00] clear how to influence these various
-[126:13:20] systems. Okay? And obviously outside the
-[126:52:00] scope of this video, I can't talk about
-[127:20:00] all the different systems, but the good
-[127:58:40] news is once you dig in and you start to
-[128:33:20] see it's not it's not as difficult as as
-[129:21:20] it appears on the surface, but it's more
-[129:49:20] I want to I want to give you as much
-[130:13:20] surface area as possible. So, you know,
-[130:52:00] like, okay, I need to learn AI
-[131:26:39] overviews, you know, for the next month.
-[132:05:20] And then I and then, you know, maybe
-[132:32:00] next quarter I'm going to focus on AI
-[133:05:20] mode, then the next quarter I'm going to
-[133:27:59] focus on just Gemini, right? Like you
-[134:13:19] want to start to segment it out like
-[134:37:19] that. So you can give yourself enough
-[135:01:20] space to really learn these platforms.
-[135:49:20] It's not just about figuring out like
-[136:16:00] the geeky ranking factors and the things
-[136:46:40] that influence them. But like the way to
-[137:17:20] really learn these platforms is to use
-[137:49:20] them. Use them, test them, run lots of
-[138:36:00] queries and really just see what shows
-[139:17:20] up, right? Like you need to become you
-[139:57:20] need to become a student of of not just
-[140:54:40] the traditional search results, but a
-[141:18:40] student of all these products. Like
-[141:52:00] study what Gemini shows, right? Look at
-[142:29:19] this. Okay, this is interesting. And you
-[143:00:00] start to dig in. You see the types of
-[143:24:00] things that it shows. Look at its
-[143:54:40] thought process, right? You can see this
-[144:26:40] they they're making it more vague over
-[145:07:59] time, but you can even see kind of like
-[145:38:40] the thought process and and the way that
-[146:05:20] it it tends to go through this
-[146:33:20] reasoning. Um, these are the things you
-[147:05:19] need to be studying, right? This is very
-[147:36:00] important. So, run lots of queries.
-[148:20:00] Okay. Now, aside from Google, there's
-[149:20:00] lots of other AI products that you need
-[150:00:00] to be paying attention to as well. So it
-[150:44:00] goes without saying that chat GBT is the
-[151:42:40] next biggest one. Okay. So you need to
-[152:08:00] learn how chat GBT works, right? So we
-[152:50:40] go into chat GBT. We can go ahead and uh
-[153:33:20] we'll run incognito. We're on that same
-[154:13:20] exact query. You know, what are the best
-[154:34:40] baseball cleats for pitchers, right? And
-[155:05:20] this will be a different you you're
-[155:42:40] probably going to see some blending of
-[156:03:59] different products. Um but for the most
-[156:53:20] part, the retrieval sources will likely
-[157:21:20] be slightly different or maybe very
-[158:07:59] different. uh the answer is going to be
-[158:44:00] slightly different than what you're
-[159:02:40] going to see on Google. So once again, a
-[159:49:20] unique surface, a unique product that
-[160:32:00] you need to optimize for. Okay, so uh
-[161:17:20] chat GBT is huge. The next one would be
-[162:00:00] aside from that would, you know, they
-[162:21:20] kind of all in the same bucket, but I
-[162:45:20] would put perplexity, claude, grock, um
-[163:46:40] and put those into a bucket as well that
-[164:14:39] you would want to spend some time
-[164:34:40] optimizing. Okay, so we can see here
-[165:20:00] once again when you when you run queries
-[165:54:39] on chat GBT, open up that thought
-[166:27:59] process and just see what did it search
-[166:58:40] for, right? What did it search for? And
-[167:26:40] it actually didn't do a massive amount
-[167:57:20] of retrieval on this one. So we can see
-[168:41:19] it, you know, it usually when you use
-[169:20:00] the thinking models, it does a lot more
-[169:49:20] research, but in this case, it actually
-[170:25:19] didn't do very much, right? Pretty
-[170:52:00] simple stuff. And funny enough, it
-[171:16:00] actually pulled from a lot of social
-[171:40:00] media. So, Facebook, YouTube, Instagram.
-[172:30:40] Once again, showing that like, you know,
-[173:05:20] it's not just about your website. You
-[173:32:00] got to be focusing on driving brand
-[173:56:00] awareness across many different
-[174:22:40] platforms all around your subject matter
-[175:00:00] expertise. Okay, that's what's really
-[175:30:39] really important. So, that's chat GBT
-[176:12:00] and I mentioned the other one. So,
-[176:29:20] that's really what you want to be
-[176:45:20] thinking about when it comes to this
-[177:05:19] process of search everywhere
-[177:22:40] optimization is like don't don't get
-[177:57:20] romantic about any given platform. Like
-[178:30:40] you need to be a student of every single
-[179:18:39] platform. You need to use all these
-[179:45:20] platforms. download all the apps, play
-[180:34:39] with the different ones. Like you need
-[181:01:20] to be platform agnostic. Like you need
-[181:33:20] to just dig in and just run queries and
-[182:12:00] just learn. Okay? And there's no
-[182:52:00] shortcut for this. You you really have
-[183:18:40] to just become a student. Okay? So
-[183:42:40] that's the first part. Next thing is
-[184:18:39] obviously there's other, you know, the
-[184:46:40] other big uh search engine that I think
-[185:20:00] would be very intelligent to spend some
-[185:48:00] time, you know, digging into is the one
-[186:27:59] you're currently on listening to this
-[186:57:20] video, which is YouTube. Okay? And I
-[187:45:20] think, you know, YouTube is the the most
-[188:38:40] important uh aside from Google because
-[189:20:00] it is the second most popular website on
-[189:57:19] the internet and there's tons of
-[190:33:20] searches going on here. And so having a
-[191:16:00] good understanding of how um how YouTube
-[192:13:20] surfaces videos for viewers is very
-[192:50:40] important, right? And the good news is
-[193:21:19] it's not that complicated. Um you know,
-[194:01:20] relevance is the key. Relevance is the
-[194:34:40] key to any platform. So if you want to
-[195:02:40] drive better visibility literally on any
-[195:48:00] platform, it doesn't matter whether it's
-[196:09:20] YouTube or Instagram or Tik Tok, it's
-[197:00:00] all about relevance. You want to get
-[197:33:20] granular, super super focused on it. Um,
-[198:25:20] and that's how you can do it. So
-[198:56:00] hopefully that gives you a lay of the
-[199:16:00] land of kind of like what to focus on
-[199:49:20] the the general channels. And yes, I
-[200:14:40] know it's quite overwhelming and that's
-[200:42:40] why I want you to just really focus in
-[201:10:40] on like one core channel, you know,
-[201:53:20] probably every month. Just kind of dig
-[202:17:20] into one channel and really learn it. Um
-[202:56:00] and I think that that will certainly
-[203:24:00] help a lot. Uh now let's talk about
-[203:52:00] tools. So the first one I use is search
-[204:26:40] OS. This is where I manage all of our
-[204:56:00] work, right? All of the work that I'm
-[205:21:19] doing in SEO or product development,
-[206:06:40] anything we're doing, you can see I mean
-[206:42:40] this is this is the reality of um
-[207:21:20] there's a lot of work going on in here.
-[207:50:40] Okay. So I mean I'll even just show you
-[208:21:19] we'll go into the rankability board and
-[208:46:40] you'll see like in the engineering like
-[209:14:39] engineering all this stuff that's going
-[209:40:00] on at any given time. there's a lot of
-[210:18:40] work happening and this is where I
-[210:38:40] manage everything not just SEO but
-[211:13:19] literally the whole process and you know
-[212:00:00] later on this video I'll show you an
-[212:30:40] example where uh my agent is actually in
-[213:24:00] here moving stuff around okay you can
-[213:53:20] see this completed here this is my agent
-[214:34:40] Serena okay and she goes and she can
-[215:25:19] directly control my whole project
-[216:10:40] management inside of here okay and I'll
-[216:38:40] show you how that's possible but search
-[217:13:20] OS is how I manage everything this is
-[217:45:20] also you know a platform where you can
-[218:26:39] learn how to do SEO and AI search
-[219:08:00] optimization as well. As you can see in
-[219:47:59] the academy, we have a bunch of new
-[220:10:39] lessons that are popping up here every
-[220:34:39] single day. Uh and then all the systems
-[221:06:40] as well. Okay. Now, the other tool that
-[221:48:00] I use obviously is rankability. Okay.
-[222:41:20] This does almost everything that you
-[223:22:40] need to do in an SEO and AI search
-[224:02:40] campaign. Um, and this is the the tool
-[224:46:40] that I use literally every single day
-[225:20:00] for tracking performance, for producing
-[226:00:00] content, you know, for doing keyword
-[226:31:59] research, everything. Okay, the next one
-[227:13:20] that I use um is Replet. Okay, so Replet
-[228:42:40] is I am um hardcore replet person and
-[229:57:19] our entire website rankability is all
-[230:33:20] built through replet the entire thing.
-[231:10:40] Okay, it's all HTML and um this is not
-[232:12:00] for beginners. I will tell you that. But
-[232:38:39] I'm telling you this, one of the most
-[233:21:19] important skills that you can learn
-[233:44:00] right now is AI coding. You need to be
-[234:32:00] able to code with AI. I'm sorry. Like
-[235:15:59] this is a critical skill that you need
-[236:07:59] to spend at least a weekend just like
-[236:44:00] just build something like anything. Just
-[237:32:00] build a little stupid small little app
-[238:11:59] like just do something with AI. You
-[238:49:20] don't have to use reply. You can use
-[239:10:40] claude code. You can use codeex with
-[239:49:20] open AI. I use all of them honestly.
-[240:39:59] Like I use Replet. I use all three. Um
-[241:38:40] but just build something, okay? It's
-[242:23:59] really really important. I cannot stress
-[242:54:40] it enough. Once you see the power, once
-[243:25:20] you see the capabilities, you can't go
-[243:52:00] back. Just trust me on this. Spend just
-[244:29:20] spend that time to to learn it. And like
-[244:58:40] I said, the only way to learn this is to
-[245:56:00] do the work. Okay? There is no shortcut
-[246:41:19] for this. You can watch as many videos
-[247:08:00] as you want. You can, you know, consume
-[247:47:59] as much as you want. nothing will
-[248:24:00] prepare you for just getting your hands
-[249:09:19] dirty and playing with the AI. Just play
-[249:50:40] with the AI. I'm telling you, uh that's
-[250:28:00] the best way to learn. Okay. Now, aside
-[251:01:20] from that, uh goes without saying that
-[251:31:59] chat GBT is one of my my go-to just for
-[252:16:00] like problem solving. So, I'll go and
-[252:53:19] use GBT 5.4. When I hit any roadblocks,
-[253:45:19] I'll work through that roadblock and
-[254:13:19] boom, I keep moving. That's my go-to for
-[254:47:59] solving little tiny problems that, let's
-[255:26:40] say, Replet can't solve or some other AI
-[256:13:19] can't solve. I'll come in into 5.4 and
-[257:06:40] usually get the job done. Okay, another
-[257:46:40] thing that I've been using a lot
-[258:13:20] recently. I'll show you an example of
-[258:50:39] this is uh the claude browser extension.
-[259:56:00] Okay, so use the claude browser
-[260:21:19] extension and you know for example in
-[260:56:00] this case uh we have a G2 profile and it
-[261:36:00] got really outdated. So I logged in and
-[262:17:20] I had Claude go and cross-check all the
-[262:56:00] information on our website and then
-[263:26:39] actually went and updated all this
-[263:50:39] information on G2. I didn't have to
-[264:20:00] touch a single setting inside of G2. It
-[264:57:19] changed the whole thing. So, I would
-[265:36:00] highly recommend downloading this. You
-[266:06:40] don't actually have to use the Claude uh
-[266:41:19] browser extension. You can use uh you
-[267:38:39] can use Gemini directly inside of
-[268:11:59] Chrome. You can also use uh if you're
-[268:53:20] using the Atlas browser from Chat GBT,
-[269:57:19] you can use ChatgBT directly in the
-[270:24:00] sidebar like that as well. So, um, I've
-[271:03:59] tested all of them, you know, and I have
-[271:31:59] a I have a video showing this, but my
-[272:06:40] favorite personally, uh, is the the
-[272:50:40] Clawed browser extension. I think it is,
-[273:24:00] it, you know, seems to be the smartest
-[274:01:20] with Opus. So, just my my personal
-[274:42:39] preference, but like I said, they're all
-[275:15:59] pretty good. Even Perplexity's comment
-[275:43:59] browser is good, too. Okay. Now the next
-[276:30:40] thing I want to show you which is the
-[277:09:19] biggest hack. Okay, this is a massive
-[277:42:39] hack and this is just something um that
-[278:22:40] I've been using for the last like
-[278:56:00] probably month give or take and it it
-[279:32:00] has uh probably
-[280:13:20] five times uh five times my productivity
-[281:09:20] on a daily basis and it's whisper flow.
-[281:42:40] It is like such an unlock to move so
-[282:33:19] much faster. So like a couple ways that
-[282:57:19] I use it. Number one is when I'm doing
-[283:39:59] coding like in Replet or any of the AI
-[284:17:20] coding, I can just speak what I'm seeing
-[285:02:40] and it's much easier to to uh explain
-[285:49:19] something like through voice than it is
-[286:29:20] to type it. And you can also do it a lot
-[286:57:19] faster. So that's one big thing that I
-[287:40:00] do. Another little hack um that I do is
-[288:34:40] for all of my um my emails, my social
-[289:30:40] media content, whatever it is, I speak
-[290:14:40] first because I want to make sure that
-[290:45:20] it sounds like me. It has my voice, it
-[291:32:00] has my style, right? And this is a good
-[292:06:40] way to kind of diversify yourself uh and
-[292:57:20] kind of build a moat away from AI
-[293:32:00] content, right? Like AI can't really
-[294:20:00] emulate your full kind of cadence and
-[295:00:00] style yet. Um I, you know, I don't want
-[295:50:39] to say anything's not possible, but it
-[296:15:59] certainly could at some point probably.
-[296:49:19] Um but as of right now, this is one way
-[297:29:20] to really humanize your content to
-[298:01:20] really help it stand out. So, I speak it
-[298:36:00] and then I go into chat GBT and I say,
-[299:18:40] uh, very simple prompt. I say, um,
-[300:06:40] revise this, clean it up, but keep my
-[300:54:40] voice, okay? And it will just do some
-[301:30:40] slight little tweaks here and there, but
-[302:04:00] it doesn't lose that like, you know,
-[302:33:20] that raw that raw style uh that that's
-[303:25:20] yours, right? And so, voice allows you
-[304:01:20] to do that. It's really, really big. Um,
-[304:54:39] and then the next thing is, uh, going
-[305:22:40] back to the search everywhere
-[305:42:39] optimization element of this. So back in
-[306:12:00] the day when you did tracking for SEO,
-[306:48:00] you put your keyword in and so like it
-[307:24:00] actually in this case you'd probably
-[307:48:00] just do Google, right? So you just track
-[308:25:20] your Google rankings, right? That was
-[309:02:39] the thing. But I highly recommend you
-[309:42:40] start thinking more about tracking your
-[310:09:19] performance across all platforms. Okay,
-[310:49:20] this is very important because you'll
-[311:13:20] see like you know the tool that I use um
-[312:13:20] tracking traditional, tracking AI
-[312:42:40] mentions, tracking AI citations, and
-[313:14:39] then if it's a local campaign, we're
-[313:37:19] also tracking the local pack. And this
-[314:14:40] gives you a total search performance
-[314:54:39] score, right? And that's what you want
-[315:21:20] to see like how are you doing for search
-[315:52:00] across everything. What is that
-[316:33:20] cumulative look? Because if you're
-[317:06:40] growing a brand, you want to be
-[317:33:20] everywhere. You don't just want to be in
-[317:52:00] some places. You want to have total
-[318:17:20] domination. And so far, um, I I've, you
-[319:14:40] know, I've we've ran thousands and
-[319:49:20] thousands and thousands of queries. Um,
-[320:38:40] and I can tell you very rarely have I
-[321:23:59] ever seen anyone that's crushing it
-[321:46:40] across every single thing. Like even
-[322:29:20] well-known brands still not crushing it
-[323:10:40] across everything. It's very rare. So,
-[324:05:20] everyone has room to improve. Everyone,
-[324:41:20] every brand has room to improve. Um,
-[325:33:20] some more than others. Let's just say
-[325:58:40] that much. Okay. So, you should be
-[326:18:40] tracking traditional search. You should
-[326:53:19] be tracking your AI answers, which means
-[327:32:00] is my brand being mentioned in the
-[328:06:40] actual AI answer itself. Right? this is
-[328:44:00] this is what this means like are we
-[329:10:39] being recommended by the AI okay that's
-[329:39:59] what you want to be tracking you want to
-[330:09:19] be tracking citations but specifically
-[330:58:40] you want to be tracking uh you know yes
-[331:40:00] is your domain being uh is one of the
-[332:26:39] core citations that's obviously matters
-[332:54:40] a lot and are you being cited across
-[333:24:00] multiple platforms absolutely a a must
-[334:20:00] and you should be doing that because you
-[334:42:40] can control that but you also want to be
-[335:21:20] looking at um are you actually mentioned
-[336:09:20] on the other sources of retrieval Okay.
-[336:57:19] So that's why you can see here like
-[337:18:40] linked and unlin. This is where you know
-[338:05:20] uh this particular brand is being
-[338:36:00] mentioned on these retrieval sources.
-[339:21:19] Right. So like we search for
-[340:02:40] rankability. You'll see that rankability
-[340:40:00] is mentioned here. Right? So like we're
-[341:13:20] mentioned on this list. That is good.
-[341:58:40] Okay. And that's what you want to see.
-[342:22:39] But you also when you look at these
-[342:46:40] gaps, you know where are the gaps? Where
-[343:25:20] are the places where we're not
-[343:45:20] mentioned? We know these become our
-[344:18:40] outreach targets. and then we can send
-[344:49:20] them emails and see if we can get
-[345:14:40] mentioned here. Okay, simple as that.
-[345:48:00] All right, and this is really really
-[346:09:19] important. This is the new way of doing
-[346:42:39] offsite is focus on the the top
-[347:25:20] retrieval sources. Okay. Uh and then
-[348:08:00] aside from that, when it comes to other
-[348:29:19] tools, you should always integrate
-[349:00:00] Google Search Console or just use Google
-[349:28:00] Search Console in general and then of
-[349:54:39] course Google Analytics 4, right? So,
-[350:30:40] Rankability integrates both of those,
-[350:54:40] but you can just use them also. They're
-[351:28:00] free. So, you know, just you there's no
-[352:09:20] it's a no-brainer you should be using
-[352:33:20] them. Okay. All right. So, those are the
-[353:21:20] biggest ones. Now, let's talk about two
-[353:57:20] other ones that you also should be
-[354:32:00] playing around with. Number one is
-[354:56:00] Screaming Frog. Okay. Like, Screaming
-[355:27:59] Frog is one of the best crawling tools
-[355:58:40] that exists. You should use it. Okay?
-[356:40:00] It's it's really like a a no-brainer for
-[357:20:00] doing technical SEO. All right. And then
-[357:50:40] the last one here which is much more new
-[358:44:00] uh highly controversial
-[359:21:19] uh and also um you know you got to you
-[360:25:20] got to be willing to to you know battle
-[361:18:40] through it is OpenClaw. Okay. So if you
-[361:58:40] don't know OpenClaw I'll just show you
-[362:21:20] real quickly. Uh let's see openclaw.ai
-[363:41:20] and you'll see this is openclaw. All
-[364:06:39] right. This is an opensource agent.
-[364:54:39] Okay. Yes, you could use Claude. You can
-[365:46:39] use the other ones that are coming out,
-[366:19:59] but this is the only one that's truly
-[366:52:00] open- source, which means you really are
-[367:30:39] in full control. That's what I I that's
-[368:09:20] the real value of this. Um, and you
-[369:01:20] know, like I said, there's risk involved
-[369:41:20] with this. So, the way to derisk is to
-[370:42:39] have a dedicated device where this agent
-[371:28:00] can live. So, yes, I did buy another Mac
-[372:24:00] Mini. So, you know, my setup here on my
-[373:01:20] desk is I've got my core computer over
-[373:42:40] here on the right. I have it mounted
-[374:08:00] below my desk and then I've got my other
-[374:45:20] Mac Mini um on the left over here and
-[375:38:40] that's purely for the agent. Okay, so
-[376:15:59] I'll just show you an example of this.
-[376:52:00] Um you'll see let's see here.
-[377:58:40] Okay, so this is like an example of uh
-[378:54:40] you know the setup. So, I have Telegram,
-[379:25:19] which is, you know, how I communicate
-[379:50:40] with my agent. And then I, you know,
-[380:34:40] this is a more recent hack, and not to
-[381:02:40] get crazy advanced here, but, uh, I
-[381:42:39] actually downloaded codecs specifically
-[382:25:20] on my other computer. Okay, so this
-[382:58:40] actually, what you're looking at here is
-[383:18:39] actually a shared screen showing my
-[383:47:59] other computer that's on all the time.
-[384:28:00] Whenever there's an issue with OpenClaw,
-[385:08:00] there inevitably always is uh issues
-[385:49:20] going on. Um, I have to open this up and
-[386:36:00] run some diagnostics to fix it. just
-[387:17:20] goes without saying, okay, there's going
-[387:41:19] to be problems. Just expect it. Um, but
-[388:22:39] the biggest hack recently is that I've
-[388:50:40] actually been using codeex to fix a lot
-[389:30:40] of the OpenClaw issues and this is like
-[390:04:00] massively increased my productivity.
-[390:37:20] Okay, so what you're looking at here on
-[391:10:40] the right is uh you can see that
-[391:37:20] OpenClaw actually just finished a bunch
-[392:05:20] of work. Okay, and I'll just show you
-[392:34:40] like you know this is this is real work
-[393:10:40] that's being done here. Like it actually
-[393:42:40] went
-[394:12:00] um and you'll see this blog post. We can
-[395:05:20] see that this was actually led by
-[395:33:20] OpenClaw, you know, really worked
-[396:04:00] through this whole process. Um, the way
-[396:49:19] this worked is basically I have OpenClaw
-[397:48:00] uh hooked up with a bunch of different
-[398:13:20] tools. So like it's hooked up with the
-[398:54:40] Rankability API. It's hooked up with the
-[399:38:40] search OS API. So this allows me to
-[400:29:20] assign a batch of work to OpenClaw. It
-[401:21:20] creates all the projects inside of
-[401:48:00] search OS and then it's able to execute
-[402:40:00] that work and then I can actually see
-[403:06:40] the work that it's doing inside of the
-[403:41:19] project management software. This is a
-[404:14:39] massive unlock as far as performance
-[404:43:59] here. And like by the way I could I
-[405:17:19] could spend all day talking about
-[405:35:59] OpenClaw, but just some kind of like key
-[406:00:00] things that have helped me. Uh number
-[406:36:00] one is use a project management
-[407:22:39] software. Okay, it doesn't use any of
-[407:54:40] them that you want. You could build your
-[408:16:00] own if you wanted to. I mean, just use
-[408:45:20] something to organize because if you try
-[409:21:19] to manage everything through the chat,
-[409:49:20] you're you're going to have a hard time.
-[410:13:19] Okay? So, what you want to do is manage
-[410:49:20] it all through the project management
-[411:10:40] software. Treat it like it's a human,
-[411:38:39] right? Just treat it like it's a human
-[412:00:00] and you have to assign work to it and
-[412:22:39] you got to manage it. Keep that source
-[412:57:20] of truth so you can go into the board
-[413:29:19] and say, "Okay, it actually it did
-[413:54:40] finish it. It knocked it all out." Um,
-[414:30:40] and so, you know, probably need to use
-[415:08:00] some sort of software that has an API.
-[415:30:40] And that's why we built an API in search
-[416:01:19] OS because I needed to fix this problem.
-[416:50:40] Um, and so now I can uh I have all my
-[417:29:20] APIs stored on this other computer. So
-[418:06:40] now it can go and pull from those APIs
-[418:33:19] and basically it runs through APIs
-[419:28:00] um across the board. So that's also
-[420:02:39] another big deal is like be really
-[420:29:20] careful trying to use the browser with
-[421:01:19] OpenClaw. It just doesn't work that
-[421:33:20] well. It's very buggy, very difficult.
-[422:17:20] Um, so always resort to an API if you
-[422:59:59] can. So, like I said, it depending on
-[423:42:40] your your skill level. If you're brand
-[424:12:00] new to SEO, brand new to AI, I don't
-[424:53:20] recommend doing this right now, this is
-[425:33:20] some crazy hardcore stuff. Um, but you
-[426:45:20] know, if you've got a if you feel
-[427:09:20] comfortable working with this stuff, um,
-[427:52:00] you know, it's I would not waste a lot
-[428:20:00] of time. I would jump on it. It's a big
-[428:50:40] deal. Um, and it's extremely powerful
-[429:29:19] once you see that it's actually doing
-[429:53:20] work for you. It's like crazy. Um, I
-[430:31:59] think at this point it is I'm confident
-[431:06:40] to call it our lead project manager.
-[431:50:40] Like at this point, that's how confident
-[432:14:40] I am in its work that it's doing as
-[432:38:40] project management. Uh, and then we're
-[433:09:20] working through a bunch of other skills
-[433:33:19] as well. The way to really learn all of
-[434:01:20] this, I know it's probably quite
-[434:20:00] overwhelming. I just threw like a
-[434:42:40] million things at you, but there is a
-[435:26:40] lot to learn, right? There's a ton to
-[435:57:20] learn. There's a ton to do. And it never
-[436:41:20] ends, right? I've been doing this um
-[437:24:00] man, it's it's disturbing to say how
-[438:02:40] long I've been doing this now and I have
-[438:25:20] to do the math on that. Um I've been
-[438:57:20] doing it for a long time. Let's just say
-[439:26:40] that I've been doing SEO since 2011. So
-[440:26:40] yeah, it's been a really long time.
-[441:00:00] Okay. But even then, like even right now
-[441:38:39] with all the experience that I've, you
-[442:18:40] know, accumulated over this time, I
-[442:50:40] still feel like I'm such a beginner.
-[443:25:20] Like there's so much to learn that even
-[444:02:39] I'm just like overwhelmed by how much
-[444:50:40] there is to learn. But it's also
-[445:14:40] exciting.
+[01:20] If you want better local SEO results,
+[42:40] you need to win on Google. But in 2026,
+[95:59] you can't ignore other platforms that
+[125:20] influence visibility. That's why the
+[152:00] real play now is search everywhere
+[195:59] optimization. My name is Nathan Gotch,
+[226:39] and I've led hundreds of successful SEO
+[265:20] and local SEO campaigns since 2013, and
+[316:00] my systems are used by thousands of SEO
+[357:19] professionals and agencies worldwide.
+[383:59] Let's get right into it. I'm going to be
+[402:40] building a local SEO strategy from
+[441:20] scratch in less than 30 minutes. So, I
+[485:19] picked a random business in Bowwin,
+[533:20] Missouri. Right away, when we look at
+[560:00] this particular Google business profile,
+[593:20] it's got some good stuff going for it,
+[618:40] but it has some there's a glaring
+[650:40] opportunity that we're looking at right
+[672:00] here. As you can tell, they service the
+[703:59] city of Bowwin, but when we look at
+[752:00] their preferred location, they're
+[783:59] actually preferring Chesterfield. This
+[826:40] is a big mistake. And you can see their
+[867:59] address is actually in Bowwin. They they
+[908:00] are situated in the city of Bowwin, but
+[947:59] yet the Google business profile is
+[977:20] optimized for Chesterfield. So this is
+[1013:20] as simple as literally going to the
+[1034:39] Google business profile, just switching
+[1064:00] it to Bowwin, and boom, performance will
+[1102:39] probably jump five five to seven spots
+[1151:59] in the Google business profile in the
+[1188:00] local pack. And plus, they have a lot of
+[1221:20] reviews, right? Nearly 700 reviews. So
+[1270:40] just a simple switch on that can just
+[1305:20] like immediately improve their
+[1328:00] performance. Aside from that, everything
+[1357:19] else looks pretty solid. I think they
+[1379:59] could add maybe more visual depth and
+[1420:00] enhance the profile a little bit, but at
+[1451:59] the end of the day, just make sure
+[1474:39] you're targeting Ballwin and that's
+[1505:20] going to do most of the heavy lifting
+[1526:40] there in the Google business profile and
+[1550:40] continue to drive reviews consistently.
+[1582:40] Now, going back to that, whenever you
+[1629:19] start one of these campaigns, what you
+[1654:40] don't want to do is start taking action
+[1693:20] right away. If you see something you're
+[1714:40] like, I'm just going to go fix this
+[1733:20] right away. I would hold off on doing
+[1761:20] that. Especially if you're working with,
+[1786:40] let's say, this was my client, it's
+[1818:39] smart to go and get a benchmark report.
+[1849:20] go and benchmark the information and the
+[1897:20] performance before you start acting. So
+[1928:00] at least you can see the performance
+[1956:00] gains over time. So what I do is I set
+[2001:19] up tracking and you go into your
+[2038:40] preferred tracking software. But the key
+[2077:20] thing here is no matter what you're
+[2098:40] tracking, you have to track multiple
+[2137:19] surfaces, multiple search surfaces,
+[2170:39] especially for local. The first one that
+[2194:40] matters the most is local pack. Okay, so
+[2222:40] you can see here we're tracking dentists
+[2258:40] in Bowwin, Missouri. Okay, so they're
+[2300:00] number 20 for dentist Bowwin, Missouri.
+[2337:19] They literally have a location in Bowwin
+[2380:00] and they're still losing dramatically
+[2415:59] and they actually have more reviews than
+[2452:00] a lot of the top competitors. That
+[2485:20] location switch, I hate to use the word
+[2526:39] guarantee when it comes to SEO, but I've
+[2553:20] just seen this so many times and how
+[2588:00] effective this will be. Changing a
+[2625:19] location to the correct location or
+[2657:20] changing a category to the correct
+[2686:40] category. Sometimes you can see a lift
+[2721:20] of five, sometimes even 10 spots just
+[2764:00] for one second of work. Okay? So, I'm
+[2803:59] telling you, if they just change this,
+[2830:40] boom, they're going to pop up probably
+[2859:59] top 10 at least in the local pack, okay?
+[2901:20] And then they just got to keep shipping
+[2921:20] away there. But that's a very simple
+[2952:00] thing. And then you can even see in the
+[2973:20] grid here, it's causing a lot of
+[3003:59] problems for them because they've
+[3024:00] optimized for Chesterfield. So, they're
+[3050:40] just not doing really well in the
+[3088:00] location that they're actually
+[3109:20] servicing. And then aside from that,
+[3133:20] we'll go and check their category. So,
+[3156:00] they got the right category, dentist.
+[3180:00] So, they're good to go on that. All
+[3202:39] right. Now, in addition to the local
+[3242:40] pack, we know that to influence local
+[3277:20] pack, we are going to focus just on the
+[3312:00] Google business profile, right? That's
+[3334:40] one of the key things. Now, there's a
+[3357:20] bunch of other secondary variables that
+[3386:40] we should consider outside of the Google
+[3415:59] business profile, but we'll be talking
+[3437:19] about here in a second. But we also want
+[3466:40] to be tracking traditional search,
+[3491:59] right? How are they doing in traditional
+[3515:59] search? And we see here there's
+[3552:00] opportunity, right? Like they they have
+[3584:00] competitors that are beating them across
+[3609:20] multiple search engines and they're
+[3656:00] doing okay, but there's room to improve.
+[3691:59] And I'll show you some of the gaps that
+[3726:39] exist in the traditional search results.
+[3762:40] But remember, on the local level, you
+[3798:40] really want to be thinking about just
+[3825:19] dominating the first page and trying to
+[3857:20] occupy as much SER real estate as you
+[3889:20] possibly can. So you want to hit that
+[3920:00] local pack. You want to rank in the
+[3952:00] traditional search results. And you also
+[3978:40] want to rank on other websites in the
+[4025:19] search results as well, not just your
+[4052:00] website. We'll talk about that here in a
+[4078:40] second. And then the AI answers. Okay,
+[4121:20] this is absolutely critical. If you've
+[4149:19] been doing SEO the way you should be
+[4182:39] over the last 2 to 3 years, you should
+[4225:19] be thinking about your brand or your
+[4259:59] client's visibility inside of AI
+[4302:40] answers. So, you can see here they're
+[4331:59] actually doing really well. They're
+[4353:19] visible across four different AI
+[4393:20] platforms. They're not visible across
+[4429:19] chat GBT, which is the one that really
+[4458:40] matters the most here. But you can see
+[4488:00] they're doing quite well, right? Like
+[4512:00] Gemini Perplexi Claude Grock they're
+[4553:19] doing well. All right, there's room to
+[4580:00] improve, but they're doing pretty well.
+[4601:20] And that's a good sign. All right. Then
+[4629:19] we also want to see AI citations. All
+[4658:40] right. This is a big one here because
+[4684:00] first of all, we want to be one of the
+[4725:20] sided sources. So you want to try to
+[4754:40] your own website try to be one of those
+[4784:00] citation sources, one of those sources
+[4816:00] of retrieval, but we also want to be
+[4848:00] looking at the opportunities. Okay? What
+[4874:39] opportunities exist here? Now, some of
+[4898:39] these are competitors, but some of them
+[4921:20] are not. We have HealthGrades, and then
+[4952:00] we also have Delta Dental. So these are
+[4993:20] two obvious citation opportunities that
+[5033:20] we're going to want to pursue. Now, I'm
+[5061:20] going to show you how to take this to
+[5078:40] the next level. Okay, now actually
+[5106:40] before I get into that, make sure you
+[5128:00] have Google Search Console installed and
+[5156:00] make sure you have Google Analytics 4
+[5178:40] installed and make sure you have call
+[5201:20] tracking. Okay, those are the three
+[5225:20] additional tracking things that you need
+[5250:39] to do for local. This is pretty much all
+[5286:39] you need. You need to be tracking across
+[5309:20] all of these search surfaces and you can
+[5346:40] see like just with some slight tweaks or
+[5390:40] the things I'm going be showing here in
+[5407:59] a second can see dramatic lifts in
+[5450:39] visibility here. Now, the one thing I
+[5480:00] really want to show you is the citation
+[5521:20] sources. So for many years you would on
+[5562:39] the local level we would just go and
+[5597:20] build citations and it'd be like a
+[5625:20] oneanddone activity like let's go build
+[5653:19] our citations and then move on to some
+[5689:20] other stuff because honestly they
+[5717:19] weren't that important but they have
+[5756:00] become important again and but not in
+[5802:40] the way that you think. So this is not a
+[5828:00] game of volume. The way you want to
+[5864:00] think about citations is simply just to
+[5898:39] look at what citations are popping up in
+[5942:40] for this particular industry, this
+[5985:20] niche, this particular scenario. Okay?
+[6018:40] And then those are your you should put
+[6064:00] all your focus and all your energy on
+[6095:59] those because we know that they're being
+[6133:20] used in the AI platforms. So from there
+[6171:59] it becomes quite simple. So like in in
+[6202:40] this case we only got about three,
+[6243:59] right? We got health grades, we got
+[6264:00] Delta Dental, and we've got Yelp. So
+[6307:59] we've got basically three citation
+[6350:39] sources that we need to get hyperfocused
+[6383:59] on and do a really good job there. And
+[6410:39] also ADA.org as well. So we actually got
+[6442:40] four. Okay, so four total citation
+[6477:19] sources based on most local industries
+[6517:19] that we've seen, four to seven give or
+[6574:39] take citations that you're going to
+[6598:39] spend your time on. The rest are
+[6621:20] probably not worth your time at all.
+[6649:20] Okay, so what does that mean though to
+[6681:20] spend your time here? You want to be
+[6709:20] thinking about how do we actually do SEO
+[6753:19] on this citation source? Okay, so when
+[6792:00] we're looking at health grades, how do I
+[6825:20] actually get this particular dentist to
+[6877:19] show up higher on this particular
+[6919:59] directory? Okay. And so when we're
+[6945:20] looking at this, clearly we've got 1 2
+[6978:40] 3. We've got three sponsored listings
+[7016:00] here. Maybe worth considering being a
+[7059:59] sponsored listing. Here's the thing. The
+[7095:59] AI platforms don't care if it's
+[7122:40] sponsored or not. So, it's going to come
+[7149:20] in here and it's going to see these
+[7178:40] three brands popping up here and it's
+[7214:40] going to give it weight just because
+[7240:00] it's here, just because it's the the
+[7277:19] most retrievable. And then also improve
+[7306:40] the organic performance in this list.
+[7357:20] Okay. And we can see the particular
+[7392:00] dentist that we're looking at here.
+[7410:39] They're not actually showing up anywhere
+[7445:20] super high on this list. They're all the
+[7474:39] way down here. So the question is, what
+[7510:39] should Brandon in this case do? He needs
+[7554:40] to go to his profile and he needs to
+[7597:20] start driving reviews to this profile.
+[7633:20] Okay, start driving reviews here. This
+[7669:20] is what I would call a secondary review
+[7698:39] surface where Google is 90% of your
+[7748:00] effort for your reviews. The other 10%
+[7780:00] should be going to these secondary
+[7805:19] citation sources as a way to ultimately
+[7856:00] improve the visibility in the AI
+[7885:20] platforms. Okay, so start with the
+[7916:00] reviews. The next thing is just looking
+[7943:59] at the profile itself, it's very thin,
+[7985:20] right? When we look at this stuff, not a
+[8030:40] lot of information. You got a couple
+[8054:40] reviews in there, but it's pretty pretty
+[8085:20] light. So, we need to actually optimize
+[8137:20] this profile just like we would a web
+[8169:20] page on our own website. Very simply run
+[8212:00] it through a content optimization tool.
+[8240:00] Okay, so I did an extraction of this
+[8273:20] particular profile just to show you
+[8302:40] this. And you can see like it's pulling
+[8342:40] a bunch of stuff that's not relevant to
+[8369:20] him, which naturally would happen on a
+[8402:40] directory based website. But if you were
+[8434:40] to get rid of all this other fluff
+[8459:59] stuff, you'd basically be left with a
+[8494:40] sentence about what he does, right?
+[8531:59] Okay. So, what this tells me is I would
+[8568:00] want to reoptimize
+[8609:20] this particular profile. And so you
+[8645:19] could just regenerate the draft and it's
+[8682:39] going to use all of these keyword
+[8715:59] opportunities to build something
+[8754:39] incredibly relevant, right? And we're
+[8777:20] looking at a target of maybe 500 words.
+[8817:20] This will vary depending on the type of
+[8852:00] platform that you're using. We don't
+[8881:20] know the restrictions as far as how deep
+[8928:00] you can go on content on healthgrades,
+[8970:40] but you can still use that original
+[9012:00] asset that's been generated by the AI.
+[9045:20] And then you could even take it and
+[9068:00] throw it into chat GPT and say, "Okay, I
+[9106:39] need you to compress this down to 150
+[9148:00] words or 300 words, whatever the
+[9176:00] limitation is. But this will greatly
+[9222:40] improve performance on this particular
+[9260:00] profile. It may actually allow you to
+[9282:39] even maybe even rank this profile in
+[9330:39] traditional search, right? That's a
+[9361:20] secondary thing that you can do to
+[9385:20] occupy more real estate. So that's what
+[9433:20] you should be thinking about. I need to
+[9454:39] actually optimize my profiles, right?"
+[9485:20] So you optimize your website, then you
+[9514:40] optimize your profiles. And you can see
+[9558:39] in about couple seconds here we can
+[9591:59] already see great improvement as far as
+[9630:39] covering the appropriate topics much
+[9665:20] better right a lot quicker a lot better
+[9698:40] like dental veneers you just click on
+[9729:20] this and it will the AI will find a
+[9774:40] place to cover that topic in a natural
+[9824:00] way and you can see perfectly covers
+[9860:00] that topic no problem at all so this is
+[9894:40] just what you can do you keep adding
+[9922:40] more and more to make it more relevant
+[9954:39] and you repeat this process for all your
+[9981:20] critical profiles next thing we're going
+[10005:20] to be doing here is we're going to focus
+[10045:20] on the brand itself. Come up here and
+[10114:40] I'm going to show you two different
+[10128:00] techniques. The first technique is using
+[10163:59] chat GBT and this is a prompt that you
+[10217:20] can use and basically what it's going to
+[10241:20] do is it's going to it's going to scour
+[10272:00] the internet and look for
+[10304:00] inconsistencies about this brand. Okay,
+[10345:20] that's what you want. Identify those
+[10370:40] inconsistencies and then go and attack
+[10400:00] them. And so you can see here I just
+[10433:20] used GBT 5.4 to do this. But regardless,
+[10522:40] you have two options here. You can use
+[10544:00] GBT 5.4 thinking and you'll still get a
+[10581:20] really comprehensive analysis. And you
+[10615:59] can see this apparently this practice
+[10653:20] was taken over by the current dentist.
+[10687:59] So it actually made it transitioned and
+[10725:19] there's a bunch of old baggage left over
+[10758:39] from the previous dentists still
+[10793:20] floating around the internet. So this is
+[10820:00] something you want to go and start
+[10837:20] cleaning up and and improving all of the
+[10887:59] accuracy for this particular dental
+[10936:00] practice or any business that you're
+[10958:39] working on. Okay? And this is just
+[10981:20] barely any work to do, but you get a
+[11014:40] massive report, tons of work that you
+[11041:20] can execute on. You can also use deep
+[11073:19] research. Okay, honestly, I've been I
+[11124:00] haven't really been using deep research
+[11149:19] as much as I used to because I have
+[11177:20] found that 5.4 or even 5.2 prior to
+[11245:20] this. It uses web search anyway and it
+[11301:19] does pretty much the same thing and it
+[11332:00] takes way less time. So, I would just my
+[11385:20] preference is I just use the 5.4
+[11424:00] thinking and I let it just run and it's
+[11450:40] way quicker. Okay, so that's what you
+[11485:20] do. Then now we're going to move into
+[11514:40] technical SEO. Okay, so from here I'm
+[11554:39] just doing a very simple screaming frog
+[11586:40] crawl. If I had access to Google
+[11622:40] Analytics and Google Search Console, I
+[11656:00] would integrate those as well. Okay, but
+[11698:40] in this case, I don't. So, couple key
+[11737:20] things we're looking at here. This site
+[11763:59] is actually not in that bad a shape.
+[11798:40] There's just some kind of broader level
+[11830:39] things that we need to go after. So, the
+[11857:20] first one is is title tag optimization
+[11901:19] is quite aggressive. Okay, I would not
+[11942:40] be this aggressive with title tags. And
+[11986:40] you can see right here, for example, we
+[12022:40] have dental bonding in Bowwin, Missouri,
+[12060:00] which is great. This is a fine title
+[12089:20] tag. But then we've got dental bonding
+[12124:00] plus the zip code. And now we're just
+[12148:00] getting over optimized. So you would
+[12178:40] just get rid of this and just keep it
+[12209:20] like this. All right. And this would be
+[12241:20] totally fine. This would work perfectly
+[12278:40] well. Okay, that should be the style.
+[12314:40] You could even just use the the actual
+[12345:20] dentist name here. So you like Brandon
+[12380:00] Cousins DDS. Maybe if you don't want to
+[12410:39] use the dental practice name, it could
+[12437:20] just be like this. But either way, you
+[12474:40] don't need to include these secondary
+[12515:59] variations in here plus a zip code
+[12546:40] because LLMs are incredibly smart and
+[12590:40] they know those are the same thing. So,
+[12613:20] you do not need to do that and it will
+[12642:40] not actually improve your performance.
+[12662:40] Actually, probably hurt you more than
+[12685:20] anything. And then meta description.
+[12714:40] When we look at this couple key things
+[12738:40] here, we got the boilerplate metad
+[12770:40] descriptions here. Now that we have LLM,
+[12815:59] there's just no good reason not to have
+[12841:20] unique metadescriptions. Like every
+[12885:20] single description you write can be
+[12920:00] unique now with barely any effort. So I
+[12970:40] would highly recommend rewriting every
+[12996:00] metad description. Make sure it's
+[13018:40] unique. I don't recommend putting the
+[13054:39] phone number in the metad description.
+[13077:19] The reason is because organic CTR is
+[13128:00] critical and we know it's a proven
+[13154:39] ranking factor. So when you put that
+[13182:39] phone number in there, you're greatly
+[13214:40] increasing the odds that someone is not
+[13239:59] going to click. We need them to click.
+[13280:00] That is absolutely critical. So, I would
+[13312:00] avoid putting the phone number in the
+[13349:19] title or the metad description. This
+[13377:19] does not apply to the Google business
+[13402:40] profile. I'm just purely talking about
+[13436:00] your traditional search results. Okay?
+[13463:59] So, you I would be careful doing that.
+[13490:40] And then aside from that, I think
+[13518:40] everything else is pretty solid. The
+[13542:40] only thing I would avoid doing is like
+[13581:20] thisformational stuff. This is not the
+[13624:00] type of content you want to be creating
+[13643:59] on the local level. This is all just
+[13676:00] generic stuff that AI could easily
+[13709:20] produce. How long do dental implants
+[13750:40] last? Okay, that's a general question on
+[13789:20] the national level. It's not going to
+[13815:59] serve this website that only focuses on
+[13876:00] Bowwin. So, you want to focus just on
+[13917:20] your core location. Don't focus on
+[13946:40] topics that are generally b in the
+[13989:20] practice itself. That's not a good idea.
+[14017:20] You want to focus specifically on the
+[14054:39] location and the subject matter exp. So,
+[14104:00] how do you do that? Very easy. Go into
+[14143:59] chat GBT and I'll run a couple examples.
+[14193:20] So, the first one here is linkbait.
+[14217:20] Okay? So you can run this prompt and
+[14263:59] come up with different statistics driven
+[14297:19] ideas. There's like endless amounts of
+[14332:00] ideas that you can run. There's no
+[14369:20] shortage of ideas now. You come up with
+[14401:19] the ideas, then you just need to go and
+[14433:20] execute these. Some of good, some are
+[14457:20] not. But the point is, you can see this
+[14485:20] is much better because it's focused
+[14524:00] specifically on Ballwin. And that is the
+[14563:59] key. You want to build that proper
+[14601:19] relevance and localized relevance for
+[14639:59] this site. Then we go down. We can run
+[14666:40] the same thing here. Similar concept.
+[14705:20] And you can see these are additional
+[14732:00] local content ideas as well. So once
+[14777:19] again, just use these prompts and just
+[14810:39] make them applicable to any business
+[14833:20] that you're currently working on. Okay.
+[14867:59] And then we can actually go over here
+[14906:39] and this is the last piece of this
+[14933:20] equation,
+[14958:39] which is some additional off-site work.
+[15002:40] So with one simple oneshot prompt like
+[15043:59] this, you can basically be done with all
+[15073:19] of your link prospecting. Okay, you can
+[15102:40] see right here within about took about 4
+[15154:39] minutes, we've got all kinds of link
+[15206:39] prospects that we can pursue
+[15232:00] specifically in Bowwin. Okay. And this
+[15286:39] will help us build proper topic
+[15319:59] relevance and topic authority the way
+[15346:40] that we really should be doing it. Okay.
+[15385:20] And then the last piece of this is the
+[15432:00] page level as well. So we I showed you
+[15477:19] the the different dedicated pages here.
+[15512:00] So they have Invisalign in Bowwin,
+[15534:39] Missouri. This is actually a proper
+[15557:20] structure. I think this is actually good
+[15582:39] right here. So, we have the service,
+[15613:20] then we have the core location. This is
+[15637:20] actually a very good setup. I would
+[15665:20] stick to doing this. That's good. But
+[15700:00] it's really about the optimization of
+[15729:20] those pages. So, you can see here like
+[15765:20] this is the homepage and it has probably
+[15815:59] too many words. It's a little
+[15837:20] aggressive. It's not actually optimized
+[15884:00] particularly well. And so, you'd really
+[15917:20] want something more like this, right?
+[15945:20] Which is like you've got a word count
+[15973:19] that's more within range of the
+[16002:40] competitors in that median word count
+[16036:00] range. and then you are properly
+[16080:00] covering all of the critical topics and
+[16117:20] entities. Okay, that's what a good page
+[16156:00] is going to look like for SEO purposes.
+[16184:00] It's going to be perfectly optimized for
+[16237:20] the location and that primary topic.
+[16287:59] Okay, and you can see this is for
+[16308:00] cosmetic dentist involvement, Missouri.
+[16342:40] Took about 3 minutes to build this.
+[16380:00] Okay. And then you can just literally go
+[16414:40] in here and export and whatever CMS
+[16461:20] you're using, you can literally just
+[16481:20] click this HTML, hand this off to the
+[16524:00] AI, and boom, it will go and just format
+[16562:39] this exactly how you want. And of
+[16595:59] course, you'll need to design it and
+[16625:19] work on that. But you can do it that
+[16650:40] way. You can also go and just export a
+[16686:39] classic markdown file. Once again, very
+[16726:40] useful for AI platforms. They understand
+[16760:00] markdown it exceptionally well. And then
+[16800:00] if you're using WordPress, obviously
+[16824:00] you're going to have to work with
+[16837:20] whatever builder you have. So that is a
+[16893:20] full local SEO strategy in less than 30
+[16946:40] minutes. Told you I would do it. So
+[16976:00] that's those are all the kind of
+[17004:00] component pieces you need to go through.
+[17032:00] You get your tracking set up. You attack
+[17070:40] the core citations that tend to show up,
+[17113:19] right? Want to go after the common
+[17136:00] citations. We want to go and we can
+[17175:59] continue to acquire links around the
+[17226:40] local area to build localized topic
+[17269:20] authority. And then we need to just fill
+[17308:00] in all the topic gaps. So focus on your
+[17357:19] service pages first and you know build
+[17393:20] relevant content for all of your service
+[17423:59] pages. Cosmetic dentists and all your
+[17452:00] secondary services. Do that first. Then
+[17501:20] once you've got all those knocked out,
+[17531:59] then just move into building topic
+[17564:00] support with properformational content
+[17613:19] orformational assets that focus on the
+[17670:40] local area. As I demonstrated, these are
+[17710:40] the types of assets we want to be
+[17734:40] building specifically to support this

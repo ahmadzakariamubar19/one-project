@@ -1,254 +1,250 @@
-# Expert Name: Matt Diggity
-# Video Title: I Tried 3 Weird AI-SEO Techniques. Trash or Smash?
-# Video URL: https://www.youtube.com/watch?v=EItVZ5W5FUc
-# Publish Date: Unknown
-# Transcript Source: Supadata
+# Expert Name
+
+Matt Diggity
+
+# Video Title
+
+I Let an AI Run my SEO Campaign.  Here’s what happened…
+
+# Video URL
+
+https://www.youtube.com/watch?v=xG9Vu9yrQzw
+
+# Publish Date
+
+Unknown
+
+# Transcript Source
+
+Supadata YouTube Transcript API
 
 ## Transcript
 
-[02:40] I just got done testing the weirdest AI
-[43:59] SEO techniques I could find. Server
-[01:17:20] logs, schema injections, and something
-[01:52:00] Google literally begged us to do, but no
-[02:26:40] one was taking it seriously, including
-[02:57:19] yours truly. I didn't know if any of
-[03:22:40] these tactics would work or just waste
-[03:50:40] my sweet precious time. But when it was
-[04:26:40] all said and done, we ended up with over
-[05:02:40] 1,400%
-[05:29:20] increase in AI traffic and 164 newly
-[06:22:40] ranking AI overview keywords. Oh, yeah.
-[07:01:19] And we doubled overall organic search
-[07:31:59] traffic.
-[07:44:00] Damn. In this video, I'll show you
-[08:25:20] exactly what I did step by step so you
-[09:08:00] can skip the guesswork and start showing
-[09:38:39] up in Google AI overviews chat GBT and
-[10:25:20] every other AI that your little heart
-[10:54:40] desires. You'll learn how to find out
-[11:28:00] which of your pages AI bots are
-[11:58:40] completely ignoring and how to fix it. A
-[12:38:40] simple tweak that gets Google's AI to
-[13:10:40] start citing your content and the
-[13:37:19] underused format that gets ChatgBT to
-[14:16:00] make out with you. I'm Matt Diggity. I'm
-[14:48:00] the director of the international SEO
-[15:16:00] agency, The Search Initiative. And today
-[15:49:20] I'm going to give you some outside the
-[16:13:19] box AI SEO techniques. Let me take you
-[16:53:20] back to about a year ago. If you
-[17:19:59] subscribe to this channel, you may
-[17:46:40] remember a case study where I tripled
-[18:17:20] traffic on Google in 9 months. It was
-[18:49:20] for a client that sold pots, you know,
-[19:21:20] for planting plants and stuff. Well,
-[20:07:59] since then, their normal Google traffic
-[20:35:59] kept growing, which I'm all for, but
-[21:04:00] their AI traffic was farting along
-[21:37:20] despite AI adoption kicking up. It was
-[22:18:40] time to grow their AI traffic. Get it?
-[23:12:00] Plants grow. Whatever. Anyways, real
-[23:57:20] quick before I get started dropping
-[24:20:00] nuggets, I wanted to let you know that
-[24:44:00] my agency, The Search Initiative, is
-[25:13:19] taking on a handful of clients right now
-[25:44:00] for $1,000 off the first month. If you
-[26:29:20] promise to laugh at at least one joke in
-[27:01:20] this video, just head on over to the
-[27:25:20] searchinitiative.com, put your deets
-[27:58:40] into the form, and we'll get right back
-[28:22:39] to you. All right, this first tactic, I
-[28:53:20] had to be freaking bribed to try, and
-[29:26:40] that's AI log file analysis. I used to
-[30:16:00] think log analysis was tedious, but
-[30:50:40] today I'm going to show you how to do it
-[31:12:00] with ChatGBT. And just like anything
-[31:46:39] else you do at ChatGpt, it's easy as
-[32:41:20] first, what are log files? They're text
-[33:21:19] files that keep a record of every time a
-[33:55:59] user or a bot, including AI bots, visits
-[34:42:40] your site. You get the IP address, the
-[35:18:39] time of request, and status codes.
-[35:54:40] Pretty cool, right?
-[36:18:40] Nerd.
-[36:41:20] Now, why are they important for AI SEO?
-[37:21:20] By analyzing them, and I'll show you how
-[37:49:20] to do that soon. First, they help you ID
-[38:26:40] which pages are loved and hated by the
-[39:05:20] AI bots. Then you can make sure that
-[39:41:19] your most important content is
-[40:08:00] accessible to the AI. You can tell the
-[40:40:00] AI to ignore content that it's wasting
-[41:11:59] time on. You can detect loading pages
-[41:46:40] that affect AI rankings, and much more.
-[42:25:20] But first, where do you find your log
-[42:50:39] files? Most hosting services have a file
-[43:32:00] manager with a folder that contains your
-[44:05:20] log files, often named logs, access
-[44:46:40] logs, or something like that. Just
-[45:13:20] download the thing. Now, open chat GBT.
-[45:53:20] Upload the file and give it this prompt,
-[46:31:59] which you'll find in the description. I
-[47:01:20] have attached log files from my website
-[47:36:00] server. Please analyze the logs focusing
-[48:16:00] on Google bot and AI crawlers such as
-[48:50:40] GPT bot which is chat GPTs cloudbot and
-[49:38:40] blah blah blah. Identify all hits from
-[50:13:20] user agents containing any of the
-[50:40:00] following keywords. Google GPT bot yada
-[51:21:19] yada. Once you've analyzed this, I will
-[51:53:20] ask you to perform a series of tasks.
-[52:26:40] It'll give you a summary like this which
-[52:53:20] shows the hit rate from each AI bot.
-[53:28:00] Nice. Now enter this prompt. Provide a
-[54:13:20] list of the 10 pages that receive the
-[54:48:00] fewest hits from AI bots and Google and
-[55:30:40] create a visual diagram. This will allow
-[56:02:40] you to ID which important pages aren't
-[56:37:20] getting crawled by AI and Google. How to
-[57:18:39] fix? Our client had a giga important
-[57:53:20] sales page on their site that was hardly
-[58:21:20] getting crawled. After investigation, we
-[58:54:40] found that there was only one internal
-[59:21:20] link going to this page. So, we made
-[59:56:00] more internal links from pages that were
-[60:28:00] getting crawled a lot. Problem solved.
-[61:02:40] We found those highly crawled pages with
-[61:37:20] this prompt. Provide a list of the 10
-[62:10:40] pages that receive the most hits and
-[62:46:40] create a visual diagram. These are the
-[63:21:20] pages that AI has a boner for. Yes, use
-[64:04:00] them to link to important pages like we
-[64:33:20] just did, but also make AI love them
-[65:13:19] even more by expanding them with related
-[65:47:59] subtopics. And don't forget to add AI
-[66:29:20] friendly schema, which we'll get to
-[66:53:19] later. Next, chat GPT. Highlight any
-[67:37:19] crawl errors from these bots and flag
-[68:10:39] anything that looks unusual or worth
-[68:45:19] fixing. Anytime there's a crawl error,
-[69:18:39] you want to fix it. In this bottom
-[69:46:40] summary, chat GBT even tells you how to
-[70:21:20] fix them by restoring or 301
-[70:53:20] redirecting. And just for good measure,
-[71:24:00] the next log file prompt is provide any
-[72:09:19] additional insights or patterns you
-[72:37:20] observe, such as bots missing key
-[73:12:00] commercial pages, pages being crawled
-[73:49:19] unexpectedly often and sudden spikes in
-[74:30:40] crawl activity. You'll get a nice set of
-[74:58:39] AIdriven insights like fixing content
-[75:34:40] quality, speeding up a page, and more.
-[76:06:40] Next up, have you ever read this Google
-[76:37:20] Search Central post on how to make sure
-[77:06:40] your content does well in AI? Here's
-[77:41:20] where Google basically gives away the
-[78:09:20] secret to getting cited by AI. There's a
-[78:45:20] section here on making sure that your
-[79:09:20] structured data, also known as schema,
-[79:44:00] matches your visible content. What?
-[80:31:59] Well, despite their sophisticated
-[80:56:00] algorithms, search engines need help
-[81:25:20] when reading and identifying content.
-[81:59:59] Why? Well, unlike you humans with your
-[82:33:19] fancy eyeballs, search engines lack the
-[83:13:20] visual and intuitive capabilities to
-[83:48:00] interpret content. While you can
-[84:18:40] understand that this how to tell if your
-[84:48:00] cat is trying to kill you article is
-[85:14:40] satirical, a bot probably thinks it's a
-[85:54:40] genuine pet behavior guide. This is
-[86:26:39] where schema markup comes into play.
-[86:58:40] Schema is code that you put in your
-[87:23:59] articles HTML where you can tell the
-[87:56:00] bots, "Yo, let me make life easy for
-[88:27:59] you. My article is a satire piece. Now
-[89:06:40] you make life easy for me and site my
-[89:36:00] damn content, bro." Schema helps improve
-[90:14:40] the AI's understanding of what your
-[90:43:59] content is exactly about. When it can
-[91:18:40] clearly identify the type of content,
-[91:52:00] like an article, product, event, or FAQ,
-[92:36:00] it's more likely to show it for the
-[93:01:20] right queries. Here's what it looks like
-[93:30:39] for a general blog article. Notice how
-[94:05:20] there's space to input the author of the
-[94:36:00] article, the organization, date
-[95:07:59] published, and so forth. We put article
-[95:40:00] schema on a page on a customer's site.
-[96:12:00] Not saying this is the only reason, but
-[96:44:00] it shows up in 26 AI overviews, up from
-[97:23:59] five. and the AI overviews are indeed
-[98:05:20] linking to the site and pulling the
-[98:36:00] author name from the schema. If you have
-[99:05:20] a how-to page, like how to tell if your
-[99:40:00] cat is going to kill you, your schema is
-[100:12:00] going to look like this. Notice how
-[100:36:00] there's little places for you to write
-[101:01:20] the unique steps of each how-to step.
-[101:42:40] And sorry, it's blurred. Our client
-[102:08:00] prefers confidentiality, but here's AI
-[102:44:00] overviews citing each step by step and
-[103:21:20] giving them the link. Now, there's a
-[103:49:19] billion types of schema for a billion
-[104:16:00] types of content. Seriously, don't
-[104:40:00] memorize that. Waste of brain space. Use
-[105:17:19] chat GPT to generate the schema for you.
-[105:56:00] For example, if you had an FAQ page,
-[106:23:59] you'd prompt CC chat GPT, please
-[106:57:19] generate, always say please, JSONLDLD
-[107:42:39] FAQ page schema for my web page. Below
-[108:22:40] is the information for each question and
-[108:53:20] answer FAQ content. Question one, answer
-[109:36:00] one, question two, answer two, and so
-[110:10:39] forth. And bam, here's your AI friendly
-[110:45:20] FAQ page schema markup. Now, simply
-[111:21:20] place the markup inside a script tag
-[111:52:00] within the head section of your web
-[112:17:20] page. Most people just use plugins.
-[112:49:20] Next, let's go back to the Google post
-[113:22:40] on AI success tactics and find the
-[113:58:39] section called go beyond text for
-[114:30:40] multimodal success. When you translate
-[115:06:40] this from nerd to English, it basically
-[115:37:20] just means that if your content includes
-[116:10:40] highquality images and video, then
-[116:42:40] you're more likely to show up in AI. How
-[117:13:20] much more likely? It's hard to say, but
-[117:42:39] you see this all the time. Here's an
-[118:13:19] example of chat GPT referencing both
-[118:54:40] images and text for how to tie a Windsor
-[119:38:40] knot from the same website. Graphics and
-[120:16:00] video give AI more to work with, so it's
-[120:50:39] more likely to reference you. And even
-[121:22:40] if your textual content isn't used, it's
-[122:01:20] still possible that they'll use your
-[122:30:39] images, videos, and don't forget tables.
-[123:15:59] LLMs love structure, so content that's
-[124:01:19] in tables gets gobbled up. Here's some
-[124:34:39] more multimodal tactics. Use descriptive
-[125:13:20] alt text. Describe the images, actual
-[125:52:00] content, and don't stuff keywords. Use
-[126:29:20] clear file names that actually represent
-[126:59:59] the image. Avoid images of tables and
-[127:38:40] use HTML instead. and add transcripts to
-[128:27:59] your video posts. Here's a post on how
-[129:05:20] to introduce new cats. The video is up
-[129:48:00] here. The transcript is down here, which
-[130:21:20] includes some weirdass content about
-[130:49:20] spreading the new cat scent around the
-[131:17:19] home. And sure enough, here's the AI
-[131:50:39] overview talking about stinking up your
-[132:20:00] house with new cat fragrance and a link
-[132:53:20] to the article. Now, what was the result
-[133:26:40] of all this AI SEO effort? AI traffic
-[134:07:59] grew by 1400%. The site now appears in
-[135:01:20] 164 AI overviews and overall organic
-[135:49:20] traffic has doubled. If you'd like us to
-[136:21:19] take a look at your SEO, head on over to
-[136:50:39] the searchinitiative.com and use the
-[137:22:40] form at the bottom to reach out. We'd be
-[137:53:20] happy to take a look at your site and
-[138:15:59] let you know what we can do for you.
-[138:38:40] $1,000 off your first month until the
-[139:10:39] end of the month.
+[01:20] I built an AI bot that should at the
+[38:40] press of a button do the work of a 100
+[71:59] SEO experts. All the content with a
+[106:40] single push, all the metadata and link
+[143:59] building campaign. How'd it go? With it,
+[180:00] I increased my client's revenue from 166
+[227:59] to
+[245:59] $491,000 per month by increasing their
+[283:59] monthly traffic by 266%.
+[326:40] Damn. But here's the wild part. The
+[374:40] system runs itself. No manual tweaking,
+[414:40] no babysitting AI prompts. Just press go
+[453:19] and that's it. In this video, I'm going
+[482:40] to show you how I did it so you can copy
+[512:00] this AI SEO Terminator for yourself. My
+[552:00] name is Matt Diggity and I'm the
+[574:40] director at the Search Initiative, an
+[601:19] international SEO agency managing some
+[633:20] of the biggest brands on the internet.
+[657:20] Early last year, we signed a new SEO
+[688:00] client selling home interiors. They were
+[721:20] fresh off a messy breakup from their old
+[750:40] SEO agency. You know the vibe. Trust
+[786:40] shattered, expectations low, and a
+[820:00] little baggage trailing behind. Now
+[849:20] they're with us, and the clock is
+[873:19] ticking. They were skeptical, and we had
+[903:59] to prove that we were the rebound that
+[930:40] they wouldn't regret. The pressure was
+[957:20] on, so we needed to create an AI
+[988:00] gigachad to help us get some quick
+[1018:40] results. As you know, the current OpenAI
+[1054:40] LLM models are good. No doubt, we're
+[1090:38] starting to get to the point where with
+[1113:19] decent prompting, you can get
+[1135:59] undetectable AI content better than the
+[1173:20] average human can write. But it's still
+[1201:20] a handheld process. You prompt, get a
+[1246:39] result, you refine, and then you do it
+[1278:40] over and over again for each task, each
+[1312:00] piece of content you write, each
+[1335:59] metatitle, each description, each link
+[1374:39] outreach pitch. There's a lot of room
+[1401:20] for speed and quality improvements. What
+[1434:40] you want is an AI overlord system that
+[1473:20] you can just say, "Yo, write these 300
+[1507:59] pages or build 200 links." And it's
+[1544:00] like, "Hold my beer, human newbie."
+[1588:00] That's what you're here for. Sounds too
+[1616:00] good to be true. That's what I thought,
+[1638:40] too, until I saw what I'm about to show
+[1662:39] you. But real quick, before I get
+[1685:19] started, I wanted to let you know that
+[1707:59] my SEO agency, The Search Initiative, is
+[1741:19] taking on a handful of clients right now
+[1769:19] for $1,000 off their first month in
+[1809:20] exchange for a testimonial down the
+[1835:59] road. Just head on over to the
+[1859:20] searchinitiative.com, put your deeds
+[1886:40] into the form, and we'll get right back
+[1910:40] to you. All right, so here's what's
+[1932:00] going to go down. We want to build a
+[1958:40] system, an AI bot manager that handles
+[2004:00] hundreds of SEO tasks in batch mode to
+[2042:40] ultimately make Google our B. But you're
+[2081:20] probably already thinking, "But Matt, I
+[2110:40] don't know how to code, and I don't want
+[2130:40] to know either." You know what? Neither
+[2158:40] do I. We're going to use Make.com, a
+[2194:40] noode automation tool that connects to
+[2230:40] apps like ChatGpt to build us an AI
+[2271:59] agent that's going to create hundreds of
+[2302:40] pages of incredible content in one shot.
+[2342:40] Let's get started building our super
+[2366:40] mega awesome scalable content strategy.
+[2402:40] You've heard of topical authority,
+[2425:20] right? If you write one article about
+[2457:20] cooking, Google's going to be like, "I
+[2492:00] don't give a fuck." But if you write
+[2525:20] tons of highquality cooking articles,
+[2564:00] Google will start to rank you. That's
+[2593:19] because it's cheaper and more reliable
+[2624:00] for them to depend on certain websites
+[2656:00] as topical authorities for certain
+[2685:20] topics, websites they can count on for
+[2721:20] good food recipes. If you're starting to
+[2752:00] zone out, wake up. This is the part that
+[2786:40] actually makes you money. So, the best
+[2822:40] content strategy is hands down to make
+[2871:59] sure that you write more quality cooking
+[2910:40] content than your competitors. Load at
+[2953:20] competitive analysis tool and enter your
+[2986:40] domain along with your competition.
+[3018:40] Bonapetit, here's a bajillion recipes
+[3054:40] you haven't covered. Export this out and
+[3091:59] then create a simple spreadsheet like
+[3118:40] this with the topic in one column and
+[3150:40] the keyword in the next. We're going to
+[3176:00] feed this into our hungry AI beast. Now,
+[3215:59] here's a 2024 so last year way to use AI
+[3274:40] to write content. You create a prompt
+[3303:59] that gets the AI to write what you want,
+[3338:39] get an output, see that it's a complete
+[3370:39] mess, refine your prompt, see that your
+[3406:40] content is still poo poo, and then you
+[3435:59] decide to just edit it so you can just
+[3462:40] get the damn thing done. Then you move
+[3490:40] on to the next article. Here's the 2025
+[3530:40] way. Yo, AI Masterbot Genius Overlord. I
+[3576:00] want 300 articles. Go tell Chad GBT to
+[3617:20] create them all according to spec. To
+[3647:59] make your AI overlord, you're going to
+[3678:40] need first Google Docs. Easy. Second, an
+[3725:19] OpenAI account. Plus or pro is fine for
+[3764:00] this. and a make.com free or pro account
+[3809:20] to stitch the above tools together. To
+[3844:00] hook up make with your newly created
+[3871:59] content sheet, create a new scenario.
+[3903:59] We're going to call it content system
+[3930:40] and then click the plus sign to
+[3956:00] integrate Google Sheets. Then you're
+[3986:40] going to select the data that you want
+[4010:40] to use for your content machine by just
+[4038:39] highlighting it. And just like that,
+[4064:00] your spreadsheet is now connected to
+[4091:59] make. Now you want to connect make to
+[4123:59] chat GBT and Open AAI so it can be mode
+[4168:00] all these articles. Click the plus sign
+[4198:40] button thingy again, but this time add
+[4232:00] open AI. Then you're going to select
+[4265:20] message an assistant. It lets you
+[4295:59] provide GPT with a prompt. To finish
+[4329:19] connecting make with OpenAI, you're
+[4358:39] going to need to generate an AI key,
+[4388:00] which can be found at this URL. Drop
+[4422:40] that bad boy into make and you're all
+[4449:20] set. Now, here's the fun part where you
+[4486:39] get to pretend you're God's gift to
+[4512:00] coding, but it's actually easy AF. The
+[4549:20] message field is where you'll add your
+[4574:39] prompt to instruct the GPT to craft your
+[4614:40] content. But there's something you need
+[4643:59] to know about producing AI content. It
+[4682:40] always works best if you first instruct
+[4718:40] the AI to build an outline and then you
+[4769:20] get it to produce content using that
+[4804:00] outline as a reference. It works every
+[4852:00] time. Here's a prompt for generating an
+[4892:00] outline for recipe style content.
+[4926:40] Generate a structured outline based on
+[4954:40] the following details. Topic and target
+[4986:39] keywords are going to come from our
+[5007:59] Google sheet just like this. And then
+[5037:20] we're going to get into guidelines like
+[5064:00] one to two short paragraph introduction,
+[5101:20] key recipe details, ingredients
+[5134:40] instructions, yada yada. Then finally,
+[5170:40] we end the prompt with make sure the
+[5200:00] outline is clear, engaging, and easy to
+[5233:20] follow. Now that your outline module is
+[5265:19] complete, it's time to make a content
+[5298:39] generator module. This time in the
+[5328:00] message tab, you're going to give it a
+[5352:00] prompt like this. Write a complete,
+[5389:20] well- formatted recipe page based on the
+[5430:40] following structured outline. And here
+[5458:40] you're telling make.com and ultimately
+[5485:20] the AI to read in the result from the
+[5514:40] outlined stat. Requirements: tone,
+[5553:19] friendly, and informative, but not too
+[5580:00] informal. Use the following keywords
+[5609:20] naturally throughout the page, and so
+[5633:20] forth. Here's an example of the
+[5654:40] formatted we'd like to see. And then
+[5683:59] finally, we end the prompt with make the
+[5718:40] content structured, engaging, and
+[5748:00] SEOfriendly. By the way, for an even
+[5780:00] better result, you can add some killer
+[5806:40] humanizing prompts. Make sure to watch
+[5834:40] my video, how I humanize chat GPT AI
+[5881:20] content, after you finish here. Link in
+[5914:40] the description. Now, the final touches.
+[5954:40] We can collect the output articles in
+[5982:40] Google Doc format. And sure enough,
+[6013:20] here's the articles nice and neat in a
+[6046:40] Google Drive directory. Let's open up
+[6076:00] one of these bad boys. This chicken and
+[6107:59] leak pie recipe looks pretty damn good.
+[6142:40] Does it taste good? I don't know. Do I
+[6173:20] sound like I'm from London? That said,
+[6201:20] the content is up to spec and ready to
+[6230:40] publish. Is it the best content on the
+[6265:19] internet? No, not even close. Is it the
+[6304:00] best chicken and leak pie content on the
+[6336:00] internet? Probably. You don't need to be
+[6366:40] freaking Shakespeare to write recipe
+[6393:20] content. That's the beauty of the
+[6422:40] system. You can turn out hundreds of
+[6452:00] articles for your non-critical content
+[6483:59] at scale to satisfy Google's topical
+[6526:40] authority algorithm while at the same
+[6557:20] time leaving your high priority sales
+[6595:59] and conversion pages to your human
+[6629:19] writers or a more sophisticated AI tool
+[6668:00] like Surfer AI. And now that you know
+[6701:20] the basic setup on how to integrate make
+[6740:00] with chat GBT with Google Docs with a
+[6780:00] prompt like this, you can also generate
+[6807:59] thousands of page titles according to
+[6836:00] your spec. Likewise, you can crank out
+[6866:40] meta descriptions with a prompt like
+[6893:20] this. We've also used a system to create
+[6933:20] really clever and custom link outreach
+[6966:40] emails at scale using this exact prompt.
+[7012:00] Though I would recommend using Grock for
+[7048:00] witty outreach emails. Grock is just way
+[7080:00] funnier. So what was the result of all
+[7114:40] this effort? My client's revenue
+[7137:20] increased from $166 to
+[7176:39] $491,000 per month with a monthly
+[7213:20] traffic increase of 266%. If you'd like
+[7258:40] us to take a look at your SEO, head on
+[7289:20] over to the searchinitiative.com and use
+[7318:40] the form at the bottom to reach out.
+[7345:20] That's it. We'd be happy to look at your
+[7368:00] site and let you know what we can do for
+[7390:40] you. $1,000 off your first month until
+[7426:39] the end of the month.

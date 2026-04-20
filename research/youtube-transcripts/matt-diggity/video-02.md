@@ -1,236 +1,307 @@
-# Expert Name: Matt Diggity
-# Video Title: I Let an AI Run my SEO Campaign.  Here’s what happened…
-# Video URL: https://www.youtube.com/watch?v=xG9Vu9yrQzw
-# Publish Date: Unknown
-# Transcript Source: Supadata
+# Expert Name
+
+Matt Diggity
+
+# Video Title
+
+I Stopped Publishing New Content. Something Crazy Happened…
+
+# Video URL
+
+https://www.youtube.com/watch?v=-fK3OaJ9Mjk
+
+# Publish Date
+
+Unknown
+
+# Transcript Source
+
+Supadata YouTube Transcript API
 
 ## Transcript
 
-[01:20] I built an AI bot that should at the
-[38:40] press of a button do the work of a 100
-[01:11:59] SEO experts. All the content with a
-[01:46:40] single push, all the metadata and link
-[02:23:59] building campaign. How'd it go? With it,
-[03:00:00] I increased my client's revenue from 166
-[03:47:59] to
-[04:05:59] $491,000 per month by increasing their
-[04:43:59] monthly traffic by 266%.
-[05:26:40] Damn. But here's the wild part. The
-[06:14:40] system runs itself. No manual tweaking,
-[06:54:40] no babysitting AI prompts. Just press go
-[07:33:19] and that's it. In this video, I'm going
-[08:02:40] to show you how I did it so you can copy
-[08:32:00] this AI SEO Terminator for yourself. My
-[09:12:00] name is Matt Diggity and I'm the
-[09:34:40] director at the Search Initiative, an
-[10:01:19] international SEO agency managing some
-[10:33:20] of the biggest brands on the internet.
-[10:57:20] Early last year, we signed a new SEO
-[11:28:00] client selling home interiors. They were
-[12:01:20] fresh off a messy breakup from their old
-[12:30:40] SEO agency. You know the vibe. Trust
-[13:06:40] shattered, expectations low, and a
-[13:40:00] little baggage trailing behind. Now
-[14:09:20] they're with us, and the clock is
-[14:33:19] ticking. They were skeptical, and we had
-[15:03:59] to prove that we were the rebound that
-[15:30:40] they wouldn't regret. The pressure was
-[15:57:20] on, so we needed to create an AI
-[16:28:00] gigachad to help us get some quick
-[16:58:40] results. As you know, the current OpenAI
-[17:34:40] LLM models are good. No doubt, we're
-[18:10:38] starting to get to the point where with
-[18:33:19] decent prompting, you can get
-[18:55:59] undetectable AI content better than the
-[19:33:20] average human can write. But it's still
-[20:01:20] a handheld process. You prompt, get a
-[20:46:39] result, you refine, and then you do it
-[21:18:40] over and over again for each task, each
-[21:52:00] piece of content you write, each
-[22:15:59] metatitle, each description, each link
-[22:54:39] outreach pitch. There's a lot of room
-[23:21:20] for speed and quality improvements. What
-[23:54:40] you want is an AI overlord system that
-[24:33:20] you can just say, "Yo, write these 300
-[25:07:59] pages or build 200 links." And it's
-[25:44:00] like, "Hold my beer, human newbie."
-[26:28:00] That's what you're here for. Sounds too
-[26:56:00] good to be true. That's what I thought,
-[27:18:40] too, until I saw what I'm about to show
-[27:42:39] you. But real quick, before I get
-[28:05:19] started, I wanted to let you know that
-[28:27:59] my SEO agency, The Search Initiative, is
-[29:01:19] taking on a handful of clients right now
-[29:29:19] for $1,000 off their first month in
-[30:09:20] exchange for a testimonial down the
-[30:35:59] road. Just head on over to the
-[30:59:20] searchinitiative.com, put your deeds
-[31:26:40] into the form, and we'll get right back
-[31:50:40] to you. All right, so here's what's
-[32:12:00] going to go down. We want to build a
-[32:38:40] system, an AI bot manager that handles
-[33:24:00] hundreds of SEO tasks in batch mode to
-[34:02:40] ultimately make Google our B. But you're
-[34:41:20] probably already thinking, "But Matt, I
-[35:10:40] don't know how to code, and I don't want
-[35:30:40] to know either." You know what? Neither
-[35:58:40] do I. We're going to use Make.com, a
-[36:34:40] noode automation tool that connects to
-[37:10:40] apps like ChatGpt to build us an AI
-[37:51:59] agent that's going to create hundreds of
-[38:22:40] pages of incredible content in one shot.
-[39:02:40] Let's get started building our super
-[39:26:40] mega awesome scalable content strategy.
-[40:02:40] You've heard of topical authority,
-[40:25:20] right? If you write one article about
-[40:57:20] cooking, Google's going to be like, "I
-[41:32:00] don't give a fuck." But if you write
-[42:05:20] tons of highquality cooking articles,
-[42:44:00] Google will start to rank you. That's
-[43:13:19] because it's cheaper and more reliable
-[43:44:00] for them to depend on certain websites
-[44:16:00] as topical authorities for certain
-[44:45:20] topics, websites they can count on for
-[45:21:20] good food recipes. If you're starting to
-[45:52:00] zone out, wake up. This is the part that
-[46:26:40] actually makes you money. So, the best
-[47:02:40] content strategy is hands down to make
-[47:51:59] sure that you write more quality cooking
-[48:30:40] content than your competitors. Load at
-[49:13:20] competitive analysis tool and enter your
-[49:46:40] domain along with your competition.
-[50:18:40] Bonapetit, here's a bajillion recipes
-[50:54:40] you haven't covered. Export this out and
-[51:31:59] then create a simple spreadsheet like
-[51:58:40] this with the topic in one column and
-[52:30:40] the keyword in the next. We're going to
-[52:56:00] feed this into our hungry AI beast. Now,
-[53:35:59] here's a 2024 so last year way to use AI
-[54:34:40] to write content. You create a prompt
-[55:03:59] that gets the AI to write what you want,
-[55:38:39] get an output, see that it's a complete
-[56:10:39] mess, refine your prompt, see that your
-[56:46:40] content is still poo poo, and then you
-[57:15:59] decide to just edit it so you can just
-[57:42:40] get the damn thing done. Then you move
-[58:10:40] on to the next article. Here's the 2025
-[58:50:40] way. Yo, AI Masterbot Genius Overlord. I
-[59:36:00] want 300 articles. Go tell Chad GBT to
-[60:17:20] create them all according to spec. To
-[60:47:59] make your AI overlord, you're going to
-[61:18:40] need first Google Docs. Easy. Second, an
-[62:05:19] OpenAI account. Plus or pro is fine for
-[62:44:00] this. and a make.com free or pro account
-[63:29:20] to stitch the above tools together. To
-[64:04:00] hook up make with your newly created
-[64:31:59] content sheet, create a new scenario.
-[65:03:59] We're going to call it content system
-[65:30:40] and then click the plus sign to
-[65:56:00] integrate Google Sheets. Then you're
-[66:26:40] going to select the data that you want
-[66:50:40] to use for your content machine by just
-[67:18:39] highlighting it. And just like that,
-[67:44:00] your spreadsheet is now connected to
-[68:11:59] make. Now you want to connect make to
-[68:43:59] chat GBT and Open AAI so it can be mode
-[69:28:00] all these articles. Click the plus sign
-[69:58:40] button thingy again, but this time add
-[70:32:00] open AI. Then you're going to select
-[71:05:20] message an assistant. It lets you
-[71:35:59] provide GPT with a prompt. To finish
-[72:09:19] connecting make with OpenAI, you're
-[72:38:39] going to need to generate an AI key,
-[73:08:00] which can be found at this URL. Drop
-[73:42:40] that bad boy into make and you're all
-[74:09:20] set. Now, here's the fun part where you
-[74:46:39] get to pretend you're God's gift to
-[75:12:00] coding, but it's actually easy AF. The
-[75:49:20] message field is where you'll add your
-[76:14:39] prompt to instruct the GPT to craft your
-[76:54:40] content. But there's something you need
-[77:23:59] to know about producing AI content. It
-[78:02:40] always works best if you first instruct
-[78:38:40] the AI to build an outline and then you
-[79:29:20] get it to produce content using that
-[80:04:00] outline as a reference. It works every
-[80:52:00] time. Here's a prompt for generating an
-[81:32:00] outline for recipe style content.
-[82:06:40] Generate a structured outline based on
-[82:34:40] the following details. Topic and target
-[83:06:39] keywords are going to come from our
-[83:27:59] Google sheet just like this. And then
-[83:57:20] we're going to get into guidelines like
-[84:24:00] one to two short paragraph introduction,
-[85:01:20] key recipe details, ingredients
-[85:34:40] instructions, yada yada. Then finally,
-[86:10:40] we end the prompt with make sure the
-[86:40:00] outline is clear, engaging, and easy to
-[87:13:20] follow. Now that your outline module is
-[87:45:19] complete, it's time to make a content
-[88:18:39] generator module. This time in the
-[88:48:00] message tab, you're going to give it a
-[89:12:00] prompt like this. Write a complete,
-[89:49:20] well- formatted recipe page based on the
-[90:30:40] following structured outline. And here
-[90:58:40] you're telling make.com and ultimately
-[91:25:20] the AI to read in the result from the
-[91:54:40] outlined stat. Requirements: tone,
-[92:33:19] friendly, and informative, but not too
-[93:00:00] informal. Use the following keywords
-[93:29:20] naturally throughout the page, and so
-[93:53:20] forth. Here's an example of the
-[94:14:40] formatted we'd like to see. And then
-[94:43:59] finally, we end the prompt with make the
-[95:18:40] content structured, engaging, and
-[95:48:00] SEOfriendly. By the way, for an even
-[96:20:00] better result, you can add some killer
-[96:46:40] humanizing prompts. Make sure to watch
-[97:14:40] my video, how I humanize chat GPT AI
-[98:01:20] content, after you finish here. Link in
-[98:34:40] the description. Now, the final touches.
-[99:14:40] We can collect the output articles in
-[99:42:40] Google Doc format. And sure enough,
-[100:13:20] here's the articles nice and neat in a
-[100:46:40] Google Drive directory. Let's open up
-[101:16:00] one of these bad boys. This chicken and
-[101:47:59] leak pie recipe looks pretty damn good.
-[102:22:40] Does it taste good? I don't know. Do I
-[102:53:20] sound like I'm from London? That said,
-[103:21:20] the content is up to spec and ready to
-[103:50:40] publish. Is it the best content on the
-[104:25:19] internet? No, not even close. Is it the
-[105:04:00] best chicken and leak pie content on the
-[105:36:00] internet? Probably. You don't need to be
-[106:06:40] freaking Shakespeare to write recipe
-[106:33:20] content. That's the beauty of the
-[107:02:40] system. You can turn out hundreds of
-[107:32:00] articles for your non-critical content
-[108:03:59] at scale to satisfy Google's topical
-[108:46:40] authority algorithm while at the same
-[109:17:20] time leaving your high priority sales
-[109:55:59] and conversion pages to your human
-[110:29:19] writers or a more sophisticated AI tool
-[111:08:00] like Surfer AI. And now that you know
-[111:41:20] the basic setup on how to integrate make
-[112:20:00] with chat GBT with Google Docs with a
-[113:00:00] prompt like this, you can also generate
-[113:27:59] thousands of page titles according to
-[113:56:00] your spec. Likewise, you can crank out
-[114:26:40] meta descriptions with a prompt like
-[114:53:20] this. We've also used a system to create
-[115:33:20] really clever and custom link outreach
-[116:06:40] emails at scale using this exact prompt.
-[116:52:00] Though I would recommend using Grock for
-[117:28:00] witty outreach emails. Grock is just way
-[118:00:00] funnier. So what was the result of all
-[118:34:40] this effort? My client's revenue
-[118:57:20] increased from $166 to
-[119:36:39] $491,000 per month with a monthly
-[120:13:20] traffic increase of 266%. If you'd like
-[120:58:40] us to take a look at your SEO, head on
-[121:29:20] over to the searchinitiative.com and use
-[121:58:40] the form at the bottom to reach out.
-[122:25:20] That's it. We'd be happy to look at your
-[122:48:00] site and let you know what we can do for
-[123:10:40] you. $1,000 off your first month until
-[123:46:39] the end of the month.
+[00:33] Imagine not
+publishing a single new piece of content.
+[47:49] But still, watching your traffic
+go absolutely insane.
+[97:19] Well, last year, I doubled the real estate
+client's organic traffic.
+[156:16] And I did this through
+something called content repurposing.
+[208:32] And in this day and age of 2026, SEO.
+[253:35] not only does Google eat it up,
+but so did the AI search systems.
+[306:25] In this video, you'll learn.
+[333:40] Where your audience is really searching
+how to repurpose your content
+[392:03] the right way and generate a metric
+ton of new traffic,
+[446:33] sales and leads.
+[504:23] Let's get into it.
+[521:04] Now I'm Matt Diggity
+and I run the search initiative
+[557:13] and an international SEO agency managing
+organic search strategy and growth
+[619:30] for some of the biggest brands
+on the internet.
+[650:05] So on the face of it,
+the client had everything going for them.
+[695:08] Smart team,
+tons of content. Years of data.
+[740:11] And on paper,
+[753:31] they were doing everything you're supposed
+to be doing to bag organic visitors.
+[825:49] But they were down bad.
+[860:51] The traffic growth has stopped dead.
+[893:40] Lead to dried up.
+[913:08] And worst of all, their competitors
+were showing up everywhere.
+[958:44] In AI, answers on SERPs, on socials.
+[1005:26] So even when my client had higher quality
+written content.
+[1058:16] Nobody was seeing it.
+[1077:44] Now with revenue plummeting
+and an audience
+[1107:46] leaving in droves,
+they came to me with the question.
+[1146:08] We spent all this time and all this money
+creating all this awesome content.
+[1201:12] Why the hell wasn't it working?
+[1224:33] And after a quick analysis,
+it became obvious.
+[1260:42] The problem wasn't the content.
+It was distribution.
+[1309:38] So here's how I turned quality old content
+into quality new traffic.
+[1375:49] And how you can do the same.
+[1401:24] But real quick, I want to let you know
+before I get started.
+[1439:46] Right now, my agency,
+the Search Initiative,
+[1474:48] is bringing on a handful of new clients
+for $1,000 off their first month.
+[1533:45] in exchange for a testimonial down
+the road.
+[1569:20] just head on over to thesearchinitiative.com
+[1607:43] Put your deets into the form
+and we'll get right back to you.
+[1648:52] Okay, back to repurposing.
+[1674:27] Step one pinpoint where your audience
+actually searches using sparktoro
+[1741:44] Here's how to get started.
+[1766:45] Sign up for Spark Toro for free.
+[1796:14] Go up here to Audience research.
+[1827:56] Type in searches for and the phrases
+your audience uses.
+[1879:39] example home gardening,
+organic vegetables, indoor plants.
+[1929:08] you can set locations.
+If you care about a specific country.
+[1975:18] Spark Toro will
+then show you the social platforms
+[2012:33] this audience uses,
+which search and AI tools are their favorites
+[2070:24] and the sites they visit on the paid tier
+[2103:12] You can even see the most listen
+to podcasts and active Reddit threads.
+[2167:43] From this.
+You can then build out a channel.
+[2199:25] Hit list of the most popular platforms
+for your niche.
+[2246:41] For my real estate client,
+this is where it got interesting.
+[2282:16] Their blog traffic was flat, but
+their clients were crazy about YouTube.
+[2343:27] Which means they weren't reading.
+[2371:48] They were watching.
+[2387:23] Same information, different format.
+[2427:58] Step two build your content.
+[2456:53] Repurposing library.
+[2480:48] Now you need the raw materials.
+[2512:30] But don't try to repurpose everything.
+[2544:12] Just your greatest hits.
+[2568:07] There isn't much point
+[2580:54] turning your predictions
+for 2009 blog posts into TikTok videos.
+[2647:05] Especially for an audience
+that wasn't born until 2010.
+[2689:21] Hello, darkness, my old friend.
+[2747:11] Here's how to find your best starting
+points.
+[2778:53] Open ga4.
+[2798:54] Go to reports, then life cycle engagement
+and into pages and screens.
+[2881:46] Set the time frame to last 12 months.
+[2920:08] Sort by views.
+[2937:56] You're looking for high traffic.
+[2962:57] Evergreen topics with strong proof points.
+[3010:13] Topics like how to start
+a vegetable garden or tips for
+[3060:16] keeping houseplants healthy are perfect
+because they stay relevant
+[3110:53] for years, fit multiple formats
+and don't get outdated easily.
+[3168:09] Making them more likely
+to be crawled by AI.
+[3208:45] Step three
+put your content in the right formats.
+[3259:55] It's time to rework your content
+to fit its intended platforms.
+[3318:18] Here's
+some of the best ways to do just that.
+[3350:34] Refresh number one.
+[3370:02] Turn blog posts into YouTube
+video interviews.
+[3420:05] look.
+[3425:38] I know better than anyone
+that YouTube can seem intimidating.
+[3472:21] But you'd be amazed about how easy it is
+to talk about something you know
+[3522:57] a lot about.
+[3535:45] Grab a cell phone
+[3549:39] camera and download intuitive
+editing tool like Vid or even Canva.
+[3614:09] Read through the blog posts a few times,
+then get a friend
+[3660:19] or colleague to ask you 4 to 5 open
+ended questions about the subject
+[3718:09] on camera wax lyrical about what you know
+without even needing to follow a script.
+[3783:46] And just like that,
+[3801:01] entire blog content is a new format
+loved by both humans and LLMs.
+[3883:19] love it.
+[3910:34] Plenty of these tools also have
+AI features that make putting your face
+[3963:57] on video 100 times easier than it was
+when I started on YouTube.
+[4022:21] Just be prepared for the comments section.
+[4056:49] This guy is a noob.
+[4077:57] looks so tired.
+[4097:25] You don't know shit.
+[4114:39] YouTubers love feedback like this.
+[4151:55] Now here's a bonus
+[4165:49] if you've already done YouTube long form,
+chop it up into shorts.
+[4229:46] To do that, jump back into Canva
+or whatever tool
+[4281:29] you want to chop down your long
+for video into short form clips.
+[4335:59] Pick out the punchy moments.
+[4359:54] A single tip, a key takeaway, one idea per
+clip.
+[4412:11] Crop vertical, add big text overlays
+and cut any ums and ahs or dead air.
+[4538:58] Next, export your file And
+[4567:20] post across YouTube shorts, Instagram
+Reels, Facebook, TikTok, whatever.
+[4639:38] Next up, rework
+blog posts into social media posts.
+[4693:01] Feed your blog posts in the chat GPT and
+generate a stack of textual nuggets for.
+[4780:19] X Reddit, Instagram, Facebook.
+[4817:35] All the platforms.
+[4834:49] To do this and make sure they don't suck.
+[4878:45] Copy the prompt I've provided
+in the description of this video.
+[4931:02] Paste it into ChatGPT, add
+your company name and desired platforms
+[4998:52] and copy and paste the full blog post
+into the highlighted field and let it fly.
+[5070:03] For example, this Reddit post on fishing
+[5101:45] gear is 100% repurpose and condense
+from this blog post.
+[5167:56] Easy right?
+[5181:50] Well, one quick PSA on Reddit.
+[5214:05] Tread carefully.
+[5231:20] put a foot wrong,
+and the community can come after you.
+[5274:09] In my next video, I'll show you how to 30x your AI search traffic using Reddit.
+[5340:53] make sure to subscribe
+so you don't miss it.
+[5369:15] okay?
+[5374:48] Under step four, flip long
+form guides to AI ready summary pages.
+[5445:59] What are those you might ask?
+[5467:07] All right, check this out.
+[5480:28] Grandview research has a coffee market
+report all behind a paywall.
+[5547:45] But on the landing page, they share
+just a tight summary with the key numbers.
+[5614:29] which is enough to gatecrash Google
+[5640:38] AI overview for stats on global coffee
+consumption.
+[5694:34] Even if you search for consultancy
+giant McKinsey.
+[5742:24] State of AI report by name, it's
+not the report itself that pops up.
+[5809:41] It's the shorter,
+snappier summary landing page.
+[5858:04] This is huge.
+[5894:46] Reason being.
+[5909:47] The big brands at SEMrush estimate
+[5937:02] that I search will overtake Google
+in less than two years
+[5990:59] So take those blog posts
+that have been gathering dust.
+[6029:54] And just tighten them up, restructure them
+and make them clearer.
+[6075:30] You can jump to the front
+[6092:11] of all the platforms
+that will dominate search
+[6122:13] in the future. Done right,
+the possibilities are endless.
+[6175:03] that's pretty much it right?
+[6194:31] Get those formats live.
+[6213:59] Push them out.
+[6225:39] Let the traffic roll in. It's
+where most SEOs would stop.
+[6272:22] But not this guy.
+[6305:44] You squeeze
+the juice out of all your best content.
+[6343:33] But what about the content
+was actually kind of shitty.
+[6393:03] this next step is
+what sends things over the top.
+[6431:58] Step five refresh old content
+and run it all back.
+[6483:08] Once every 2 to 3 months.
+[6510:56] Take a look at your least viewed
+old blog posts.
+[6560:26] Look for anything with an evergreen
+subject had a strong point of view.
+[6618:50] It just didn't get traction
+the first time around.
+[6651:05] Improve them by adding new stats
+and research, screenshots
+[6701:41] and visuals, and combining several
+weak posts into one strong guide.
+[6757:51] Once updated, you're ready for another
+round of cross-Channel repurposing.
+[6817:55] And so the circle of life continues.
+[6854:04] side note.
+[6865:44] Here's the part that nobody talks about
+writing one new 2000 word blog posts.
+[6934:08] That's two, three, four hours of work.
+[6967:30] Easy repurposing can be as little as 10
+to 20 minutes.
+[7025:54] for every new long form blog post
+that my client was publishing each week.
+[7088:11] we we’re shipping
+ten pieces of repurposed content.
+[7129:20] That's how you win at content
+distribution.
+[7163:49] for the real estate guys.
+[7180:30] All these tactics added up to.
+[7207:12] 148% more referral traffic
+from social and YouTube,
+[7270:02] 118% more organic sessions
+in the same period.
+[7326:12] And the kicker?
+[7340:06] AI referral traffic
+also grew by 2,814% year on year.
+[7423:31] If you'd like us to do the same for you,
+head on over to thesearchinitiative.com.
+[7483:01] Now. We're taking on a limited number
+of clients right now, giving $1,000 off
+[7547:32] the first month.

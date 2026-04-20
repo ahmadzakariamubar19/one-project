@@ -1,116 +1,170 @@
-# Expert Name: Aleyda Solís
-# Video Title: 3 Resources for SEO friendly HTTPs Migrations #AleydaSEOTips
-# Video URL: https://www.youtube.com/watch?v=MvmHh-xSRfM
-# Publish Date: Unknown
-# Transcript Source: Supadata
+# Expert Name
+
+Aleyda Solís
+
+# Video Title
+
+OpenAI announces Instant Checkout and the Agentic Commerce Protocol   - #SEOFOMO TL;DR Oct 6, 2025
+
+# Video URL
+
+https://www.youtube.com/watch?v=BhrytLSY_ws
+
+# Publish Date
+
+Unknown
+
+# Transcript Source
+
+Supadata YouTube Transcript API
 
 ## Transcript
 
-hello am i today is already a co-teacher
-[33:30] I want to share with you a few very
-[01:35:00] straightforward easy to use resources to
-[02:19:30] make your htps migration much more
-[03:19:00] easier from a nephew perspective I am
-[04:08:30] going to be speaking about this stuff is
-[04:41:30] actually a monday in search london and
-[05:19:00] there's going to be a full presentation
-[05:43:00] 10 minutes presentation i'm going to
-[06:11:29] share the slides have to work full of
-[06:44:29] tips ads and dance and resources that
-[07:28:00] hopefully will make your life easier for
-[08:13:50] the validation so here you have a little
-[09:26:00] sneak think about that presentation if
-[10:13:00] in case you cannot go to London that
-[10:44:30] will be very sad though so the process
-[11:26:59] has this resource that I share a few
-[11:57:00] months ago it's a checklist actually
-[12:42:19] sharing the steps validations that you
-[13:26:30] need to do before during and a street
-[14:19:30] after launching so it's very important
-[15:13:29] especially when you have a huge website
-[16:06:00] with tons of resources and potentially
-[16:56:00] many subdomains is something very very
-[17:36:30] important or if you're using to dance
-[18:05:29] that you do different types of
-[18:35:30] validations right so you have a list a
-[19:13:30] very complete list of the validation is
-[20:04:59] to reduce on the other hand if you have
-[21:11:20] also slow website nuts mess earlier
-[22:03:00] millions to use website but is no
-[22:41:29] website that it's running on wordpress
-[23:22:30] this is a very straightforward handy
-[24:04:00] plug-in called really simple ssl that
-[25:00:30] you can is so easily and that will help
-[25:56:00] you not only to implement the redirect
-[26:34:00] 301 redirect from the HTTP to the https
-[27:32:50] Europe could you serve the secure
-[28:12:00] versions of the pages that you will have
-[28:59:00] enabled now that the even if you are
-[29:39:59] secure you really want to make sure that
-[30:13:00] you're showing the right pages and you
-[30:42:59] can only kalai so these these pages
-[31:16:30] right so you can do it by using ah this
-[32:15:59] plug-in that will to handle help us 301
-[32:55:30] redirect and also forced to serve
-[33:27:30] resources the images the CSS GS any
-[34:36:00] fault that you're showing on your pages
-[35:13:30] through their picture versions otherwise
-[35:59:29] you will end up having a mix
-[36:46:40] and itís issue and then you will not do
-[37:35:10] page boom be shown to the with that
-[38:21:39] little padlock on on the right browser
-[38:56:40] right and and then there's this very
-[39:32:40] handy or so tool to use that it go why
-[40:22:40] not bad luck here that you can see where
-[40:54:10] you can validate any page actually to
-[41:33:40] see if there's good food what I really
-[42:35:10] has a valid certificate what type of
-[43:31:40] certificate is if there are any
-[44:01:10] resources are being called Colonel e
-[44:31:09] that can cause it there's a mixed
-[44:59:40] content type of if issue or not or that
-[45:47:39] what is the reason so this is very handy
-[46:30:09] to validate this type of implementations
-[47:31:09] and the same can can be done with google
-[48:23:59] chrome dev tools you can go to see the
-[49:14:10] source of any books here you can take a
-[50:32:10] look and see the inspector option is as
-[51:11:09] any any any page and then you can hear
-[52:38:09] go to the Security tab and see if again
-[54:08:59] it is mission to the true page is the
-[55:20:39] certificate is valid additional
-[56:01:39] information I will reload now to see
-[57:06:39] that organs and observe different
-[57:40:39] resources that are being cold to through
-[58:52:10] to the pitching in this case and then if
-[59:31:39] there's any issue here that you see
-[60:02:39] there's specific research that's being
-[60:54:40] called for example from here from around
-[61:23:09] here imagine I an immature whatever you
-[62:04:39] can go to the to the source to educate
-[62:46:10] outdoors directly here you can also go
-[63:29:09] to the to the timeline to see how every
-[64:19:09] element is being loaded and you can go
-[64:56:39] in and uncheck for it and however again
-[65:55:40] there's very handy it's very
-[66:21:40] straightforward if you're using again
-[67:13:39] wordpress to use this type of law is to
-[67:53:39] force to show that the ssl version for
-[69:04:40] them so hopefully with this it will be
-[70:03:40] much easier for you to implant to
-[70:33:39] implement the https migration and and
-[71:37:39] you will need much more complex type of
-[72:28:09] tech support hopefully you don't
-[73:42:10] have a wordpress website or others know
-[74:30:40] what's I running running on on a CMS
-[75:28:30] opportunity when you are running huge
-[76:13:09] web sites week websites covered website
-[76:43:09] there's much more complexity to to
-[77:48:40] implement this type of migration and I
-[78:18:39] will be sharing about that and also a
-[78:46:09] few tips for for this situation students
-[79:26:09] on monday i hope you have liked it and
-[80:04:40] if you have any question or something
-[80:31:10] that you would like me to specific
-[80:50:39] others among baseless living in the
-[81:25:10] comments thanks
+[02:40] Let's go through the latest in SEO and
+[50:40] AI search with the SEO for Tulin read
+[110:40] top news of the week. Thank you to
+[161:19] similar web who's our today's sponsor.
+[206:40] The top news of the week was the
+[250:40] announcement of OpenAI instant checkout
+[301:20] and the Aentic commerce protocol
+[337:20] released already in the US for Chip plus
+[393:20] pro and free users who can now buy
+[442:40] directly from the US via Etsy right
+[486:39] there from the Chip chat. And with over
+[533:20] a million Shopify merchants coming soon
+[577:20] thanks to their integration. So with
+[616:00] this release and announcement, Chadip
+[647:59] has now become an e-commerce platform
+[694:40] and they are setting the base for their
+[726:40] agent eiation
+[788:00] showcasing how users will be able now to
+[830:40] shop directly from any merchant that
+[885:20] integrates with them without having to
+[918:40] leave their interface as you can see in
+[957:20] the example from Etsy here. In order to
+[993:20] do this, you need to apply to
+[1016:00] participate in instant checkout. Share
+[1054:40] your product feed according to the
+[1088:00] product feed specifications that are not
+[1130:40] too dissimilar from the one of Google in
+[1172:00] order to provide Chad GPT with accurate
+[1207:59] up-to-date information about your
+[1233:20] products. Build your Aentic checkout API
+[1276:00] according to the Aentic checkout
+[1300:00] specifications and your payment
+[1337:20] integration. Finally, you will need to
+[1368:00] certify with OpenAI and move to
+[1402:39] production. Along with this release, a
+[1441:19] new version of the shopping web HGBT
+[1476:00] search documentation was updated and a
+[1530:40] few things have changed. For example,
+[1565:20] further clarification is given about
+[1595:59] product selection. Product results are
+[1629:19] selected independently by Chad GBT and
+[1669:19] are not ads nor influenced by any open
+[1713:19] AI partnership. And regarding merchants,
+[1764:00] before they said that the order in which
+[1805:20] they display merchants was predominantly
+[1854:40] determined by providers, they didn't
+[1889:20] rerank merchants. However, now they
+[1934:39] specify that this list is generated by
+[1976:00] Chad GPT based on merchants and product
+[2009:20] metadata from third-party providers or
+[2056:00] directly from the merchants themselves.
+[2093:20] Merchants are ranked based on factors
+[2129:19] like availability, price, quality,
+[2177:20] whether they are the maker or primary
+[2213:20] seller of that item and whether instant
+[2259:59] checkout is enabled. So as you can see
+[2309:20] the integration with instant checkout is
+[2353:20] now a factor. Also mention how they
+[2392:00] expect this evolves over time by
+[2430:40] becoming more personalized based on the
+[2468:00] user preferences. There are already a
+[2506:40] couple of very insightful guides and
+[2540:00] references that have been published in
+[2580:00] the last few days by Andre Valpini going
+[2625:19] through these changes. OpenAI product
+[2657:20] fits from cataloges to conversations
+[2696:00] sharing what has changed and things that
+[2746:40] you need to take into account to make
+[2777:20] the most out of it. This is a very
+[2818:40] actionable guide that I highly recommend
+[2866:40] you to check out if you're an e-commerce
+[2918:40] who wants to implement it. I believe
+[2953:20] that it's just a matter of weeks, if not
+[2990:40] days, that Google will now release their
+[3038:39] own reaction functionality to this via a
+[3103:59] shopping experience in AI mode. And we
+[3153:20] know that they already have all the
+[3178:40] fundamental integration with retailers
+[3220:00] already. What do you think? The next top
+[3253:20] resource is this guy from the Spina
+[3296:00] Gavoyani is going to how to audit your
+[3344:00] brand mentions for modern SEO. She
+[3396:00] shares how brand mentions are
+[3429:20] fundamental in order to understand how
+[3459:59] the public sees your brand, what
+[3490:40] misinformation might be feeding AI
+[3524:00] systems and the topics and entities are
+[3565:20] more strongly connected to you along
+[3601:20] with practical ways to audited them and
+[3645:20] identify opportunities. I highly highly
+[3682:39] recommend you to take a look at as part
+[3718:40] of your SEO and AI search optimization
+[3761:20] process. The next top resource is the
+[3800:00] announcement from Google about Google AI
+[3845:20] mode releasing a more visual response
+[3881:19] and a visual fan out technique. Go
+[3921:20] announced that AI mode has been updated
+[3956:00] to handle and respond more visually. So
+[3998:40] AI mode responses both understand your
+[4035:59] queries in a more visual way and respond
+[4071:59] with more visual responses. Google said
+[4114:39] that responses aim at sparking
+[4153:20] inspiration amongst other things. They
+[4197:20] have also released this graphic
+[4232:00] showcasing how the fan out technique has
+[4267:59] been extrapolated to AI mode. This is to
+[4312:00] be honest an expected evolution to use
+[4361:20] more multimodel visual formats not only
+[4416:00] as an output but as well as an input and
+[4476:00] it only shows the importance for you to
+[4507:59] optimize your website images. Last but
+[4549:20] not least is this wonderful case study
+[4597:20] from Gabriela Jennifer Troxler
+[4634:40] showcasing how you can win in SEO in a
+[4681:20] saturated market. She goes through how
+[4719:59] important it is to finding your unique
+[4758:40] angle in order to be able to compete,
+[4800:00] how God content is the only content that
+[4843:59] is worth pursuing if you're in a very
+[4882:40] competitive market. How product
+[4916:00] optimization is fundamental and much
+[4966:40] more including the importance of
+[5001:20] community. So, if you're an SEO working
+[5038:40] in a competitive market, this is
+[5070:40] certainly a resource that you need to
+[5095:59] take a look at. I want to end today's
+[5140:00] episode by thanking Similar Web, a
+[5174:39] comprehensive SEO and digital marketing
+[5207:59] platforms that allows you to go through
+[5248:00] things like the top topic clusters that
+[5289:20] are bringing actual traffic to your site
+[5342:40] both in organic and paid for you to
+[5378:40] easily analyze it, seeing how it is
+[5422:40] growing or not over time and identifying
+[5476:00] opportunities. So, if you're also
+[5512:00] working in a competitive market, this is
+[5546:40] a tool that you definitely need to take
+[5577:19] a look at. Thank you again for watching
+[5609:20] and remember to subscribe to the
+[5634:40] channels, subscribe to the SEO for
+[5668:00] newsletter, seofformo.co. And in case
+[5712:00] you don't want to wait until the next
+[5742:40] edition and episode, you can go and take
+[5785:20] a look at the news.co
+[5838:40] when you can monitor and submit the
+[5885:20] latest SEO news. Thank you very much
+[5924:00] again and until the next edition.
+[5956:00] Bye-bye.

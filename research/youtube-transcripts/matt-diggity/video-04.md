@@ -1,263 +1,268 @@
-# Expert Name: Matt Diggity
-# Video Title: I did AI-SEO for ChatGPT and Google AI.  Here’s what happened…
-# Video URL: https://www.youtube.com/watch?v=4GBlHObjOrY
-# Publish Date: Unknown
-# Transcript Source: Supadata
+# Expert Name
+
+Matt Diggity
+
+# Video Title
+
+I Tried 3 Weird AI-SEO Techniques. Trash or Smash?
+
+# Video URL
+
+https://www.youtube.com/watch?v=EItVZ5W5FUc
+
+# Publish Date
+
+Unknown
+
+# Transcript Source
+
+Supadata YouTube Transcript API
 
 ## Transcript
 
-[01:20] I spent the last six months trying to
-[37:20] figure out how to get websites featured
-[01:10:40] in Google's AI overviews, ChatGpt, and
-[01:57:20] every other AI search results. And I'm
-[02:33:20] afraid to say Iinging cracked it. One
-[03:15:59] client's AI traffic shot up over 2,000%
-[04:03:59] and they now appear in over 90 AI
-[04:37:20] overviews compared to zero before.
-[05:41:20] In this video, I'm going to show you how
-[06:10:40] to identify all the AI opportunities in
-[06:50:40] your niche, how to optimize your site to
-[07:25:20] show up in them, and how to track your
-[07:53:20] AI traffic so you're drowning in
-[08:20:00] dopamine every time you open analytics.
-[08:53:20] My name is Matt Diggity. I'm the
-[09:16:00] director of the Search Initiative, a
-[09:41:20] worldrenowned SEO agency managing some
-[10:16:00] of the biggest brands on the internet.
-[10:41:20] And today, I'm going to show you how
-[11:02:40] we're now doing SEO in the age of AI.
-[11:42:40] Let me first give you a quick background
-[12:06:40] on what this client was dealing with.
-[12:38:40] Imagine you run a website for a quality
-[13:12:00] brand. You're like the BMW of your
-[13:41:20] industry, but you don't show up in any
-[14:17:20] AI search results. Not Google, not Chad
-[14:58:40] GBT, nothing. Meanwhile, your
-[15:33:20] competitors with 1997 whatever mobile
-[16:17:20] websites are teaagging you and
-[16:48:00] dominating all these AI searches. Our
-[17:25:19] customer was frustrated. It would be
-[17:51:59] like your grandma knowing how to out SEO
-[18:25:20] you. With all due respect for grandma,
-[18:54:40] we couldn't let that happen. Now, before
-[19:22:40] I get started, quick heads up. My
-[19:49:20] agency, The Search Initiative, is now
-[20:17:20] taking on a handful of new clients. If
-[20:48:00] you want results like this, we're
-[21:08:00] offering $1,000 off month one in
-[21:49:20] exchange for a testimonial down the
-[22:14:40] road. Just head on over to the
-[22:36:00] searchinitiative.com, put your deets
-[23:06:40] into the form, and we'll hit you up. All
-[23:34:40] right, let's get cooking. So, why would
-[24:08:00] you want to optimize your website for AI
-[24:46:40] anyways? Because not too long ago, when
-[25:26:40] fine cultured people would search for
-[25:53:20] something like premium Japanese whisies,
-[26:32:00] they'd get served a set of websites from
-[27:00:00] Google. And if you were the number one
-[27:25:20] mofos like uisuki.com here, then you
-[28:09:20] were like, I'm rich. But now the search
-[29:08:00] result looks like this where AI
-[29:34:39] overviews are summarizing the answer.
-[30:10:40] There's links over on the right but no
-[30:39:59] link to our tomodachi that means friend
-[31:16:00] in Japanese. Usuki AI SEO is not only
-[32:09:19] about getting your brand featured in the
-[32:42:39] link section of the AI overviews. You
-[33:17:20] also want to show up in chat GBT. Usuki
-[33:55:59] is number one on freaking Google for its
-[34:27:59] coveted keyword but not even listed here
-[35:04:00] for online whiskey retailers in chat
-[35:38:38] GBT. So how do you get into the AI
-[36:17:19] answers? Think of it like this. If the
-[36:50:40] AI uses you to come up with its answer,
-[37:30:40] then it's likely to link to you. So, the
-[38:09:20] name of the game is to do all the things
-[38:41:20] that make the AI want to use your
-[39:13:20] content. But where do we begin? First,
-[39:46:40] you need to figure out all the AI
-[40:14:39] opportunities in your niche so you can
-[40:44:00] target them and optimize for them. HRS
-[41:22:39] recently launched a new tool called
-[41:46:40] Brand Radar. It lets you find out what
-[42:17:19] AI is saying about your brand. Enter
-[42:51:59] your brand name, product, or service and
-[43:21:20] hit enter. I like to add my brand plus
-[44:00:00] some competitors to see how I'm doing
-[44:29:20] against them and what AI answers I need
-[45:02:40] to steal. Once you hit explore, you can
-[45:37:19] see the number of mentions of your brand
-[46:05:20] versus your competition. Scrolling down
-[46:38:40] further, here's where you'll find which
-[47:05:19] AI keywords mention you or your
-[47:38:39] competitors. If you want to see which
-[48:05:20] keywords your competitors have and you
-[48:33:20] don't, then set up a filter like you see
-[49:02:40] here. And then voila, here we go. Now
-[49:38:40] for the meat and potatoes. For the last
-[50:06:40] 6 months, I've tested countless AI SEO
-[50:44:00] theories. Here are the 12 most impactful
-[51:18:40] tactics that you can use to make sure
-[51:46:40] your website is featured in AI. Let's
-[52:24:00] start with how to relearn your content
-[52:56:00] strategy. The first tactic is to make
-[53:34:39] sure your content is direct and concise
-[54:13:20] and not fart around the answer with
-[54:40:00] fluff. Here's the AI overview for do
-[55:25:19] heat pumps work in water. The top Google
-[56:05:20] results are actually from the sites
-[56:34:40] Heatable and the Guardian, but they're
-[57:04:00] not mentioned in the AI overview. in the
-[57:33:20] Heatable article. Yes, it's very cute
-[58:02:39] that they use language like when the
-[58:30:40] Earth goes cold, we're likely to start
-[59:00:00] seeing pigs fly, but AI don't play that
-[59:38:40] game. Instead, let's look at Ira's
-[60:12:00] article, who actually did get the AI
-[60:45:20] overview link. Language like works
-[61:28:00] exactly the same way in Winter is more
-[62:08:00] confident and direct and immediately
-[62:38:39] answers the question. Next, be
-[63:09:20] conversational in the tone of your
-[63:33:19] content. AI powered search isn't based
-[64:07:59] on keywords like the old days of Google.
-[64:41:19] It relies on how people actually speak.
-[65:21:20] If you search for a keyword like
-[65:49:19] 15minute home workout, surprise, no AI
-[66:38:40] overview. But if you search, what's a
-[67:12:00] quick 15-minute workout I can do at home
-[67:46:40] without equipment? Sure enough, AI
-[68:20:00] overview. So, to get picked up for these
-[68:54:40] AI queries, you need to write
-[69:21:20] conversationally and not robotically.
-[70:00:00] Next, headings. You know, H1's, H2s, and
-[70:49:19] so forth play a ridiculously important
-[71:27:59] role in how AI systems understand your
-[72:04:00] content. Here's how to think about them.
-[72:30:40] H1, use a single H1 for the main title
-[73:05:20] of your page. H2. Use H2 tags for major
-[73:50:40] sections or questions. H3. Use H3s for
-[74:45:20] sub points or nested ideas within an H2
-[75:28:00] section. For example, here's a heading
-[75:58:40] structure for an article on cloud
-[76:20:00] hosting. Mailchimp has an article about
-[76:52:00] when to post on Instagram with a
-[77:20:00] designated H2 for posting on Sundays.
-[78:01:20] Sure enough, it was picked up in the AI
-[78:27:59] overview for should I post on Instagram
-[79:02:40] on Sundays. After that, and this one is
-[79:37:19] super easy, add a TLDDR summary at the
-[80:17:20] beginning of your article. Providing a
-[80:45:20] brief TLDDR, too long, didn't read,
-[81:28:00] helps readers and AI quickly grasp the
-[82:01:20] key points on your page. Alternatively,
-[82:36:00] you can include a key takeaway section,
-[83:08:00] which AI also really likes to site. Now,
-[83:48:00] before I go on, here's one thing that
-[84:14:40] you really need to know. All the AI bots
-[84:54:40] need to trust you, your brand, your
-[85:24:00] company, your reputation, if they're
-[86:01:20] going to site you. So, let's get into
-[86:23:59] some AI SEO tactics around brand and
-[87:04:00] reputation. Start to regularly check AI
-[87:56:00] platforms for what it knows and thinks
-[88:25:20] about your brand. Some prompts you can
-[88:54:40] use are, "What can you tell me about my
-[89:24:00] brand?" and "What does my brand do?"
-[89:57:20] Here's an example of what would come up
-[90:19:59] in chat GBT. If you see anything that's
-[91:05:19] wrong or inaccurate here, you need to
-[91:37:20] take action in this next step. Take
-[92:14:40] control of your brand narrative. LLMs
-[92:54:39] learn about your business and its
-[93:20:00] reputation from the following places:
-[93:56:00] Google Business Profile, Yelp, LinkedIn,
-[94:33:20] Trust Pilot, and so forth. Make sure
-[95:05:20] you've claimed these listings and their
-[95:36:00] information matches your website's about
-[96:14:39] and FAQ pages and the reviews. Bro, do
-[97:16:00] everything you can to maintain a high
-[97:46:40] star rating. The number of reviews and
-[98:20:00] average rating has a stupid amount of
-[98:46:40] control over your AI SEO rankings. And
-[99:30:40] don't just collect reviews on these
-[99:55:59] profiles. Highlight them visibly on your
-[100:34:40] website. Next is an industry secret that
-[101:14:39] every OG SEO knows. If you want to
-[101:50:39] improve your website's trust and
-[102:18:39] reputation in Google's eyes, get
-[102:46:40] high-quality links from relative
-[103:12:00] domains. The oldest story in SEO.
-[103:44:00] Backlinks from reputable sites act as
-[104:20:00] trust signals for both users and AI
-[105:09:20] systems. Now, this isn't a paid promo.
-[105:41:19] In fact, they don't know I'm dropping
-[106:01:20] this at all, but these days, I've been
-[106:30:40] getting high authority links from simply
-[106:59:59] media.digital. The quality for price is
-[107:34:40] just way too good. Now that you've
-[108:00:00] convinced Google to trust your brand, we
-[108:33:20] still need to make sure that they trust
-[108:56:00] your content, the stuff you write. If
-[109:28:00] you think about how AI systems work,
-[110:00:00] they dump out a bunch of information and
-[110:31:59] they site the content they use so you
-[111:08:00] can trust it. You need to do the same
-[111:40:00] thing. Use credible sources and provide
-[112:16:00] links to them. You also want to publish
-[112:45:19] expert-driven content. Use quotes from
-[113:22:40] experts to salt bay a dusting of trust
-[113:54:40] to your content and include author bios
-[114:26:40] with credentials on each of your
-[114:49:20] articles. Speaking of credentials, if
-[115:22:40] your business has any industry
-[115:52:00] certifications or awards, list them on
-[116:25:20] your site. If you're a Michelin star
-[116:50:39] restaurant, you'd have to be smoking
-[117:13:20] crack not to display it. Next, it's not
-[117:48:00] just enough to say that you're an
-[118:10:40] expert. You have to actually show it. Do
-[118:44:00] that with case studies, real world
-[119:16:00] examples, client success stories, and
-[119:53:19] original research. This not only adds
-[120:25:20] credibility, but signals to AI systems
-[121:04:00] and Google that your content
-[121:28:00] demonstrates firstirhand experience and
-[121:58:40] proven results. That's exactly the kind
-[122:33:19] of content that AIdriven systems are
-[123:09:20] designed to highlight. Now, for the most
-[123:41:20] important step of all, I'll quote the
-[124:09:20] business legend Peter Ducker, "If you
-[124:41:20] can't measure it, you can't improve it."
-[125:13:20] You must track your AI traffic in Google
-[125:52:00] Analytics 4. Navigate to reports,
-[126:30:40] acquisition, traffic acquisition. This
-[127:05:20] is where you'll find your general
-[127:26:40] traffic stats. Then click add comparison
-[128:05:20] at the top. Add a filter for only
-[128:37:19] referral traffic. Then under dimension,
-[129:12:00] search for session source/medium.
-[129:54:40] Yes, I know analytics has the user
-[130:22:40] experience of a medieval torture
-[130:46:40] chamber, but we're almost done. Under
-[131:11:59] match type, select matches reax and then
-[131:58:40] paste this big ass regular expression,
-[132:32:00] which is also in the description. With
-[132:58:40] any luck, you'll have some AI traffic.
-[133:26:40] You can see what platforms it came from
-[133:54:40] and what pages on your site it's going
-[134:21:20] to. So, what was the result of all this
-[134:55:59] effort? 2,300% increase in AI referral
-[135:47:59] traffic. The client site is appearing
-[136:14:39] for 90 keywords and AI overviews
-[136:46:40] compared to zero before the campaign.
-[137:14:40] And yes, their typical Google SEO
-[137:44:00] traffic took off, too. If you'd like us
-[138:13:19] to take a look at your SEO, head on over
-[138:44:00] to the searchinitiative.com and use the
-[139:18:40] form at the bottom to reach out. That's
-[139:49:20] it. We'd be happy to take a look at your
-[140:16:00] site. Let you know what we can do for
-[140:38:39] you. $1,000 off your first month until
-[141:17:19] the end of the month.
+[02:40] I just got done testing the weirdest AI
+[43:59] SEO techniques I could find. Server
+[77:20] logs, schema injections, and something
+[112:00] Google literally begged us to do, but no
+[146:40] one was taking it seriously, including
+[177:19] yours truly. I didn't know if any of
+[202:40] these tactics would work or just waste
+[230:40] my sweet precious time. But when it was
+[266:40] all said and done, we ended up with over
+[302:40] 1,400%
+[329:20] increase in AI traffic and 164 newly
+[382:40] ranking AI overview keywords. Oh, yeah.
+[421:19] And we doubled overall organic search
+[451:59] traffic.
+[464:00] Damn. In this video, I'll show you
+[505:20] exactly what I did step by step so you
+[548:00] can skip the guesswork and start showing
+[578:39] up in Google AI overviews chat GBT and
+[625:20] every other AI that your little heart
+[654:40] desires. You'll learn how to find out
+[688:00] which of your pages AI bots are
+[718:40] completely ignoring and how to fix it. A
+[758:40] simple tweak that gets Google's AI to
+[790:40] start citing your content and the
+[817:19] underused format that gets ChatgBT to
+[856:00] make out with you. I'm Matt Diggity. I'm
+[888:00] the director of the international SEO
+[916:00] agency, The Search Initiative. And today
+[949:20] I'm going to give you some outside the
+[973:19] box AI SEO techniques. Let me take you
+[1013:20] back to about a year ago. If you
+[1039:59] subscribe to this channel, you may
+[1066:40] remember a case study where I tripled
+[1097:20] traffic on Google in 9 months. It was
+[1129:20] for a client that sold pots, you know,
+[1161:20] for planting plants and stuff. Well,
+[1207:59] since then, their normal Google traffic
+[1235:59] kept growing, which I'm all for, but
+[1264:00] their AI traffic was farting along
+[1297:20] despite AI adoption kicking up. It was
+[1338:40] time to grow their AI traffic. Get it?
+[1392:00] Plants grow. Whatever. Anyways, real
+[1437:20] quick before I get started dropping
+[1460:00] nuggets, I wanted to let you know that
+[1484:00] my agency, The Search Initiative, is
+[1513:19] taking on a handful of clients right now
+[1544:00] for $1,000 off the first month. If you
+[1589:20] promise to laugh at at least one joke in
+[1621:20] this video, just head on over to the
+[1645:20] searchinitiative.com, put your deets
+[1678:40] into the form, and we'll get right back
+[1702:39] to you. All right, this first tactic, I
+[1733:20] had to be freaking bribed to try, and
+[1766:40] that's AI log file analysis. I used to
+[1816:00] think log analysis was tedious, but
+[1850:40] today I'm going to show you how to do it
+[1872:00] with ChatGBT. And just like anything
+[1906:39] else you do at ChatGpt, it's easy as
+[1961:20] first, what are log files? They're text
+[2001:19] files that keep a record of every time a
+[2035:59] user or a bot, including AI bots, visits
+[2082:40] your site. You get the IP address, the
+[2118:39] time of request, and status codes.
+[2154:40] Pretty cool, right?
+[2178:40] Nerd.
+[2201:20] Now, why are they important for AI SEO?
+[2241:20] By analyzing them, and I'll show you how
+[2269:20] to do that soon. First, they help you ID
+[2306:40] which pages are loved and hated by the
+[2345:20] AI bots. Then you can make sure that
+[2381:19] your most important content is
+[2408:00] accessible to the AI. You can tell the
+[2440:00] AI to ignore content that it's wasting
+[2471:59] time on. You can detect loading pages
+[2506:40] that affect AI rankings, and much more.
+[2545:20] But first, where do you find your log
+[2570:39] files? Most hosting services have a file
+[2612:00] manager with a folder that contains your
+[2645:20] log files, often named logs, access
+[2686:40] logs, or something like that. Just
+[2713:20] download the thing. Now, open chat GBT.
+[2753:20] Upload the file and give it this prompt,
+[2791:59] which you'll find in the description. I
+[2821:20] have attached log files from my website
+[2856:00] server. Please analyze the logs focusing
+[2896:00] on Google bot and AI crawlers such as
+[2930:40] GPT bot which is chat GPTs cloudbot and
+[2978:40] blah blah blah. Identify all hits from
+[3013:20] user agents containing any of the
+[3040:00] following keywords. Google GPT bot yada
+[3081:19] yada. Once you've analyzed this, I will
+[3113:20] ask you to perform a series of tasks.
+[3146:40] It'll give you a summary like this which
+[3173:20] shows the hit rate from each AI bot.
+[3208:00] Nice. Now enter this prompt. Provide a
+[3253:20] list of the 10 pages that receive the
+[3288:00] fewest hits from AI bots and Google and
+[3330:40] create a visual diagram. This will allow
+[3362:40] you to ID which important pages aren't
+[3397:20] getting crawled by AI and Google. How to
+[3438:39] fix? Our client had a giga important
+[3473:20] sales page on their site that was hardly
+[3501:20] getting crawled. After investigation, we
+[3534:40] found that there was only one internal
+[3561:20] link going to this page. So, we made
+[3596:00] more internal links from pages that were
+[3628:00] getting crawled a lot. Problem solved.
+[3662:40] We found those highly crawled pages with
+[3697:20] this prompt. Provide a list of the 10
+[3730:40] pages that receive the most hits and
+[3766:40] create a visual diagram. These are the
+[3801:20] pages that AI has a boner for. Yes, use
+[3844:00] them to link to important pages like we
+[3873:20] just did, but also make AI love them
+[3913:19] even more by expanding them with related
+[3947:59] subtopics. And don't forget to add AI
+[3989:20] friendly schema, which we'll get to
+[4013:19] later. Next, chat GPT. Highlight any
+[4057:19] crawl errors from these bots and flag
+[4090:39] anything that looks unusual or worth
+[4125:19] fixing. Anytime there's a crawl error,
+[4158:39] you want to fix it. In this bottom
+[4186:40] summary, chat GBT even tells you how to
+[4221:20] fix them by restoring or 301
+[4253:20] redirecting. And just for good measure,
+[4284:00] the next log file prompt is provide any
+[4329:19] additional insights or patterns you
+[4357:20] observe, such as bots missing key
+[4392:00] commercial pages, pages being crawled
+[4429:19] unexpectedly often and sudden spikes in
+[4470:40] crawl activity. You'll get a nice set of
+[4498:39] AIdriven insights like fixing content
+[4534:40] quality, speeding up a page, and more.
+[4566:40] Next up, have you ever read this Google
+[4597:20] Search Central post on how to make sure
+[4626:40] your content does well in AI? Here's
+[4661:20] where Google basically gives away the
+[4689:20] secret to getting cited by AI. There's a
+[4725:20] section here on making sure that your
+[4749:20] structured data, also known as schema,
+[4784:00] matches your visible content. What?
+[4831:59] Well, despite their sophisticated
+[4856:00] algorithms, search engines need help
+[4885:20] when reading and identifying content.
+[4919:59] Why? Well, unlike you humans with your
+[4953:19] fancy eyeballs, search engines lack the
+[4993:20] visual and intuitive capabilities to
+[5028:00] interpret content. While you can
+[5058:40] understand that this how to tell if your
+[5088:00] cat is trying to kill you article is
+[5114:40] satirical, a bot probably thinks it's a
+[5154:40] genuine pet behavior guide. This is
+[5186:39] where schema markup comes into play.
+[5218:40] Schema is code that you put in your
+[5243:59] articles HTML where you can tell the
+[5276:00] bots, "Yo, let me make life easy for
+[5307:59] you. My article is a satire piece. Now
+[5346:40] you make life easy for me and site my
+[5376:00] damn content, bro." Schema helps improve
+[5414:40] the AI's understanding of what your
+[5443:59] content is exactly about. When it can
+[5478:40] clearly identify the type of content,
+[5512:00] like an article, product, event, or FAQ,
+[5556:00] it's more likely to show it for the
+[5581:20] right queries. Here's what it looks like
+[5610:39] for a general blog article. Notice how
+[5645:20] there's space to input the author of the
+[5676:00] article, the organization, date
+[5707:59] published, and so forth. We put article
+[5740:00] schema on a page on a customer's site.
+[5772:00] Not saying this is the only reason, but
+[5804:00] it shows up in 26 AI overviews, up from
+[5843:59] five. and the AI overviews are indeed
+[5885:20] linking to the site and pulling the
+[5916:00] author name from the schema. If you have
+[5945:20] a how-to page, like how to tell if your
+[5980:00] cat is going to kill you, your schema is
+[6012:00] going to look like this. Notice how
+[6036:00] there's little places for you to write
+[6061:20] the unique steps of each how-to step.
+[6102:40] And sorry, it's blurred. Our client
+[6128:00] prefers confidentiality, but here's AI
+[6164:00] overviews citing each step by step and
+[6201:20] giving them the link. Now, there's a
+[6229:19] billion types of schema for a billion
+[6256:00] types of content. Seriously, don't
+[6280:00] memorize that. Waste of brain space. Use
+[6317:19] chat GPT to generate the schema for you.
+[6356:00] For example, if you had an FAQ page,
+[6383:59] you'd prompt CC chat GPT, please
+[6417:19] generate, always say please, JSONLDLD
+[6462:39] FAQ page schema for my web page. Below
+[6502:40] is the information for each question and
+[6533:20] answer FAQ content. Question one, answer
+[6576:00] one, question two, answer two, and so
+[6610:39] forth. And bam, here's your AI friendly
+[6645:20] FAQ page schema markup. Now, simply
+[6681:20] place the markup inside a script tag
+[6712:00] within the head section of your web
+[6737:20] page. Most people just use plugins.
+[6769:20] Next, let's go back to the Google post
+[6802:40] on AI success tactics and find the
+[6838:39] section called go beyond text for
+[6870:40] multimodal success. When you translate
+[6906:40] this from nerd to English, it basically
+[6937:20] just means that if your content includes
+[6970:40] highquality images and video, then
+[7002:40] you're more likely to show up in AI. How
+[7033:20] much more likely? It's hard to say, but
+[7062:39] you see this all the time. Here's an
+[7093:19] example of chat GPT referencing both
+[7134:40] images and text for how to tie a Windsor
+[7178:40] knot from the same website. Graphics and
+[7216:00] video give AI more to work with, so it's
+[7250:39] more likely to reference you. And even
+[7282:40] if your textual content isn't used, it's
+[7321:20] still possible that they'll use your
+[7350:39] images, videos, and don't forget tables.
+[7395:59] LLMs love structure, so content that's
+[7441:19] in tables gets gobbled up. Here's some
+[7474:39] more multimodal tactics. Use descriptive
+[7513:20] alt text. Describe the images, actual
+[7552:00] content, and don't stuff keywords. Use
+[7589:20] clear file names that actually represent
+[7619:59] the image. Avoid images of tables and
+[7658:40] use HTML instead. and add transcripts to
+[7707:59] your video posts. Here's a post on how
+[7745:20] to introduce new cats. The video is up
+[7788:00] here. The transcript is down here, which
+[7821:20] includes some weirdass content about
+[7849:20] spreading the new cat scent around the
+[7877:19] home. And sure enough, here's the AI
+[7910:39] overview talking about stinking up your
+[7940:00] house with new cat fragrance and a link
+[7973:20] to the article. Now, what was the result
+[8006:40] of all this AI SEO effort? AI traffic
+[8047:59] grew by 1400%. The site now appears in
+[8101:20] 164 AI overviews and overall organic
+[8149:20] traffic has doubled. If you'd like us to
+[8181:19] take a look at your SEO, head on over to
+[8210:39] the searchinitiative.com and use the
+[8242:40] form at the bottom to reach out. We'd be
+[8273:20] happy to take a look at your site and
+[8295:59] let you know what we can do for you.
+[8318:40] $1,000 off your first month until the
+[8350:39] end of the month.
