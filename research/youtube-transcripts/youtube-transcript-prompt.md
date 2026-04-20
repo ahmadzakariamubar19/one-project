@@ -88,18 +88,6 @@ If timestamp data is available, include timestamps in this format:
 - Timestamps MUST be normalized to HH:MM:SS format
 - Convert all raw second-based timestamps into standard format
 
-Example format:
-
-[00:00:00] transcript text
-[00:00:15] transcript text
-[00:01:02] transcript text
-
-Rules:
-
-- Do not use raw second values like [12321:20]
-- Always convert timestamps into proper HH:MM:SS format
-- Ensure timestamps are sequential and consistent.
-
 (full transcript text)
 
 IF TRANSCRIPT NOT AVAILABLE:
