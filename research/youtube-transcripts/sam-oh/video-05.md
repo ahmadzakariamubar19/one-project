@@ -20,291 +20,291 @@ Supadata YouTube Transcript API
 
 ## Transcript
 
-[02:40] Keyword research [music] is the
-[21:20] foundation of SEO. And if you've tried
-[50:40] it recently, it feels broken. The
-[95:59] keywords that used [music] to work,
-[120:00] informational how-tos, and what is
-[149:20] queries, have gotten eaten alive by AI.
-[201:20] In fact, even if you rank number one,
-[241:20] you're losing around 35% of your clicks
-[280:00] to AI overviews. That's terrifying. But
-[336:00] keyword research isn't dead. [music]
-[362:40] It's just evolved. And if you follow my
-[398:40] five-part strategy, you'll be ahead of
-[441:20] 90% of SEOs who haven't caught on yet.
-[493:19] And it all [music] starts with a
-[513:20] 10-second hero prompt. When Chat GPT
-[557:20] launched in 2022, people tested it for
-[600:00] everything, including keyword research,
-[632:00] and the consensus, total trash. It sped
-[692:00] out generic content, made up keywords,
-[730:40] and invented fake search volumes. But
-[770:39] here's what most SEOs won't admit. It
-[810:40] wasn't AI's fault. It was the prompts.
-[860:00] When you give AI nothing to work with,
-[898:40] you get nothing useful back. And that
-[932:00] hasn't changed. To find relevant
-[965:20] keywords, you need [music] two things.
-[993:20] First, you need seed keywords, which are
-[1029:20] broad terms related to your niche. And
-[1066:40] second [music]
-[1078:40] you need modifiers, which are add-ons
-[1116:00] like best or howto that turn these seeds
-[1173:20] into real searches. Combine good seeds
-[1220:00] with good modifiers in a keyword
-[1249:20] research tool, [music] and you'll
-[1276:00] uncover a treasure trove of keywords
-[1310:40] people actually type into Google. That's
-[1351:59] exactly what the 10-second hero prompt
-[1388:00] does. Just open your AI assistant of
-[1423:59] choice and say something like, "I'm
-[1451:59] doing keyword research for my coffee
-[1479:59] review site, which makes money through
-[1507:59] ads, sponsorships, and affiliate
-[1535:59] revenue. My target audience are new and
-[1572:00] aspiring home baristas. [music] Give me
-[1605:20] 10 seed keywords that are 1 to two words
-[1637:20] max, and five plus modifiers that will
-[1673:20] help me surface appropriate content
-[1704:00] formats I can use in my keyword
-[1733:20] research. The seeds and modifiers should
-[1767:59] not share the same words. And now we
-[1798:40] have a solid list of seeds and
-[1822:40] modifiers, which builds the foundation
-[1854:40] for everything that comes next. But
-[1889:20] these are just the starting point. The
-[1920:00] second part of this strategy is the
-[1949:20] keyword multiplier. Just take your seeds
-[1989:20] and paste them into a keyword research
-[2016:00] tool like HR's keywords explorer. Go to
-[2051:59] the matching terms report to see tons of
-[2084:00] keyword ideas. Then add your modifiers
-[2123:59] using the include filter. [music]
-[2178:40] And just like that, you should have
-[2205:19] hundreds, maybe even thousands of real
-[2237:19] keyword ideas your audience is typing
-[2269:20] into [music] Google. But here's the
-[2297:20] problem. Some of these keywords are
-[2325:20] going to look incredibly enticing. High
-[2370:39] volume, high traffic potential, low
-[2406:40] keyword difficulty scores, all the right
-[2445:20] metrics. But some of them are a trap.
-[2485:20] The keywords that used to work,
-[2515:59] informational how-tos, what is queries,
-[2552:00] even some best of searches, are getting
-[2589:20] eaten alive by AI. You can rank number
-[2630:40] one and still get almost nothing because
-[2678:40] Google already answered the question.
-[2720:00] So, you can't just pick keywords that
-[2756:00] look good anymore. You have to vet them
-[2798:40] harder than ever. And you can do that
-[2836:00] with the bid method. The bid method
-[2877:20] makes sure that you don't fall into
-[2903:51] [music] one of these traps. Before you
-[2930:40] commit to any keyword, it needs to pass
-[2970:39] three tests. First is the business
-[3010:40] potential test. Ask yourself, if I rank
-[3062:40] number one for this keyword, does it
-[3094:40] actually [music] help my business
-[3113:20] achieve its goals? Like, let's say that
-[3149:19] you have a review site on espresso
-[3181:19] machines. A keyword like what is
-[3218:40] espresso has solid volume and very low
-[3259:59] difficulty. But think about what people
-[3297:20] searching for this [music] actually want
-[3326:39] to see. They're not looking to buy
-[3359:59] anything, maybe ever. They just want a
-[3402:39] quick answer. Compare that to best
-[3433:20] espresso machine under $500. Way less
-[3486:40] volume, but anyone searching that knows
-[3521:20] they want an espresso machine and
-[3566:40] they've set a budget. Always choose
-[3601:20] keywords that move the needle. Test
-[3640:00] number two is to vet intent. Listen, no
-[3690:40] matter what you do, if you can't match
-[3722:40] the intent of the searcher, you will
-[3759:59] never rank. To check intent, just Google
-[3801:20] the keyword and look at [music] what's
-[3828:00] actually ranking. For example, search
-[3865:20] for espresso tamper and you'll see every
-[3912:00] top result is an e-commerce product or
-[3947:59] category page. This tells us that people
-[3990:39] searching this want to buy, not read a
-[4034:40] review. So, if you're trying to rank a
-[4062:40] blog post here, not going to happen. The
-[4109:20] SER gives you insights into what
-[4141:20] searchers want. match the intent or move
-[4190:39] on. And the final test is the difficulty
-[4238:39] check, which just might be the most
-[4273:20] important of the three. You need to
-[4305:20] choose keywords you actually have a
-[4337:19] chance at ranking for. HF's free keyword
-[4381:20] difficulty checker is a good place to
-[4409:20] start. [music]
-[4419:59] Just search for a keyword and you'll see
-[4449:20] a score from 0 to 100. The lower the
-[4493:20] score, the easier it is to rank. But
-[4531:59] let's be real, there's no way a single
-[4569:20] number can capture the true difficulty
-[4606:40] of ranking in an algorithm Google has
-[4649:20] spent billions perfecting. That's why
-[4693:20] you need to dig deeper into a page's
-[4724:00] metrics. You [music] can do that again
-[4749:20] with the free difficulty checker. First,
-[4789:20] check the referring domains column. This
-[4826:40] shows how many websites link to each
-[4858:40] ranking page. More domains generally
-[4900:00] means a stronger page because backlinks
-[4938:40] are still one of Google's most prominent
-[4972:00] ranking signals. Second, look at the DR
-[5014:40] or domain rating of the top ranking
-[5043:59] pages. This metric represents the
-[5078:40] strength of a website's backlink
-[5104:00] profile. Higher DR usually means a more
-[5143:59] authoritative site, which means tougher
-[5186:39] competition. In this case, we've got a
-[5219:59] couple low DRs in the top [music] 10.
-[5254:40] That's a good sign. Now, these checks
-[5295:59] aren't foolproof. Remember, billiondoll
-[5331:59] algorithm versus us. But the more boxes
-[5374:39] you tick, the better your odds of
-[5405:20] finding lower difficulty keywords. By
-[5443:59] the way, if you have an HFS account, you
-[5472:00] can filter for all of this at once. Set
-[5509:20] a max KD of 20, add a lowest DR filter
-[5558:40] to around the same, and you've got a
-[5589:20] list of keywords that pass all three
-[5619:59] tests. So, that's bid, business
-[5657:20] potential, intent, and difficulty. If a
-[5700:00] keyword passes all three, you should
-[5737:20] consider targeting it. Unless the AI
-[5785:20] overview is so good, there's no reason
-[5833:20] for anyone to click through to your
-[5866:40] site. Remember, Google's job is to give
-[5904:00] the best result for any query. And
-[5938:40] there's hard evidence that for a lot of
-[5970:40] queries, AI overviews are the best
-[6016:00] result. That's why clicks are down 35%
-[6064:00] to top ranking pages when an AI overview
-[6104:00] appears. And it's because of a hard
-[6138:39] truth most people still won't accept. AI
-[6194:40] is better than humans at explaining
-[6240:00] stuff. If a query has a simple surface
-[6288:00] level answer, no expertise required, no
-[6333:20] nuance. There's zero reason for someone
-[6378:40] to click anywhere. Google already gave
-[6417:19] them what they needed. Mission
-[6440:00] accomplished, query resolved, no click
-[6480:00] required. So before you commit to any
-[6522:40] keyword, just Google it. Look at what
-[6566:40] shows up. Put yourself in the searcher
-[6595:59] shoe and ask, [music] "Am I satisfied
-[6641:19] with this answer or do I need to click
-[6682:40] somewhere to learn more?" If the AI
-[6722:40] overview nails it, that keyword might be
-[6770:40] a trap. But here's the good news. Even
-[6805:19] though AI is eating clicks for a ton
-[6834:40] offormational keywords, there's still a
-[6873:20] whole category of searches AI hasn't
-[6912:00] touched for now.
-[6958:40] Let me show you something interesting.
-[6985:20] Back in 2020, we had an evergreen blog
-[7024:00] post ranking consistently near the top
-[7056:00] of Google for years. But as chat GBT
-[7105:19] launched and AI overviews rolled out for
-[7142:40] more queries, our traffic to that post
-[7193:19] dropped [music] without it around 77%
-[7240:00] from peak to trough despite our rankings
-[7278:40] staying flat. Now contrast that with
-[7316:00] this page. Traffic has stayed mostly
-[7352:00] flat throughout. The difference, this
-[7395:59] isn't a blog post, it's a free tool.
-[7436:00] Search backlink checker, no AI overview,
-[7474:39] mortgage calculator, nothing. Word
-[7513:20] counter, nothing. Random name generator,
-[7552:00] nothing. Why? Because when someone
-[7597:20] searches for a tool, [music]
-[7619:59] they need to actually use something. AI
-[7665:19] can't replace that yet. So, here's how
-[7693:19] you can find opportunities for your site
-[7726:39] right now. Go to keywords explorer and
-[7764:00] start with broad seeds related to your
-[7793:19] niche like coffee and espresso. Head to
-[7830:40] the matching terms report and add
-[7857:20] modifiers like calculator, checker,
-[7893:19] generator, and more. Look for keywords
-[7929:19] with decent traffic potential that you
-[7956:00] could realistically build. Hire a
-[7988:00] developer or ironically use AI to build
-[8036:00] it for you. One good tool can outperform
-[8083:59] 50 blog posts in both traffic and links.
-[8136:00] So don't sleep on this. Now tool
-[8181:19] keywords seem AI proof for now, but
-[8228:00] there's a bigger shift happening not
-[8256:00] just in SEO, but across the entire
-[8294:40] digital marketing landscape, and it all
-[8334:40] comes down to the fifth [music] and
-[8365:19] final piece of the puzzle, brand.
-[8413:20] There's an electric bike company called
-[8442:40] Electric. A few months [music] ago, they
-[8470:40] sponsored a YouTube series by Ryan Tran,
-[8512:00] one of the biggest creators on the
-[8537:20] platform. But instead of a typical ad
-[8569:40] [music] read, they donated a bike and
-[8596:00] set up a series of challenges throughout
-[8628:00] the series. And something crazy [music]
-[8661:20] happened. People started talking, not
-[8709:20] just about Ryan, but about Electric.
-[8753:20] These conversations exploded across
-[8789:20] Reddit, Twitter, YouTube comments
-[8825:19] everywhere. Now, here's what most people
-[8861:20] miss. These conversations aren't just
-[8904:00] word of mouth. their training data.
-[8949:19] Reddit sign partnerships with both
-[8976:00] OpenAI and Google. Every post, every
-[9025:19] comment, every brand mention is feeding
-[9066:40] the AI systems that power search. And
-[9115:59] not so coincidentally after the
-[9156:00] sponsorship, Electric's mentions in AI
-[9197:19] overview spiked. Their impressions
-[9237:20] skyrocketed. And the same happened in
-[9274:40] Chat GBT. So now when people search best
-[9325:19] electric bike in Google or ask Chat GBT,
-[9363:59] what's the best electric bike under
-[9391:59] $2,000? Guess who keeps showing up?
-[9442:40] Electric. This is the new game. The more
-[9494:40] often AI sees your brand connected to a
-[9534:40] topic, the more confidently it
-[9572:00] recommends you. Now, this might not seem
-[9614:40] related to keyword research, but it is.
-[9662:40] If you flip the model, instead of
-[9702:40] asking, "What keywords should I rank
-[9734:40] for?" ask what queries do I want my
-[9780:00] brand to be associated with in AI
-[9814:40] search? Then work backwards. Say you're
-[9854:39] an electric bike company competing with
-[9882:39] electric. You'd want to find every query
-[9921:19] where they're being mentioned in AI
-[9946:40] overviews in chat GPT so you can get
-[9990:40] mentioned there too. Go to HS brand
-[10024:00] radar, enter your brand, your
-[10049:19] competitors, [music] and your niche.
-[10077:20] Hover over your brand and click the
-[10104:00] number beside others only. And now you
-[10139:59] have a list of every keyword in prompt
-[10174:40] where your competitors are showing up in
-[10201:20] AI and you're not. Keyword research
-[10250:40] isn't just about finding a topic and
-[10281:20] matching intent anymore. You need to
-[10314:40] think about two systems. Google search,
-[10357:20] which has changed but is still alive and
-[10390:40] well, and AI search, which is deciding
-[10438:40] who gets recommended and cited. Master
-[10482:39] both and you'll be ahead of 90% of
-[10521:19] people still doing keyword research like
-[10560:00] nothing has changed. And if you want to
-[10591:59] go deeper on ranking and AI, watch our
-[10630:39] GEO video where I break down the top
-[10665:20] ranking factors for AI search. I'll see
-[10704:00] you there.
+[00:00:02] Keyword research [music] is the
+[00:00:21] foundation of SEO. And if you've tried
+[00:00:50] it recently, it feels broken. The
+[00:01:35] keywords that used [music] to work,
+[00:02:00] informational how-tos, and what is
+[00:02:29] queries, have gotten eaten alive by AI.
+[00:03:21] In fact, even if you rank number one,
+[00:04:01] you're losing around 35% of your clicks
+[00:04:40] to AI overviews. That's terrifying. But
+[00:05:36] keyword research isn't dead. [music]
+[00:06:02] It's just evolved. And if you follow my
+[00:06:38] five-part strategy, you'll be ahead of
+[00:07:21] 90% of SEOs who haven't caught on yet.
+[00:08:13] And it all [music] starts with a
+[00:08:33] 10-second hero prompt. When Chat GPT
+[00:09:17] launched in 2022, people tested it for
+[00:10:00] everything, including keyword research,
+[00:10:32] and the consensus, total trash. It sped
+[00:11:32] out generic content, made up keywords,
+[00:12:10] and invented fake search volumes. But
+[00:12:50] here's what most SEOs won't admit. It
+[00:13:30] wasn't AI's fault. It was the prompts.
+[00:14:20] When you give AI nothing to work with,
+[00:14:58] you get nothing useful back. And that
+[00:15:32] hasn't changed. To find relevant
+[00:16:05] keywords, you need [music] two things.
+[00:16:33] First, you need seed keywords, which are
+[00:17:09] broad terms related to your niche. And
+[00:17:46] second [music]
+[00:17:58] you need modifiers, which are add-ons
+[00:18:36] like best or howto that turn these seeds
+[00:19:33] into real searches. Combine good seeds
+[00:20:20] with good modifiers in a keyword
+[00:20:49] research tool, [music] and you'll
+[00:21:16] uncover a treasure trove of keywords
+[00:21:50] people actually type into Google. That's
+[00:22:31] exactly what the 10-second hero prompt
+[00:23:08] does. Just open your AI assistant of
+[00:23:43] choice and say something like, "I'm
+[00:24:11] doing keyword research for my coffee
+[00:24:39] review site, which makes money through
+[00:25:07] ads, sponsorships, and affiliate
+[00:25:35] revenue. My target audience are new and
+[00:26:12] aspiring home baristas. [music] Give me
+[00:26:45] 10 seed keywords that are 1 to two words
+[00:27:17] max, and five plus modifiers that will
+[00:27:53] help me surface appropriate content
+[00:28:24] formats I can use in my keyword
+[00:28:53] research. The seeds and modifiers should
+[00:29:27] not share the same words. And now we
+[00:29:58] have a solid list of seeds and
+[00:30:22] modifiers, which builds the foundation
+[00:30:54] for everything that comes next. But
+[00:31:29] these are just the starting point. The
+[00:32:00] second part of this strategy is the
+[00:32:29] keyword multiplier. Just take your seeds
+[00:33:09] and paste them into a keyword research
+[00:33:36] tool like HR's keywords explorer. Go to
+[00:34:11] the matching terms report to see tons of
+[00:34:44] keyword ideas. Then add your modifiers
+[00:35:23] using the include filter. [music]
+[00:36:18] And just like that, you should have
+[00:36:45] hundreds, maybe even thousands of real
+[00:37:17] keyword ideas your audience is typing
+[00:37:49] into [music] Google. But here's the
+[00:38:17] problem. Some of these keywords are
+[00:38:45] going to look incredibly enticing. High
+[00:39:30] volume, high traffic potential, low
+[00:40:06] keyword difficulty scores, all the right
+[00:40:45] metrics. But some of them are a trap.
+[00:41:25] The keywords that used to work,
+[00:41:55] informational how-tos, what is queries,
+[00:42:32] even some best of searches, are getting
+[00:43:09] eaten alive by AI. You can rank number
+[00:43:50] one and still get almost nothing because
+[00:44:38] Google already answered the question.
+[00:45:20] So, you can't just pick keywords that
+[00:45:56] look good anymore. You have to vet them
+[00:46:38] harder than ever. And you can do that
+[00:47:16] with the bid method. The bid method
+[00:47:57] makes sure that you don't fall into
+[00:48:23] [music] one of these traps. Before you
+[00:48:50] commit to any keyword, it needs to pass
+[00:49:30] three tests. First is the business
+[00:50:10] potential test. Ask yourself, if I rank
+[00:51:02] number one for this keyword, does it
+[00:51:34] actually [music] help my business
+[00:51:53] achieve its goals? Like, let's say that
+[00:52:29] you have a review site on espresso
+[00:53:01] machines. A keyword like what is
+[00:53:38] espresso has solid volume and very low
+[00:54:19] difficulty. But think about what people
+[00:54:57] searching for this [music] actually want
+[00:55:26] to see. They're not looking to buy
+[00:55:59] anything, maybe ever. They just want a
+[00:56:42] quick answer. Compare that to best
+[00:57:13] espresso machine under $500. Way less
+[00:58:06] volume, but anyone searching that knows
+[00:58:41] they want an espresso machine and
+[00:59:26] they've set a budget. Always choose
+[01:00:01] keywords that move the needle. Test
+[01:00:40] number two is to vet intent. Listen, no
+[01:01:30] matter what you do, if you can't match
+[01:02:02] the intent of the searcher, you will
+[01:02:39] never rank. To check intent, just Google
+[01:03:21] the keyword and look at [music] what's
+[01:03:48] actually ranking. For example, search
+[01:04:25] for espresso tamper and you'll see every
+[01:05:12] top result is an e-commerce product or
+[01:05:47] category page. This tells us that people
+[01:06:30] searching this want to buy, not read a
+[01:07:14] review. So, if you're trying to rank a
+[01:07:42] blog post here, not going to happen. The
+[01:08:29] SER gives you insights into what
+[01:09:01] searchers want. match the intent or move
+[01:09:50] on. And the final test is the difficulty
+[01:10:38] check, which just might be the most
+[01:11:13] important of the three. You need to
+[01:11:45] choose keywords you actually have a
+[01:12:17] chance at ranking for. HF's free keyword
+[01:13:01] difficulty checker is a good place to
+[01:13:29] start. [music]
+[01:13:39] Just search for a keyword and you'll see
+[01:14:09] a score from 0 to 100. The lower the
+[01:14:53] score, the easier it is to rank. But
+[01:15:31] let's be real, there's no way a single
+[01:16:09] number can capture the true difficulty
+[01:16:46] of ranking in an algorithm Google has
+[01:17:29] spent billions perfecting. That's why
+[01:18:13] you need to dig deeper into a page's
+[01:18:44] metrics. You [music] can do that again
+[01:19:09] with the free difficulty checker. First,
+[01:19:49] check the referring domains column. This
+[01:20:26] shows how many websites link to each
+[01:20:58] ranking page. More domains generally
+[01:21:40] means a stronger page because backlinks
+[01:22:18] are still one of Google's most prominent
+[01:22:52] ranking signals. Second, look at the DR
+[01:23:34] or domain rating of the top ranking
+[01:24:03] pages. This metric represents the
+[01:24:38] strength of a website's backlink
+[01:25:04] profile. Higher DR usually means a more
+[01:25:43] authoritative site, which means tougher
+[01:26:26] competition. In this case, we've got a
+[01:26:59] couple low DRs in the top [music] 10.
+[01:27:34] That's a good sign. Now, these checks
+[01:28:15] aren't foolproof. Remember, billiondoll
+[01:28:51] algorithm versus us. But the more boxes
+[01:29:34] you tick, the better your odds of
+[01:30:05] finding lower difficulty keywords. By
+[01:30:43] the way, if you have an HFS account, you
+[01:31:12] can filter for all of this at once. Set
+[01:31:49] a max KD of 20, add a lowest DR filter
+[01:32:38] to around the same, and you've got a
+[01:33:09] list of keywords that pass all three
+[01:33:39] tests. So, that's bid, business
+[01:34:17] potential, intent, and difficulty. If a
+[01:35:00] keyword passes all three, you should
+[01:35:37] consider targeting it. Unless the AI
+[01:36:25] overview is so good, there's no reason
+[01:37:13] for anyone to click through to your
+[01:37:46] site. Remember, Google's job is to give
+[01:38:24] the best result for any query. And
+[01:38:58] there's hard evidence that for a lot of
+[01:39:30] queries, AI overviews are the best
+[01:40:16] result. That's why clicks are down 35%
+[01:41:04] to top ranking pages when an AI overview
+[01:41:44] appears. And it's because of a hard
+[01:42:18] truth most people still won't accept. AI
+[01:43:14] is better than humans at explaining
+[01:44:00] stuff. If a query has a simple surface
+[01:44:48] level answer, no expertise required, no
+[01:45:33] nuance. There's zero reason for someone
+[01:46:18] to click anywhere. Google already gave
+[01:46:57] them what they needed. Mission
+[01:47:20] accomplished, query resolved, no click
+[01:48:00] required. So before you commit to any
+[01:48:42] keyword, just Google it. Look at what
+[01:49:26] shows up. Put yourself in the searcher
+[01:49:55] shoe and ask, [music] "Am I satisfied
+[01:50:41] with this answer or do I need to click
+[01:51:22] somewhere to learn more?" If the AI
+[01:52:02] overview nails it, that keyword might be
+[01:52:50] a trap. But here's the good news. Even
+[01:53:25] though AI is eating clicks for a ton
+[01:53:54] offormational keywords, there's still a
+[01:54:33] whole category of searches AI hasn't
+[01:55:12] touched for now.
+[01:55:58] Let me show you something interesting.
+[01:56:25] Back in 2020, we had an evergreen blog
+[01:57:04] post ranking consistently near the top
+[01:57:36] of Google for years. But as chat GBT
+[01:58:25] launched and AI overviews rolled out for
+[01:59:02] more queries, our traffic to that post
+[01:59:53] dropped [music] without it around 77%
+[02:00:40] from peak to trough despite our rankings
+[02:01:18] staying flat. Now contrast that with
+[02:01:56] this page. Traffic has stayed mostly
+[02:02:32] flat throughout. The difference, this
+[02:03:15] isn't a blog post, it's a free tool.
+[02:03:56] Search backlink checker, no AI overview,
+[02:04:34] mortgage calculator, nothing. Word
+[02:05:13] counter, nothing. Random name generator,
+[02:05:52] nothing. Why? Because when someone
+[02:06:37] searches for a tool, [music]
+[02:06:59] they need to actually use something. AI
+[02:07:45] can't replace that yet. So, here's how
+[02:08:13] you can find opportunities for your site
+[02:08:46] right now. Go to keywords explorer and
+[02:09:24] start with broad seeds related to your
+[02:09:53] niche like coffee and espresso. Head to
+[02:10:30] the matching terms report and add
+[02:10:57] modifiers like calculator, checker,
+[02:11:33] generator, and more. Look for keywords
+[02:12:09] with decent traffic potential that you
+[02:12:36] could realistically build. Hire a
+[02:13:08] developer or ironically use AI to build
+[02:13:56] it for you. One good tool can outperform
+[02:14:43] 50 blog posts in both traffic and links.
+[02:15:36] So don't sleep on this. Now tool
+[02:16:21] keywords seem AI proof for now, but
+[02:17:08] there's a bigger shift happening not
+[02:17:36] just in SEO, but across the entire
+[02:18:14] digital marketing landscape, and it all
+[02:18:54] comes down to the fifth [music] and
+[02:19:25] final piece of the puzzle, brand.
+[02:20:13] There's an electric bike company called
+[02:20:42] Electric. A few months [music] ago, they
+[02:21:10] sponsored a YouTube series by Ryan Tran,
+[02:21:52] one of the biggest creators on the
+[02:22:17] platform. But instead of a typical ad
+[02:22:49] [music] read, they donated a bike and
+[02:23:16] set up a series of challenges throughout
+[02:23:48] the series. And something crazy [music]
+[02:24:21] happened. People started talking, not
+[02:25:09] just about Ryan, but about Electric.
+[02:25:53] These conversations exploded across
+[02:26:29] Reddit, Twitter, YouTube comments
+[02:27:05] everywhere. Now, here's what most people
+[02:27:41] miss. These conversations aren't just
+[02:28:24] word of mouth. their training data.
+[02:29:09] Reddit sign partnerships with both
+[02:29:36] OpenAI and Google. Every post, every
+[02:30:25] comment, every brand mention is feeding
+[02:31:06] the AI systems that power search. And
+[02:31:55] not so coincidentally after the
+[02:32:36] sponsorship, Electric's mentions in AI
+[02:33:17] overview spiked. Their impressions
+[02:33:57] skyrocketed. And the same happened in
+[02:34:34] Chat GBT. So now when people search best
+[02:35:25] electric bike in Google or ask Chat GBT,
+[02:36:03] what's the best electric bike under
+[02:36:31] $2,000? Guess who keeps showing up?
+[02:37:22] Electric. This is the new game. The more
+[02:38:14] often AI sees your brand connected to a
+[02:38:54] topic, the more confidently it
+[02:39:32] recommends you. Now, this might not seem
+[02:40:14] related to keyword research, but it is.
+[02:41:02] If you flip the model, instead of
+[02:41:42] asking, "What keywords should I rank
+[02:42:14] for?" ask what queries do I want my
+[02:43:00] brand to be associated with in AI
+[02:43:34] search? Then work backwards. Say you're
+[02:44:14] an electric bike company competing with
+[02:44:42] electric. You'd want to find every query
+[02:45:21] where they're being mentioned in AI
+[02:45:46] overviews in chat GPT so you can get
+[02:46:30] mentioned there too. Go to HS brand
+[02:47:04] radar, enter your brand, your
+[02:47:29] competitors, [music] and your niche.
+[02:47:57] Hover over your brand and click the
+[02:48:24] number beside others only. And now you
+[02:48:59] have a list of every keyword in prompt
+[02:49:34] where your competitors are showing up in
+[02:50:01] AI and you're not. Keyword research
+[02:50:50] isn't just about finding a topic and
+[02:51:21] matching intent anymore. You need to
+[02:51:54] think about two systems. Google search,
+[02:52:37] which has changed but is still alive and
+[02:53:10] well, and AI search, which is deciding
+[02:53:58] who gets recommended and cited. Master
+[02:54:42] both and you'll be ahead of 90% of
+[02:55:21] people still doing keyword research like
+[02:56:00] nothing has changed. And if you want to
+[02:56:31] go deeper on ranking and AI, watch our
+[02:57:10] GEO video where I break down the top
+[02:57:45] ranking factors for AI search. I'll see
+[02:58:24] you there.
