@@ -11,6 +11,34 @@ Use only experts that have a valid YouTube link in the YouTube column.
 
 Ignore LinkedIn for this task.
 
+IMPORTANT (FULL TRANSCRIPT RULE):
+You MUST fetch COMPLETE FULL transcripts for every video.
+Do NOT return partial, preview, or truncated transcripts.
+Do NOT summarize or shorten content.
+Ensure the transcript covers the entire duration of the video from start to end.
+
+TRANSCRIPT SOURCE STRATEGY (IMPORTANT):
+
+Do NOT rely only on Supadata.
+
+You MUST use a fallback system in this order:
+
+1. Primary: Supadata API (if available and working)
+2. Secondary: youtube-transcript-api (Python library)
+3. Tertiary: yt-dlp auto-generated subtitles
+
+If one method fails or returns partial transcript:
+- Automatically retry using the next method
+- Do NOT stop after first failure
+- Ensure final output is FULL transcript before marking success
+
+If transcript is returned in segments or chunks:
+- You MUST iterate through ALL segments
+- You MUST concatenate all segments in correct chronological order
+- You MUST NOT stop after the first chunk
+
+Validate that transcript length is proportional to video duration.
+
 OUTPUT LOCATION:
 
 research/youtube-transcripts/
@@ -55,11 +83,19 @@ Transcript
 
 If timestamp data is available, include timestamps in this format:
 
-[00:00] transcript text
-[00:15] transcript text
-[01:02] transcript text
+- Timestamps MUST be normalized to HH:MM:SS format
+- Convert all raw second-based timestamps into standard format
 
-If timestamp data is unavailable, provide clean plain transcript text.
+Example format:
+
+[00:00:00] transcript text
+[00:00:15] transcript text
+[00:01:02] transcript text
+
+Rules:
+- Do not use raw second values like [12321:20]
+- Always convert timestamps into proper HH:MM:SS format
+- Ensure timestamps are sequential and consistent.
 
 (full transcript text)
 
@@ -76,6 +112,8 @@ RULES:
 Use APIs such as Supadata or other free transcript methods.
 
 Use my existing API key from .env if available.
+
+Ensure .env is loaded correctly before API calls.
 
 Read all valid YouTube links from research/sources.md and process them automatically in batch.
 
@@ -116,11 +154,7 @@ research/youtube-transcripts/youtube-report.md
 Include:
 
 Experts processed
-
 Videos processed
-
 Successful transcripts
-
 Failed transcripts
-
 Files created

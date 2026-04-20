@@ -20,6 +20,7 @@ ROOT_DIR = Path(__file__).resolve().parents[1]
 SOURCES_FILE = ROOT_DIR / "research" / "sources.md"
 OUTPUT_DIR = ROOT_DIR / "research" / "youtube-transcripts"
 REPORT_FILE = OUTPUT_DIR / "youtube-report.md"
+PROMPT_FILE = OUTPUT_DIR / "youtube-transcript-prompt.md"
 
 
 @dataclass
@@ -44,6 +45,169 @@ class TranscriptResult:
     source: str
     segment_count: int
     coverage_seconds: int
+
+
+RUN_PROMPT = """Use the existing repository structure exactly as it is.
+
+Read source data from:
+
+research/sources.md
+
+Your task is to collect recent YouTube transcripts only.
+
+FOCUS:
+Use only experts that have a valid YouTube link in the YouTube column.
+
+Ignore LinkedIn for this task.
+
+IMPORTANT (FULL TRANSCRIPT RULE):
+You MUST fetch COMPLETE FULL transcripts for every video.
+Do NOT return partial, preview, or truncated transcripts.
+Do NOT summarize or shorten content.
+Ensure the transcript covers the entire duration of the video from start to end.
+
+TRANSCRIPT SOURCE STRATEGY (IMPORTANT):
+
+Do NOT rely only on Supadata.
+
+You MUST use a fallback system in this order:
+
+1. Primary: Supadata API (if available and working)
+2. Secondary: youtube-transcript-api (Python library)
+3. Tertiary: yt-dlp auto-generated subtitles
+
+If one method fails or returns partial transcript:
+- Automatically retry using the next method
+- Do NOT stop after first failure
+- Ensure final output is FULL transcript before marking success
+
+If transcript is returned in segments or chunks:
+- You MUST iterate through ALL segments
+- You MUST concatenate all segments in correct chronological order
+- You MUST NOT stop after the first chunk
+
+Validate that transcript length is proportional to video duration.
+
+OUTPUT LOCATION:
+
+research/youtube-transcripts/
+
+Do NOT create any new root folders.
+Do NOT move existing files.
+
+ORGANIZATION RULE:
+
+Store transcripts organized by video.
+
+Create one folder per expert inside:
+
+research/youtube-transcripts/
+
+Use clean slug folder names such as:
+
+research/youtube-transcripts/aleyda-solis/
+research/youtube-transcripts/matt-diggity/
+research/youtube-transcripts/nathan-gotch/
+
+Inside each expert folder, save video transcript files as:
+
+video-01.md
+video-02.md
+
+Collect latest 5 recent videos per expert.
+
+FILE CONTENT FORMAT:
+
+Expert Name
+
+Video Title
+
+Video URL
+
+Publish Date
+
+Transcript Source
+
+Transcript
+
+If timestamp data is available, include timestamps in this format:
+
+- Timestamps MUST be normalized to HH:MM:SS format
+- Convert all raw second-based timestamps into standard format
+
+Example format:
+
+[00:00:00] transcript text
+[00:00:15] transcript text
+[00:01:02] transcript text
+
+Rules:
+- Do not use raw second values like [12321:20]
+- Always convert timestamps into proper HH:MM:SS format
+- Ensure timestamps are sequential and consistent.
+
+(full transcript text)
+
+IF TRANSCRIPT NOT AVAILABLE:
+
+Create the file and write:
+
+Transcript unavailable.
+
+Include reason if known.
+
+RULES:
+
+Use APIs such as Supadata or other free transcript methods.
+
+Use my existing API key from .env if available.
+
+Ensure .env is loaded correctly before API calls.
+
+Read all valid YouTube links from research/sources.md and process them automatically in batch.
+
+Keep filenames clean and consistent.
+
+Use slug folder names.
+
+Do NOT edit sources.md.
+
+Do NOT process experts without YouTube links.
+
+Keep markdown neat and professional.
+
+PROJECT VISIBILITY:
+
+Ensure the process is clear and professional through existing project files:
+
+Keep requirements.txt updated with needed Python packages.
+
+Keep .gitignore clean and ensure sensitive files like .env are ignored.
+
+Use .env for API keys or secrets.
+
+Keep repository structure organized and readable.
+
+PROMPT RECORD:
+
+Save the exact prompt used for this run as:
+
+research/youtube-transcripts/youtube-transcript-prompt.md
+
+FINAL REPORT:
+
+Display final summary in output and also save it as:
+
+research/youtube-transcripts/youtube-report.md
+
+Include:
+
+Experts processed
+Videos processed
+Successful transcripts
+Failed transcripts
+Files created
+"""
 
 
 def slugify(value: str) -> str:
@@ -238,6 +402,109 @@ def fetch_free_transcript(video_id: str) -> Tuple[Optional[TranscriptResult], st
         return None, f"Free method error: {error}"
 
 
+def _vtt_timestamp_to_seconds(raw: str) -> Optional[float]:
+    text = raw.strip().replace(",", ".")
+    if "." in text:
+        left, right = text.split(".", maxsplit=1)
+        frac = right
+    else:
+        left, frac = text, "0"
+    parts = left.split(":")
+    if len(parts) != 3:
+        return None
+    try:
+        hours = int(parts[0])
+        minutes = int(parts[1])
+        seconds = int(parts[2])
+        millis = float(f"0.{frac}")
+    except ValueError:
+        return None
+    return float(hours * 3600 + minutes * 60 + seconds) + millis
+
+
+def _parse_vtt_segments(vtt_text: str) -> List[Dict]:
+    chunks = re.split(r"\n\s*\n", vtt_text.replace("\r\n", "\n").strip())
+    results: List[Dict] = []
+    for chunk in chunks:
+        lines = [line for line in chunk.split("\n") if line.strip() != ""]
+        if not lines:
+            continue
+        if lines[0].startswith(("WEBVTT", "Kind:", "Language:", "NOTE")):
+            continue
+        if "-->" not in chunk:
+            continue
+        time_line_idx = 0
+        if "-->" not in lines[0] and len(lines) > 1 and "-->" in lines[1]:
+            time_line_idx = 1
+        if "-->" not in lines[time_line_idx]:
+            continue
+        start_raw = lines[time_line_idx].split("-->", maxsplit=1)[0].strip()
+        start_seconds = _vtt_timestamp_to_seconds(start_raw)
+        if start_seconds is None:
+            continue
+        text_lines = lines[time_line_idx + 1 :]
+        if not text_lines:
+            continue
+        text = " ".join(
+            re.sub(r"<[^>]+>", "", t).strip() for t in text_lines if t.strip()
+        ).strip()
+        if not text:
+            continue
+        if results and results[-1].get("text") == text:
+            continue
+        results.append({"text": text, "start": start_seconds})
+    return results
+
+
+def fetch_ytdlp_auto_subtitles(video_url: str) -> Tuple[Optional[TranscriptResult], str]:
+    try:
+        ydl_opts = {
+            "quiet": True,
+            "skip_download": True,
+            "writesubtitles": False,
+            "writeautomaticsub": False,
+        }
+        with YoutubeDL(ydl_opts) as ydl:
+            info = ydl.extract_info(video_url, download=False)
+        if not info:
+            return None, "yt-dlp returned no video info"
+        subtitles = info.get("subtitles") or {}
+        auto_subs = info.get("automatic_captions") or {}
+        candidates = subtitles or auto_subs
+        if not candidates:
+            return None, "yt-dlp found no subtitles or auto-captions"
+
+        lang_order = ["en", "en-US", "en-GB"]
+        lang_keys = [k for k in lang_order if k in candidates] + [
+            k for k in candidates.keys() if k not in lang_order
+        ]
+        subtitle_url = None
+        for lang in lang_keys:
+            tracks = candidates.get(lang) or []
+            preferred = next(
+                (t for t in tracks if str(t.get("ext", "")).lower() == "vtt"), None
+            )
+            chosen = preferred or (tracks[0] if tracks else None)
+            if chosen and chosen.get("url"):
+                subtitle_url = chosen["url"]
+                break
+        if not subtitle_url:
+            return None, "yt-dlp subtitle track URL missing"
+
+        response = requests.get(subtitle_url, timeout=45)
+        if response.status_code != 200:
+            return None, f"yt-dlp subtitle download failed ({response.status_code})"
+
+        segments = _parse_vtt_segments(response.text)
+        stitched = normalize_timed_segments(segments)
+        if stitched:
+            stitched.source = "yt-dlp auto subtitles"
+            return stitched, "yt-dlp auto subtitles"
+        return None, "yt-dlp subtitle parsing produced no transcript lines"
+    except Exception as error:  # pylint: disable=broad-except
+        return None, f"yt-dlp subtitle fallback error: {error}"
+
+
 def write_video_file(
     file_path: Path,
     expert_name: str,
@@ -303,6 +570,7 @@ def main() -> None:
     supadata_api_key = os.getenv("SUPADATA_API_KEY", "").strip()
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    PROMPT_FILE.write_text(RUN_PROMPT, encoding="utf-8")
     experts = parse_experts_from_sources(SOURCES_FILE)
 
     processed_experts = 0
@@ -337,52 +605,39 @@ def main() -> None:
 
         for index, video in enumerate(videos, start=1):
             videos_processed += 1
-            transcript_result, source = fetch_supadata_transcript(
-                video.url, supadata_api_key
-            )
+            method_errors: List[str] = []
+            transcript_result = None
+            source = "N/A"
             failure_reason = None
-            if not transcript_result:
-                transcript_result, free_source = fetch_free_transcript(video.video_id)
-                source = free_source
-            if (
-                transcript_result
-                and not passes_duration_check(transcript_result, video.duration_seconds)
-            ):
-                # Retry with free transcript source to ensure all available segments.
-                fallback_result, free_source = fetch_free_transcript(video.video_id)
-                if fallback_result and passes_duration_check(
-                    fallback_result, video.duration_seconds
-                ):
-                    transcript_result = fallback_result
-                    source = free_source
-            if transcript_result and not passes_duration_check(
-                transcript_result, video.duration_seconds
-            ):
-                expected = video.duration_seconds or 0
-                failure_reason = (
-                    f"Transcript coverage ended at ~{transcript_result.coverage_seconds}s "
-                    f"but video duration is ~{expected}s."
-                )
-                transcript_result = None
-                source = "N/A"
-                coverage_failed += 1
-            elif transcript_result:
+
+            fallback_methods = [
+                ("Supadata", lambda: fetch_supadata_transcript(video.url, supadata_api_key)),
+                ("youtube-transcript-api", lambda: fetch_free_transcript(video.video_id)),
+                ("yt-dlp auto subtitles", lambda: fetch_ytdlp_auto_subtitles(video.url)),
+            ]
+            for method_name, method_fn in fallback_methods:
+                candidate, method_source = method_fn()
+                if not candidate:
+                    method_errors.append(f"{method_name}: {method_source}")
+                    continue
+                if not passes_duration_check(candidate, video.duration_seconds):
+                    method_errors.append(
+                        f"{method_name}: coverage ended at ~{candidate.coverage_seconds}s"
+                    )
+                    continue
+                if not passes_density_check(candidate.text, video.duration_seconds):
+                    method_errors.append(
+                        f"{method_name}: transcript appears too short for duration"
+                    )
+                    continue
+                transcript_result = candidate
+                source = method_source
                 coverage_verified += 1
-            if transcript_result and not passes_density_check(
-                transcript_result.text, video.duration_seconds
-            ):
-                expected = video.duration_seconds or 0
-                failure_reason = (
-                    f"Transcript appears too short for video length (~{expected}s). "
-                    "Potentially summarized or incomplete output."
-                )
-                transcript_result = None
-                source = "N/A"
-                coverage_failed += 1
+                break
 
             if not transcript_result:
-                if not failure_reason:
-                    failure_reason = source
+                coverage_failed += 1
+                failure_reason = "; ".join(method_errors) if method_errors else source
                 failed_transcripts += 1
                 source = "N/A"
             else:
@@ -410,9 +665,12 @@ def main() -> None:
         f"- Failed transcripts: {failed_transcripts}",
         f"- Coverage verified: {coverage_verified}",
         f"- Coverage failed: {coverage_failed}",
+        f"- Files created: {len(created_files) + 2}",
         "",
         "## Files created",
     ]
+    report_lines.append(f"- {PROMPT_FILE.relative_to(ROOT_DIR)}")
+    report_lines.append(f"- {REPORT_FILE.relative_to(ROOT_DIR)}")
     if created_files:
         report_lines.extend(f"- {path}" for path in created_files)
     else:

@@ -2,23 +2,13 @@
 
 - Experts processed: 8
 - Videos processed: 40
-- Successful transcripts: 40
-- Failed transcripts: 0
+- Successful transcripts: 0
+- Failed transcripts: 40
+- Coverage verified: 0
+- Coverage failed: 40
 - Files created: 42
 
-## Experts Processed
-
-- Aleyda Solís (`aleyda-solis`): 5 success, 0 failed
-- Edward Sturm (`edward-sturm`): 5 success, 0 failed
-- Matt Diggity (`matt-diggity`): 5 success, 0 failed
-- Nathan Gotch (`nathan-gotch`): 5 success, 0 failed
-- Sam Oh (`sam-oh`): 5 success, 0 failed
-- Caleb Ulku (`caleb-ulku`): 5 success, 0 failed
-- Chris Palmer (`chris-palmer`): 5 success, 0 failed
-- Neil Patel (`neil-patel`): 5 success, 0 failed
-
-## Files Created
-
+## Files created
 - research/youtube-transcripts/youtube-transcript-prompt.md
 - research/youtube-transcripts/youtube-report.md
 - research/youtube-transcripts/aleyda-solis/video-01.md
