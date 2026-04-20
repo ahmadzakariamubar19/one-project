@@ -9,6 +9,7 @@
 - Files created: 42
 
 ## Files created
+
 - research/youtube-transcripts/youtube-transcript-prompt.md
 - research/youtube-transcripts/youtube-report.md
 - research/youtube-transcripts/aleyda-solis/video-01.md
@@ -51,3 +52,4 @@
 - research/youtube-transcripts/neil-patel/video-03.md
 - research/youtube-transcripts/neil-patel/video-04.md
 - research/youtube-transcripts/neil-patel/video-05.md
+

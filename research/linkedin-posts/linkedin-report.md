@@ -1,17 +1,12 @@
 # LinkedIn Posts Collection Report
 
 - Experts processed: 5
-- Experts with at least one accessible post: 4
+- Experts with at least one accessible post: 5
 - Posts processed: 20
 - Successful posts collected: 20
 - Inaccessible posts skipped: 0
-- Failed collections: 1
+- Failed collections: 0
 - Total media assets collected: 40
-- Experts with inaccessible LinkedIn pages: David Quaid
-
-## Notes on missing data or scraping limitations
-
-- David Quaid: HTTP 999 while fetching [https://www.linkedin.com/in/davidquaid/details/recent-activity/shares/](https://www.linkedin.com/in/davidquaid/details/recent-activity/shares/)
 
 ## Files created
 
