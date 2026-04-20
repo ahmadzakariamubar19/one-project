@@ -2,9 +2,9 @@
 
 # Post Title: Dixon Jones shared this I am back on the diet... Baltic-Nordic SEO Summit Baltic-Nordic SE...
 
-# Post URL: [https://www.linkedin.com/posts/dixonjones_i-am-back-on-the-diet-activity-7450517167625826305-coQk](https://www.linkedin.com/posts/dixonjones_i-am-back-on-the-diet-activity-7450517167625826305-coQk)
+# Post URL: [https://www.linkedin.com/posts/dixonjones_i-am-back-on-the-diet-activity-7450517167625826305-coQk](https://www.linkedin.com/feed/update/urn:li:activity:7450487549506125824/?originTrackingId=Wu1J3uYDzop%2B8KKOuoYJbw%3D%3D)
 
-# Publish Date: 3d
+# Publish Date: APRIL 17, 2026
 
 # Content Source: Public LinkedIn HTML
 
@@ -19,6 +19,6 @@ Dixon Jones shared this I am back on the diet... Baltic-Nordic SEO Summit Baltic
 
 ## Engagement Data
 
-- Likes / Reactions: Not displayed on public page
-- Comments: Not displayed on public page
-- Reposts: Not displayed on public page
+- Likes / Reactions: 17
+- Comments: 1
+- Reposts: 0

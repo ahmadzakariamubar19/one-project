@@ -4,7 +4,7 @@
 
 # Post URL: [https://www.linkedin.com/posts/dixonjones_you-can-just-ask-an-llm-to-do-seo-or-geo-activity-7450811957877784576-X4o6](https://www.linkedin.com/posts/dixonjones_you-can-just-ask-an-llm-to-do-seo-or-geo-activity-7450811957877784576-X4o6)
 
-# Publish Date: Unknown
+# Publish Date: APRIL 18, 2026
 
 # Content Source: Public LinkedIn HTML
 
@@ -19,7 +19,6 @@ Dixon Jones shared this You can just ask an LLM to do SEO or GEO on your site...
 
 ## Engagement Data
 
-- Likes / Reactions: Not displayed on public page
-- Comments: Not displayed on public page
-- Reposts: Not displayed on public page
-
+- Likes / Reactions: 29
+- Comments: 3
+- Reposts: 4
