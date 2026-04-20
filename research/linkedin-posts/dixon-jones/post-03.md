@@ -23,4 +23,3 @@ There seem to be many more posts about why a business strategy fails than about 
 - Likes / Reactions: 41
 - Comments: 9
 - Reposts: 0
-
