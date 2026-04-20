@@ -1,7 +1,11 @@
 # Expert Name: Nathan Gotch
+
 # Video Title: Why GEO and AEO Are Mostly Rebranded SEO
-# Video URL: https://www.youtube.com/watch?v=OAJL2ob_Lks
+
+# Video URL: [https://www.youtube.com/watch?v=OAJL2ob_Lks](https://www.youtube.com/watch?v=OAJL2ob_Lks)
+
 # Publish Date: Unknown
+
 # Transcript Source: Supadata
 
 ## Transcript
