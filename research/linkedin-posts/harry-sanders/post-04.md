@@ -1,7 +1,11 @@
 # Expert Name: harry sanders
+
 # Post Title: Harry Sanders shared this I know this will sound wrong, but after 50,000 hours of SEO unde...
-# Post URL: https://www.linkedin.com/posts/harry-sanders_i-know-this-will-sound-wrong-but-after-50000-activity-7449603262648922112-DhYq
+
+# Post URL: [https://www.linkedin.com/posts/harry-sanders_i-know-this-will-sound-wrong-but-after-50000-activity-7449603262648922112-DhYq](https://www.linkedin.com/posts/harry-sanders_i-know-this-will-sound-wrong-but-after-50000-activity-7449603262648922112-DhYq)
+
 # Publish Date: Unknown
+
 # Content Source: Public LinkedIn HTML
 
 ## Post Content
@@ -12,14 +16,14 @@ Harry Sanders shared this I know this will sound wrong, but after 50,000 hours o
 
 ### Profile Photo
 
-![Profile photo](https://media.licdn.com/dms/image/v2/C5603AQHdgK8U-Cuvgw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1534915480276?e=2147483647&v=beta&t=dm4kuSn_yenGInAwop2_DiQjaUPs8g_z3H4ChC16JNo)
+Profile photo
 
 ### Post Images
 
-![Post image 1](https://media.licdn.com/dms/image/v2/D4E22AQEYrqP_3omzaw/feedshare-shrink_800/B4EZ2JOrK1HsAg-/0/1776123823384?e=2147483647&v=beta&t=_8vDJiQ4PIxXa3hnuBaTYoD-keTd5GRDtnH61xTH5qs)
+Post image 1
 
 ## Engagement Data
 
-* Likes / Reactions: Not displayed on public page
-* Comments: Not displayed on public page
-* Reposts: Not displayed on public page
+- Likes / Reactions: Not displayed on public page
+- Comments: Not displayed on public page
+- Reposts: Not displayed on public page

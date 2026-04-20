@@ -1,7 +1,11 @@
 # Expert Name: harry sanders
+
 # Post Title: Harry Sanders shared this If you're a gamer and running a business you'll 100% get this fe...
-# Post URL: https://www.linkedin.com/posts/harry-sanders_if-youre-a-gamer-and-running-a-business-activity-7448250981219340288-V76m
+
+# Post URL: [https://www.linkedin.com/posts/harry-sanders_if-youre-a-gamer-and-running-a-business-activity-7448250981219340288-V76m](https://www.linkedin.com/posts/harry-sanders_if-youre-a-gamer-and-running-a-business-activity-7448250981219340288-V76m)
+
 # Publish Date: Unknown
+
 # Content Source: Public LinkedIn HTML
 
 ## Post Content
@@ -12,14 +16,14 @@ Harry Sanders shared this If you're a gamer and running a business you'll 100% g
 
 ### Profile Photo
 
-![Profile photo](https://media.licdn.com/dms/image/v2/C5603AQHdgK8U-Cuvgw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1534915480276?e=2147483647&v=beta&t=dm4kuSn_yenGInAwop2_DiQjaUPs8g_z3H4ChC16JNo)
+Profile photo
 
 ### Post Images
 
-![Post image 1](https://media.licdn.com/dms/image/v2/D4E22AQHPFOx0YCKh3A/feedshare-shrink_2048_1536/B4EZ12AzEjJwAk-/0/1775801415044?e=2147483647&v=beta&t=Xd6PyoU0ZY7pJ36gNKI8Fgoh_vIYxBoUJ80ygMzGb-0)
+Post image 1
 
 ## Engagement Data
 
-* Likes / Reactions: Not displayed on public page
-* Comments: Not displayed on public page
-* Reposts: Not displayed on public page
+- Likes / Reactions: Not displayed on public page
+- Comments: Not displayed on public page
+- Reposts: Not displayed on public page
