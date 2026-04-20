@@ -4,7 +4,7 @@
 
 # Post URL: [https://www.linkedin.com/posts/harry-sanders_i-run-a-20000000-seo-agency-most-of-our-activity-7450013830761517056-hj8K](https://www.linkedin.com/posts/harry-sanders_i-run-a-20000000-seo-agency-most-of-our-activity-7450013830761517056-hj8K)
 
-# Publish Date: Unknown
+# Publish Date: April 16, 2026
 
 # Content Source: Public LinkedIn HTML
 
@@ -24,6 +24,6 @@ Post image 1
 
 ## Engagement Data
 
-- Likes / Reactions: Not displayed on public page
-- Comments: Not displayed on public page
-- Reposts: Not displayed on public page
+- Likes / Reactions: 18
+- Comments: 6
+- Reposts: 0

@@ -4,7 +4,7 @@
 
 # Post URL: [https://www.linkedin.com/posts/lawrence-hitches_just-wrapped-up-at-the-phuket-ai-marketing-activity-7447152584412528641-bpMC](https://www.linkedin.com/posts/lawrence-hitches_just-wrapped-up-at-the-phuket-ai-marketing-activity-7447152584412528641-bpMC)
 
-# Publish Date: Unknown
+# Publish Date: April 14, 2026
 
 # Content Source: Public LinkedIn HTML
 
@@ -24,6 +24,6 @@ Post image 1
 
 ## Engagement Data
 
-- Likes / Reactions: Not displayed on public page
-- Comments: Not displayed on public page
-- Reposts: Not displayed on public page
+- Likes / Reactions: 54
+- Comments: 5
+- Reposts: 0

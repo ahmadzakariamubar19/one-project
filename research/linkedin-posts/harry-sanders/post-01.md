@@ -4,7 +4,7 @@
 
 # Post URL: [https://www.linkedin.com/posts/harry-sanders_ive-never-been-more-confident-about-demand-activity-7450683090013794304-JLod](https://www.linkedin.com/posts/harry-sanders_ive-never-been-more-confident-about-demand-activity-7450683090013794304-JLod)
 
-# Publish Date: Unknown
+# Publish Date: April 18, 2026
 
 # Content Source: Public LinkedIn HTML
 
@@ -24,6 +24,7 @@ Post image 1
 
 ## Engagement Data
 
-- Likes / Reactions: Not displayed on public page
-- Comments: Not displayed on public page
-- Reposts: Not displayed on public page
+- Likes / Reactions: 200
+- Comments: 24
+- Reposts: 13
+

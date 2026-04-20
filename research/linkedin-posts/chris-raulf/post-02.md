@@ -4,7 +4,7 @@
 
 # Post URL: [https://www.linkedin.com/posts/chrisraulf_stop-putting-off-video-production-the-claude-activity-7450437381926785024-xP8T](https://www.linkedin.com/posts/chrisraulf_stop-putting-off-video-production-the-claude-activity-7450437381926785024-xP8T)
 
-# Publish Date: 04-17-2026
+# Publish Date: April 17, 2026
 
 # Content Source: Public LinkedIn HTML
 

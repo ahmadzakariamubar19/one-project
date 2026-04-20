@@ -1,7 +1,11 @@
 # Expert Name: Lawrence Hitches
+
 # Post Title: Lawrence Hitches shared this Shoutout to Harry Sanders who's been cooking hard in 2026 and...
-# Post URL: https://www.linkedin.com/posts/lawrence-hitches_shoutout-to-harry-sanders-whos-been-cooking-activity-7444869899451117568-Oipx
-# Publish Date: 2w
+
+# Post URL: [https://www.linkedin.com/posts/lawrence-hitches_shoutout-to-harry-sanders-whos-been-cooking-activity-7444869899451117568-Oipx](https://www.linkedin.com/posts/lawrence-hitches_shoutout-to-harry-sanders-whos-been-cooking-activity-7444869899451117568-Oipx)
+
+# Publish Date: April 07, 2026
+
 # Content Source: Public LinkedIn HTML
 
 ## Post Content
@@ -12,14 +16,15 @@ Lawrence Hitches shared this Shoutout to Harry Sanders who's been cooking hard i
 
 ### Profile Photo
 
-![Profile photo](https://media.licdn.com/dms/image/v2/C5603AQH0st1FyLo6og/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1637404031631?e=2147483647&v=beta&t=AsqUhNkU3H-ajvqTk6qc9SNR2yeR1laqcKmucU6WtNk)
+Profile photo
 
 ### Post Images
 
-![Post image 1](https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2)
+Post image 1
 
 ## Engagement Data
 
-* Likes / Reactions: Not displayed on public page
-* Comments: Not displayed on public page
-* Reposts: Not displayed on public page
+- Likes / Reactions: 17
+- Comments: 21
+- Reposts: 1
+
