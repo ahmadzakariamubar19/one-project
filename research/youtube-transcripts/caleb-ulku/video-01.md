@@ -8,7 +8,7 @@ How To Rank #1 In 24 HOURS
 
 # Video URL
 
-https://www.youtube.com/watch?v=WGzl25AOaG4
+[https://www.youtube.com/watch?v=WGzl25AOaG4](https://www.youtube.com/watch?v=WGzl25AOaG4)
 
 # Publish Date
 
