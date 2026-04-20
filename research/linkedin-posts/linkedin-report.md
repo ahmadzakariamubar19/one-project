@@ -32,4 +32,3 @@
 - research/linkedin-posts/mark-williams-cook/post-03.md
 - research/linkedin-posts/mark-williams-cook/post-04.md
 - research/linkedin-posts/mark-williams-cook/post-05.md
-

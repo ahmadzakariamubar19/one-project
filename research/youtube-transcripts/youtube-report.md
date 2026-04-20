@@ -3,9 +3,9 @@
 - Experts processed: 8
 - Videos processed: 40
 - Successful transcripts: 39
-- Failed transcripts: 1
+- Failed transcripts: 0
 - Coverage verified: 39
-- Coverage failed: 1
+- Coverage failed: 0
 - Files created: 42
 
 ## Files created
