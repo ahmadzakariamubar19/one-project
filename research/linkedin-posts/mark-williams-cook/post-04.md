@@ -1,7 +1,5 @@
 # Expert Name: Mark Williams-Cook
 
-# Post Title: Mark Williams-Cook reposted this The cat is out the bag 😸 I'll be joining a fantastic pane...
-
 # Post URL: [https://www.linkedin.com/posts/charliemarchant_charlie-marchant-searchnorwichxl-announcement-activity-7451903738941849600-jbyN](https://www.linkedin.com/feed/update/urn:li:activity:7451919375940407297/?originTrackingId=NVrmFhUqLxqX8YpKoJ6wUw%3D%3D)
 
 # Publish Date: April 21, 2026

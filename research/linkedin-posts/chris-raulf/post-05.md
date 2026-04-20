@@ -1,7 +1,5 @@
 # Expert Name: Chris Raulf
 
-# Post Title: Chris Raulf shared this Two hours. Four sessions. Here is what came out of yesterday's AI ...
-
 # Post URL: [https://www.linkedin.com/posts/chrisraulf_ai-seo-geo-online-summit-activity-7445515314974588929--ML-](https://www.linkedin.com/posts/chrisraulf_ai-seo-geo-online-summit-activity-7445515314974588929--ML-)
 
 # Publish Date: April 07, 2026

@@ -1,7 +1,5 @@
 # Expert Name: Chris Raulf
 
-# Post Title: Chris Raulf shared this Still in Berlin with my wife, taking a few extra days to explore t...
-
 # Post URL: [https://www.linkedin.com/posts/chrisraulf_geo-gala2026-worldready-activity-7450915714263257088-axg_](https://www.linkedin.com/feed/update/urn:li:activity:7450915714263257088/?originTrackingId=gr0V8klx4zgxbFWfe3ZXtg%3D%3D)
 
 # Publish Date: April 18, 2026

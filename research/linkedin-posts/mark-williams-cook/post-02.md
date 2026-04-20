@@ -27,4 +27,3 @@ Post image 2
 - Likes / Reactions: 23
 - Comments: 4
 - Reposts: 0
-

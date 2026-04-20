@@ -1,7 +1,5 @@
 # Expert Name: Chris Raulf
 
-# Post Title: Chris Raulf shared this Video production doesn't have to be slow, expensive, or out of rea...
-
 # Post URL: [https://www.linkedin.com/posts/chrisraulf_stop-putting-off-video-production-the-claude-activity-7450437381926785024-xP8T](https://www.linkedin.com/posts/chrisraulf_stop-putting-off-video-production-the-claude-activity-7450437381926785024-xP8T)
 
 # Publish Date: April 17, 2026

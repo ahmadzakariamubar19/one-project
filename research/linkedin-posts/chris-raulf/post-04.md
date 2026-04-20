@@ -1,7 +1,5 @@
 # Expert Name: Chris Raulf
 
-# Post Title: Chris Raulf shared this On April 13 I'm standing on stage in Berlin at Globalization and L...
-
 # Post URL: [https://www.linkedin.com/posts/chrisraulf_worldready-berlin-program-activity-7445975615360389121-mazI](https://www.linkedin.com/posts/chrisraulf_worldready-berlin-program-activity-7445975615360389121-mazI)
 
 # Publish Date: April 07, 2026
@@ -27,3 +25,4 @@ Post image 1
 - Likes / Reactions: Not displayed on public page
 - Comments: Not displayed on public page
 - Reposts: Not displayed on public page
+

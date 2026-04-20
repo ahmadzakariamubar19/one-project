@@ -1,7 +1,5 @@
 # Expert Name: Lawrence Hitches
 
-# Post Title: Lawrence Hitches shared this Learnings from last week at the Phuket AI Marketing Summit 3-...
-
 # Post URL: [https://www.linkedin.com/posts/lawrence-hitches_hacking-ai-search-vs-building-brands-activity-7448494955938979840-1Sl2](https://www.linkedin.com/posts/lawrence-hitches_hacking-ai-search-vs-building-brands-activity-7448494955938979840-1Sl2)
 
 # Publish Date: April 14, 2026
@@ -10,7 +8,7 @@
 
 ## Post Content
 
-Lawrence Hitches shared this Learnings from last week at the Phuket AI Marketing Summit 3-5 Apr '26 Hacking AI Search vs Building Brands Hacking AI Search vs Building Brands Lawrence Hitches
+Learnings from last week at the Phuket AI Marketing Summit 3-5 Apr '26 Hacking AI Search vs Building Brands Hacking AI Search vs Building Brands Lawrence Hitches
 
 ## Media Assets
 
@@ -27,3 +25,4 @@ Post image 1
 - Likes / Reactions: 17
 - Comments: 1
 - Reposts: 0
+

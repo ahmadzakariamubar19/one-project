@@ -1,7 +1,5 @@
 # Expert Name: Mark Williams-Cook
 
-# Post Title: Mark Williams-Cook reposted this Brendan Bennett Brendan Bennett 13h Mark Williams-Cook re...
-
 # Post URL: [https://www.linkedin.com/posts/brendanbennett1989_stoked-to-be-presenting-the-last-talk-in-activity-7451897535192903680-V1xh](https://www.linkedin.com/posts/brendanbennett1989_stoked-to-be-presenting-the-last-talk-in-activity-7451897535192903680-V1xh)
 
 # Publish Date: April 21, 2026

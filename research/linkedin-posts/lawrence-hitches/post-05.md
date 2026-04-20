@@ -1,7 +1,5 @@
 # Expert Name: Lawrence Hitches
 
-# Post Title: Lawrence Hitches shared this Speaking at the Phuket AI Marketing Summit 3-5 Apr '26 next w...
-
 # Post URL: [https://www.linkedin.com/posts/lawrence-hitches_workshop-led-ai-marketing-summit-2027-at-activity-7441982683804688384-wBpj](https://www.linkedin.com/posts/lawrence-hitches_workshop-led-ai-marketing-summit-2027-at-activity-7441982683804688384-wBpj)
 
 # Publish Date: March 31, 2026
@@ -10,7 +8,7 @@
 
 ## Post Content
 
-Lawrence Hitches shared this Speaking at the Phuket AI Marketing Summit 3-5 Apr '26 next week! If you've seen how fast AI has accelerated our industry in even the past few weeks, this is exactly where I want to be, talking to the top minds in the space Of course, when the laptop and the beach are combined, new ideas are boundless 🤯 If you're in SEO, AI marketing, or you just want three days in Phuket with people who build cool things, come say g'day 👋 phuketsummit.com
+Speaking at the Phuket AI Marketing Summit 3-5 Apr '26 next week! If you've seen how fast AI has accelerated our industry in even the past few weeks, this is exactly where I want to be, talking to the top minds in the space Of course, when the laptop and the beach are combined, new ideas are boundless 🤯 If you're in SEO, AI marketing, or you just want three days in Phuket with people who build cool things, come say g'day 👋 phuketsummit.com
 
 ## Media Assets
 
