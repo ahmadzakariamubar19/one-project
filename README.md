@@ -41,72 +41,86 @@ List of all experts
 
 ---
 
-## **Data Collection Report**
+## ✨ **Data Collection Report**
 
 ---
 
-### LinkedIn Posts Collection Report
+### 🔗 **LinkedIn Posts Collection Report**
 
-- Experts processed: 5
-- Experts with at least one accessible post: 5
-- Posts processed: 20
-- Successful posts collected: 20
-- Inaccessible posts skipped: 0
-- Failed collections: 0
-- Total media assets collected: 40
 
----
+| Metric                                    | Value |
+| ----------------------------------------- | ----- |
+| Experts processed                         | 5     |
+| Experts with at least one accessible post | 5     |
+| Posts processed                           | 20    |
+| Successful posts collected                | 20    |
+| Inaccessible posts skipped                | 0     |
+| Failed collections                        | 0     |
+| Total media assets collected              | 40    |
 
-### YouTube Transcript Collection Report
-
-- Experts processed: 8
-- Videos processed: 40
-- Successful transcripts: 39
-- Failed transcripts: 0
-- Coverage verified: 39
-- Coverage failed:0
-- Files created: 42
 
 ---
 
-### **Summary**
+### 🎥 **YouTube Transcript Collection Report**
+
+
+| Metric                 | Value |
+| ---------------------- | ----- |
+| Experts processed      | 8     |
+| Videos processed       | 40    |
+| Successful transcripts | 39    |
+| Failed transcripts     | 0     |
+| Coverage verified      | 39    |
+| Coverage failed        | 0     |
+| Files created          | 42    |
+
+
+---
+
+### 📊 **Summary**
 
 - **Total LinkedIn Experts:** 5
 - **Total YouTube Experts:** 8
 
 ---
 
-## **Why I Chose These Experts**
-
----
+## 💡 **Why I Chose These Experts**
 
 These experts were selected because they consistently publish high-value insights and maintain strong credibility within their respective industries.
 
-### **Core Areas of Expertise**
+---
 
-- **SEO Strategy**
-- **Technical SEO**
-- **Organic Search Growth**
-- **Content Optimization**
-- **Search Visibility**
-- **Brand Authority in Search**
-- **Keyword & Search Intent Research**
-- **AI-Assisted Content Workflows**
-- **Content Scaling Systems**
-- **Data-Driven Digital Growth**
+### 🎯 **Core Areas of Expertise**
+
+- 🔍 SEO Strategy
+- ⚙️ Technical SEO
+- 📈 Organic Search Growth
+- ✍️ Content Optimization
+- 🌐 Search Visibility
+- 🏆 Brand Authority in Search
+- 🔑 Keyword & Search Intent Research
+- 🤖 AI-Assisted Content Workflows
+- 🚀 Content Scaling Systems
+- 📊 Data-Driven Digital Growth
+
+---
+
+### 🎯 **Objective**
 
 The objective was to build a reliable learning and research database using trusted public sources.
 
 ---
 
-## **Repository Structure**
+## 🗂️ **Repository Structure**
 
----
-
+```bash
 one project/
-├── research/
-├── scripts/
-├── .env
-├── .gitignore
-├── README.md
-└── requirements.txt
+├── 📁 research/
+├── 📁 scripts/
+├── ⚙️ .env
+├── 🚫 .gitignore
+├── 📄 README.md
+└── 📦 requirements.txt
+
+```
+
