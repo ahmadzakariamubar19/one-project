@@ -5,14 +5,13 @@
 # Video URL: [https://www.youtube.com/watch?v=fcYDkYAZf6w](https://www.youtube.com/watch?v=fcYDkYAZf6w)
 
 # Publish Date: 2026-04-19
-# Created Date: 2026-04-19
 
-# Video Statistics (if available):
+# Video Statistics :
 
-- Views: N/A
-- Likes: N/A
-- Comments: N/A
-- Duration: N/A
+- Views: 1.600
+- Likes: 51
+- Comments:19
+- Duration: 12:59
 
 # Transcript Source: Supadata
 

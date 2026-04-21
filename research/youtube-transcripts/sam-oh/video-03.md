@@ -1,10 +1,13 @@
 # Expert Name: Sam Oh
-# Video Title: SEO in 2026: How I'd Rank in Google in the AI Era
-# Video URL: https://www.youtube.com/watch?v=tiW6xRYSXmM
-# Publish Date: 2026-03-18
-# Created Date: 2026-03-18
 
-# Video Statistics (if available):
+# Video Title: SEO in 2026: How I'd Rank in Google in the AI Era
+
+# Video URL: [https://www.youtube.com/watch?v=tiW6xRYSXmM](https://www.youtube.com/watch?v=tiW6xRYSXmM)
+
+# Publish Date: 2026-03-18
+
+# Video Statistics :
+
 - Views: 22,608
 - Likes: 661
 - Comments: 35

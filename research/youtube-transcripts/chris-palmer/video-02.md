@@ -1,10 +1,13 @@
 # Expert Name: Chris Palmer
-# Video Title: How To Create Comment Backlinks - Scrapebox SEO Tutorial
-# Video URL: https://www.youtube.com/watch?v=bSrHoFTf_rY
-# Publish Date: 2026-04-15
-# Created Date: 2026-04-15
 
-# Video Statistics (if available):
+# Video Title: How To Create Comment Backlinks - Scrapebox SEO Tutorial
+
+# Video URL: [https://www.youtube.com/watch?v=bSrHoFTf_rY](https://www.youtube.com/watch?v=bSrHoFTf_rY)
+
+# Publish Date: 2026-04-15
+
+# Video Statistics :
+
 - Views: 202
 - Likes: 6
 - Comments: 4

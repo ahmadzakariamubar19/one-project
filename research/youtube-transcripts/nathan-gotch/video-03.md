@@ -1,10 +1,13 @@
 # Expert Name: Nathan Gotch
-# Video Title: Important Change to SEO (New Google Algorithm Update)
-# Video URL: https://www.youtube.com/watch?v=qhxbngpPXYQ
-# Publish Date: 2026-03-25
-# Created Date: 2026-03-25
 
-# Video Statistics (if available):
+# Video Title: Important Change to SEO (New Google Algorithm Update)
+
+# Video URL: [https://www.youtube.com/watch?v=qhxbngpPXYQ](https://www.youtube.com/watch?v=qhxbngpPXYQ)
+
+# Publish Date: 2026-03-25
+
+# Video Statistics :
+
 - Views: 8,520
 - Likes: 274
 - Comments: 26

@@ -1,10 +1,13 @@
 # Expert Name: Matt Diggity
-# Video Title: Is Reddit REALLY The KEY to AI Search? Let’s Find Out…
-# Video URL: https://www.youtube.com/watch?v=f03ZfdtkMzk
-# Publish Date: 2026-04-20
-# Created Date: 2026-04-20
 
-# Video Statistics (if available):
+# Video Title: Is Reddit REALLY The KEY to AI Search? Let’s Find Out…
+
+# Video URL: [https://www.youtube.com/watch?v=f03ZfdtkMzk](https://www.youtube.com/watch?v=f03ZfdtkMzk)
+
+# Publish Date: 2026-04-20
+
+# Video Statistics :
+
 - Views: 757
 - Likes: 48
 - Comments: 5

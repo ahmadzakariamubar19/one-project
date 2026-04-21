@@ -6,9 +6,7 @@
 
 # Publish Date: 2025-12-20
 
-# Created Date: 2025-12-20
-
-# Video Statistics (if available):
+# Video Statistics :
 
 - Views: 363
 - Likes: 14
@@ -217,3 +215,4 @@ them.
 > > > > > > > sponsoring this video. Thank you very
 > > > > > > > much. Until the next one, and don't
 > > > > > > > forget to subscribe to avoid missing
+

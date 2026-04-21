@@ -5,9 +5,8 @@
 # Video URL: [https://www.youtube.com/watch?v=lt1bA0NU5wY](https://www.youtube.com/watch?v=lt1bA0NU5wY)
 
 # Publish Date: 2026-04-01
-# Created Date: 2026-04-01
 
-# Video Statistics (if available):
+# Video Statistics :
 
 - Views: 4,582
 - Likes: 176

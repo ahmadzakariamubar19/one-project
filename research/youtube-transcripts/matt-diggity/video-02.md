@@ -1,10 +1,13 @@
 # Expert Name: Matt Diggity
-# Video Title: I Stopped Publishing New Content. Something Crazy Happened…
-# Video URL: https://www.youtube.com/watch?v=-fK3OaJ9Mjk
-# Publish Date: 2026-03-02
-# Created Date: 2026-03-02
 
-# Video Statistics (if available):
+# Video Title: I Stopped Publishing New Content. Something Crazy Happened…
+
+# Video URL: [https://www.youtube.com/watch?v=-fK3OaJ9Mjk](https://www.youtube.com/watch?v=-fK3OaJ9Mjk)
+
+# Publish Date: 2026-03-02
+
+# Video Statistics :
+
 - Views: 5,619
 - Likes: 214
 - Comments: 13

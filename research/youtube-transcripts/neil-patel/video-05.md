@@ -1,10 +1,13 @@
 # Expert Name: Neil Patel
-# Video Title: Google's AI Mode Changed SEO Forever. Here Are the 5 New Rules
-# Video URL: https://www.youtube.com/watch?v=3q3WBkSoANA
-# Publish Date: 2026-03-18
-# Created Date: 2026-03-18
 
-# Video Statistics (if available):
+# Video Title: Google's AI Mode Changed SEO Forever. Here Are the 5 New Rules
+
+# Video URL: [https://www.youtube.com/watch?v=3q3WBkSoANA](https://www.youtube.com/watch?v=3q3WBkSoANA)
+
+# Publish Date: 2026-03-18
+
+# Video Statistics :
+
 - Views: 41,978
 - Likes: 1,388
 - Comments: 82

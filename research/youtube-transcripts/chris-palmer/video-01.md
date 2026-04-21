@@ -1,10 +1,13 @@
 # Expert Name: Chris Palmer
-# Video Title: SEO Tools Tutorial: How to Find Expired Domains
-# Video URL: https://www.youtube.com/watch?v=ZEE__VmH_-g
-# Publish Date: 2026-04-16
-# Created Date: 2026-04-16
 
-# Video Statistics (if available):
+# Video Title: SEO Tools Tutorial: How to Find Expired Domains
+
+# Video URL: [https://www.youtube.com/watch?v=ZEE__VmH_-g](https://www.youtube.com/watch?v=ZEE__VmH_-g)
+
+# Publish Date: 2026-04-16
+
+# Video Statistics :
+
 - Views: 169
 - Likes: 8
 - Comments: 1

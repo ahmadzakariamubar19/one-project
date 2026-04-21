@@ -6,14 +6,12 @@
 
 # Publish Date: 2026-04-07
 
-# Created Date: 2026-04-07
+# Video Statistics :
 
-# Video Statistics (if available):
-
-- Views: N/A
-- Likes: N/A
-- Comments: N/A
-- Duration: N/A
+- Views: 19.000
+- Likes: 684
+- Comments: 49
+- Duration: 06:20
 
 # Transcript Source: Supadata
 

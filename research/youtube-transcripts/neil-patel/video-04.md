@@ -1,10 +1,13 @@
 # Expert Name: Neil Patel
-# Video Title: You Don't Have an SEO Problem. You Have a "Brand Entity" Problem.
-# Video URL: https://www.youtube.com/watch?v=QNLdhW6Wxs4
-# Publish Date: 2026-03-25
-# Created Date: 2026-03-25
 
-# Video Statistics (if available):
+# Video Title: You Don't Have an SEO Problem. You Have a "Brand Entity" Problem.
+
+# Video URL: [https://www.youtube.com/watch?v=QNLdhW6Wxs4](https://www.youtube.com/watch?v=QNLdhW6Wxs4)
+
+# Publish Date: 2026-03-25
+
+# Video Statistics :
+
 - Views: 10,417
 - Likes: 388
 - Comments: 13
@@ -293,8 +296,10 @@ the game have changed. If you're not
 architecting your brand as a verified
 identity, you don't exist in the AI
 powered future.
->> [snorts]
->> If you want to keep learning more about
-what else is shifting in digital
-marketing right now, watch one of these
-videos
+
+> > [snorts]
+> > If you want to keep learning more about
+> > what else is shifting in digital
+> > marketing right now, watch one of these
+> > videos
+

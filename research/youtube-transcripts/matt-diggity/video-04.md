@@ -6,9 +6,7 @@
 
 # Publish Date: 2025-07-23
 
-# Created Date: 2025-07-23
-
-# Video Statistics (if available):
+# Video Statistics :
 
 - Views: 9,552
 - Likes: 363

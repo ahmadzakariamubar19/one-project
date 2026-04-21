@@ -1,10 +1,13 @@
 # Expert Name: Edward Sturm
-# Video Title: Why Niching Down Makes SEO 10x Easier (And More Profitable)
-# Video URL: https://www.youtube.com/watch?v=rTWuD0s1tKU
-# Publish Date: 2026-04-15
-# Created Date: 2026-04-15
 
-# Video Statistics (if available):
+# Video Title: Why Niching Down Makes SEO 10x Easier (And More Profitable)
+
+# Video URL: [https://www.youtube.com/watch?v=rTWuD0s1tKU](https://www.youtube.com/watch?v=rTWuD0s1tKU)
+
+# Publish Date: 2026-04-15
+
+# Video Statistics :
+
 - Views: 2,000
 - Likes: 87
 - Comments: 37

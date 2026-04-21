@@ -6,9 +6,7 @@
 
 # Publish Date: 2026-04-03
 
-# Created Date: 2026-04-03
-
-# Video Statistics (if available):
+# Video Statistics :
 
 - Views: 4,618
 - Likes: 139
