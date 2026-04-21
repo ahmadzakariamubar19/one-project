@@ -57,8 +57,8 @@ Overall, the goal of this selection process is to build a reliable and structure
 
 ### 📊 **Summary**
 
-- **Total LinkedIn Experts:** 5
-- **Total YouTube Experts:** 8
+- **Total Experts (LinkedIn Source)**: 5  
+- **Total Experts (YouTube Source)**: 8  
 
 ---
 ### 🎯 **Core Areas of Expertise**
