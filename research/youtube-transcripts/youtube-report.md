@@ -2,16 +2,14 @@
 
 - Experts processed: 8
 - Videos processed: 40
-- Successful transcripts: 39
+- Successful transcripts: 40
 - Failed transcripts: 0
-- Coverage verified: 39
+- Coverage verified: 40
 - Coverage failed: 0
-- Files created: 42
+- Files created: 40
 
 ## Files created
 
-- research/youtube-transcripts/youtube-transcript-prompt.md
-- research/youtube-transcripts/youtube-report.md
 - research/youtube-transcripts/aleyda-solis/video-01.md
 - research/youtube-transcripts/aleyda-solis/video-02.md
 - research/youtube-transcripts/aleyda-solis/video-03.md
@@ -52,3 +50,4 @@
 - research/youtube-transcripts/neil-patel/video-03.md
 - research/youtube-transcripts/neil-patel/video-04.md
 - research/youtube-transcripts/neil-patel/video-05.md
+
