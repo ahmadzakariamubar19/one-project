@@ -55,6 +55,27 @@ Overall, the goal of this selection process is to build a reliable and structure
 
 ---
 
+### 📊 **Summary**
+
+- **Total LinkedIn Experts:** 5
+- **Total YouTube Experts:** 8
+
+---
+### 🎯 **Core Areas of Expertise**
+
+- 🔍 SEO Strategy
+- ⚙️ Technical SEO
+- 📈 Organic Search Growth
+- ✍️ Content Optimization
+- 🌐 Search Visibility
+- 🏆 Brand Authority in Search
+- 🔑 Keyword & Search Intent Research
+- 🤖 AI-Assisted Content Workflows
+- 🚀 Content Scaling Systems
+- 📊 Data-Driven Digital Growth
+
+---
+
 ## ✨ **Data Collection Report**
 
 ---
@@ -87,29 +108,6 @@ Overall, the goal of this selection process is to build a reliable and structure
 | Coverage verified      | 40    |
 | Coverage failed        | 0     |
 | Files created          | 40    |
-
-
----
-
-### 📊 **Summary**
-
-- **Total LinkedIn Experts:** 5
-- **Total YouTube Experts:** 8
-
----
-
-### 🎯 **Core Areas of Expertise**
-
-- 🔍 SEO Strategy
-- ⚙️ Technical SEO
-- 📈 Organic Search Growth
-- ✍️ Content Optimization
-- 🌐 Search Visibility
-- 🏆 Brand Authority in Search
-- 🔑 Keyword & Search Intent Research
-- 🤖 AI-Assisted Content Workflows
-- 🚀 Content Scaling Systems
-- 📊 Data-Driven Digital Growth
 
 ---
 
