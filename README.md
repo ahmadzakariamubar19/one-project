@@ -127,13 +127,38 @@ The objective was to build a reliable learning and research database using trust
 ## 🗂️ **Repository Structure**
 
 ```bash
-one project/
+🗂️ one project/
 ├── 📁 research/
-├── 📁 scripts/
-├── ⚙️ .env
+│   ├── 📁 linkedin-posts/
+│   │   ├── 📁 chris-raulf/
+│   │   ├── 📁 cyrus-shepard/
+│   │   ├── 📁 harry-sanders/
+│   │   ├── 📁 lawrence-hitches/
+│   │   ├── 📁 mark-williams-cook/
+│   │   ├── 📝 linkedin-posts-prompt.md
+│   │   └── 📊 linkedin-report.md
+│   │
+│   ├── 📁 youtube-transcripts/
+│   │   ├── 📁 aleyda-solis/
+│   │   ├── 📁 caleb-ulku/
+│   │   ├── 📁 chris-palmer/
+│   │   ├── 📁 edward-sturm/
+│   │   ├── 📁 matt-diggity/
+│   │   ├── 📁 nathan-gotch/
+│   │   ├── 📁 neil-patel/
+│   │   ├── 📁 sam-oh/
+│   │   ├── 📝 youtube-transcript-prompt.md
+│   │   └── 📊 youtube-report.md
+│   │
+│   └── 📄 sources.md
+│
+├── ⚙️ scripts/
+│   ├── 📜 linkedin-transcript.py
+│   └── 📜 youtube-transcript.py
+│
+├── 🔐 .env
 ├── 🚫 .gitignore
 ├── 📄 README.md
 └── 📦 requirements.txt
-
 ```
 
