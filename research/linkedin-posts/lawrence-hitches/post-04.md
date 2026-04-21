@@ -14,11 +14,11 @@ Had the pleasure of joining the UTS Digital Marketing Society last week for a wo
 
 ### Profile Photo
 
-Profile photo
+[Profile photo](https://media.licdn.com/dms/image/v2/C5603AQH0st1FyLo6og/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1637404031631?e=1778112000&v=beta&t=Y97F0AmCjN2InBjRD6KWaZDqNiOkEgTzAFopi59koEU)
 
 ### Post Images
 
-Post image 1
+[Post image 1](https://media.licdn.com/dms/image/v2/D5622AQFAlcqeHAfkTg/feedshare-shrink_800/B56Z0tI7DYHEAg-/0/1774578807306?e=1778112000&v=beta&t=nl7FWqfmuvqtaERFvBzutheNeFbeTrby1Jcmiffl7Uc)
 
 ## Engagement Data
 

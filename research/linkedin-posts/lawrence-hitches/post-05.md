@@ -14,7 +14,7 @@ Speaking at the Phuket AI Marketing Summit 3-5 Apr '26 next week! If you've seen
 
 ### Profile Photo
 
-Profile photo
+[Profile photo](https://media.licdn.com/dms/image/v2/C5603AQH0st1FyLo6og/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1637404031631?e=1778112000&v=beta&t=Y97F0AmCjN2InBjRD6KWaZDqNiOkEgTzAFopi59koEU)
 
 ## Engagement Data
 

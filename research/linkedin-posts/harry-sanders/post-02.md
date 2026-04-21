@@ -14,11 +14,7 @@ I've been doing SEO for over a decade and worked with now 1,000+ clients in my t
 
 ### Profile Photo
 
-Profile photo
-
-### Post Images
-
-Post image 1
+[Profile photo](https://media.licdn.com/dms/image/v2/C5603AQHdgK8U-Cuvgw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1534915480151?e=1778112000&v=beta&t=2WgfMMJexBP6AcnJAy_f9-SeyK7XZroVw5qHtAV13xI)
 
 ## Engagement Data
 

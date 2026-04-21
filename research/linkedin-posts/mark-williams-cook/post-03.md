@@ -14,10 +14,11 @@ SEO updates you ✨NEED✨ to know [20 April]: 🌐 AI Mode can now open webpage
 
 ### Profile Photo
 
-Profile photo
+[Profile photo](https://media.licdn.com/dms/image/v2/D4E03AQGLlOJmEp_siQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1731942579380?e=1778112000&v=beta&t=ma8WV-Hl52qXH9ugVOG7rajNKB46HahdMMo2NW6QkHE)
 
 ## Engagement Data
 
 - Likes / Reactions: 137
 - Comments: 14
 - Reposts: 7
+

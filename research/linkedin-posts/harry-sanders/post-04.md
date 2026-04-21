@@ -14,15 +14,14 @@ I know this will sound wrong, but after 50,000 hours of SEO under my belt, I can
 
 ### Profile Photo
 
-Profile photo
+[Profile photo](https://media.licdn.com/dms/image/v2/C5603AQHdgK8U-Cuvgw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1534915480151?e=1778112000&v=beta&t=2WgfMMJexBP6AcnJAy_f9-SeyK7XZroVw5qHtAV13xI)
 
 ### Post Images
 
-Post image 1
+[Post image 1](https://media.licdn.com/dms/image/v2/D4E22AQEYrqP_3omzaw/feedshare-shrink_800/B4EZ2JOrK1HsAg-/0/1776123823384?e=1778112000&v=beta&t=Uk8uj9emk8zLnhKuBw89lenTBzPJYWk-jc0An0scBxY)
 
 ## Engagement Data
 
 - Likes / Reactions: 237
 - Comments: 63
 - Reposts: 13
-

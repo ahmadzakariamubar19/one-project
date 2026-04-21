@@ -14,14 +14,15 @@ New: How to Prepare for AI Shopping & the Future of E-commerce SEO Google, OpenA
 
 ### Profile Photo
 
-Profile photo
+[Profile photo](https://media.licdn.com/dms/image/v2/D5603AQHCJo0jKHHVaQ/profile-displayphoto-scale_100_100/B56Zm_gyzmIYAg-/0/1759854669438?e=1778112000&v=beta&t=susgM6anFhmbu3LCCllLCUHB9Tbsbe3bSK7oF8ygSFo)
 
 ### Post Images
 
-Post image 1
+[Post image 1](https://media.licdn.com/dms/image/v2/D5622AQHAZGpRxlpZNw/feedshare-shrink_800/B56Z2SF7GyKYAc-/0/1776272519902?e=1778112000&v=beta&t=GRW1pnyWL81IBobyQGGpBG_PdM2GHvzyxXajM61fhi4)
 
 ## Engagement Data
 
 - Likes / Reactions: 33
 - Comments: 12
 - Reposts: 4
+

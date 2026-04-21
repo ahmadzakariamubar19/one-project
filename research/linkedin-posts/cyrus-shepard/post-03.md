@@ -14,14 +14,15 @@ Listen, I don't want to put down anybody's LLMs.txt files, but I found this pret
 
 ### Profile Photo
 
-Profile photo
+[Profile photo](https://media.licdn.com/dms/image/v2/D5603AQHCJo0jKHHVaQ/profile-displayphoto-scale_100_100/B56Zm_gyzmIYAg-/0/1759854669438?e=1778112000&v=beta&t=susgM6anFhmbu3LCCllLCUHB9Tbsbe3bSK7oF8ygSFo)
 
 ### Post Images
 
-Post image 1
+[Post image 1](https://media.licdn.com/dms/image/v2/D5622AQFI5Ep8G-_URQ/feedshare-shrink_800/B56Z2XYeOOIYAc-/0/1776361268448?e=1778112000&v=beta&t=VKCji4AM-PbIqd524vXpcZyune1CnZ9ojbXOO65-2TM)
 
 ## Engagement Data
 
 - Likes / Reactions: 267
 - Comments: 53
 - Reposts: 31
+

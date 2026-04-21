@@ -14,11 +14,11 @@ Just wrapped up at the Phuket AI Marketing Summit 3-5 Apr '26 I was in Shenzhen 
 
 ### Profile Photo
 
-Profile photo
+[Profile photo](https://media.licdn.com/dms/image/v2/C5603AQH0st1FyLo6og/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1637404031631?e=1778112000&v=beta&t=Y97F0AmCjN2InBjRD6KWaZDqNiOkEgTzAFopi59koEU)
 
 ### Post Images
 
-Post image 1
+[Post image 1](https://media.licdn.com/dms/image/v2/D5622AQF-IP7JUBR5Wg/feedshare-shrink_1280/B56Z1mZzyaKAAM-/0/1775539535351?e=1778112000&v=beta&t=G2UXQ7ZjH7lMLEnO-x7Vm9qUPzFl-AqqaHwrmJcXnPw)
 
 ## Engagement Data
 

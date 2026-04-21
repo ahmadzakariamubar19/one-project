@@ -14,11 +14,11 @@ On April 13 I'm standing on stage in Berlin at Globalization and Localization As
 
 ### Profile Photo
 
-Profile photo
+[Profile photo](https://media.licdn.com/dms/image/v2/D5603AQFAT66ro1F2tQ/profile-displayphoto-shrink_100_100/B56ZWwgkd5GoAU-/0/1742423083172?e=1778112000&v=beta&t=WzkLQE7odLoBFMKgJo1mz9YGR1lIYGvIJQE_pbL7KGc)
 
-### Post Images
+### Post web
 
-Post image 1
+[Post web 1](https://www.gala-global.org/worldready-conference-program)
 
 ## Engagement Data
 

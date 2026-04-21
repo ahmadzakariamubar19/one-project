@@ -14,11 +14,11 @@ I've never been more confident about demand for SEO in 2026 Everyone's saying AI
 
 ### Profile Photo
 
-Profile photo
+[Profile photo](https://media.licdn.com/dms/image/v2/C5603AQHdgK8U-Cuvgw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1534915480151?e=1778112000&v=beta&t=2WgfMMJexBP6AcnJAy_f9-SeyK7XZroVw5qHtAV13xI)
 
 ### Post Images
 
-Post image 1
+[Post image 1](https://media.licdn.com/dms/image/v2/D4E22AQHPkffLlCsZAg/feedshare-shrink_800/B4EZ2YkyeUI0Ac-/0/1776381274399?e=1778112000&v=beta&t=l7H9PJ7npPbAGUr9TDOIV-jr2a3-rNLZdxwzWIcQveY)
 
 ## Engagement Data
 

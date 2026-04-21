@@ -16,14 +16,15 @@ Cyrus S. shared this A week ago, I published new research on winning and losing 
 
 ### Profile Photo
 
-Profile photo
+[Profile photo](https://media.licdn.com/dms/image/v2/D5603AQHCJo0jKHHVaQ/profile-displayphoto-scale_100_100/B56Zm_gyzmIYAg-/0/1759854669438?e=1778112000&v=beta&t=susgM6anFhmbu3LCCllLCUHB9Tbsbe3bSK7oF8ygSFo)
 
 ### Post Images
 
-Post image 1
+[Post image 1](https://media.licdn.com/dms/image/v2/D5622AQHMVDYe1NGfzQ/feedshare-shrink_800/B56Z2X76ghKMAc-/0/1776370559337?e=1778112000&v=beta&t=imrqP3ZoDxwinCa285Fxv1IwfGamRB44YvbYBDp6PrQ)
 
 ## Engagement Data
 
 - Likes / Reactions: 29
 - Comments: 9
 - Reposts: 1
+

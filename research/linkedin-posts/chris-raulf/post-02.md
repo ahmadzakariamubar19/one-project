@@ -14,11 +14,15 @@ Video production doesn't have to be slow, expensive, or out of reach for a small
 
 ### Profile Photo
 
-Profile photo
+[Profile photo](https://media.licdn.com/dms/image/v2/D5603AQFAT66ro1F2tQ/profile-displayphoto-shrink_100_100/B56ZWwgkd5GoAU-/0/1742423083172?e=1778112000&v=beta&t=WzkLQE7odLoBFMKgJo1mz9YGR1lIYGvIJQE_pbL7KGc)
+
+### Post Images
+
+[Post image 1](https://media.licdn.com/dms/image/v2/D4E12AQEhpB7XEAZcTQ/article-cover_image-shrink_720_1280/B4EZ2VEKa.JkAI-/0/1776322397679?e=1778112000&v=beta&t=EmZcqwTYRj3LyrQxuTy2CipnN4nw3JMlcWpT5AaLPgo)
 
 ### Video
 
-Video preview
+[Video preview](https://www.linkedin.com/pulse/stop-putting-off-video-production-claude-code-remotion-chris-raulf-dq1ue/?trackingId=F%2Ba%2FnJ%2F2SFiwUWJA4OoQeQ%3D%3D)
 
 ## Engagement Data
 

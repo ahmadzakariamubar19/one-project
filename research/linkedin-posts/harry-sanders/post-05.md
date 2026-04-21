@@ -14,11 +14,11 @@ If you're a gamer and running a business you'll 100% get this feeling Using Clau
 
 ### Profile Photo
 
-Profile photo
+[Profile photo](https://media.licdn.com/dms/image/v2/C5603AQHdgK8U-Cuvgw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1534915480151?e=1778112000&v=beta&t=2WgfMMJexBP6AcnJAy_f9-SeyK7XZroVw5qHtAV13xI)
 
 ### Post Images
 
-Post image 1
+[Post image 1](https://media.licdn.com/dms/image/v2/D4E22AQHPFOx0YCKh3A/feedshare-shrink_800/B4EZ12AzEjJwAg-/0/1775801415044?e=1778112000&v=beta&t=SIw3Ue2Ae09yrJhNnvvtEhDRR9wKgl8WKSj98J3roEA)
 
 ## Engagement Data
 

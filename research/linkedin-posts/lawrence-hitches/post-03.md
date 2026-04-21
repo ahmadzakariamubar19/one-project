@@ -14,11 +14,11 @@ Shoutout to Harry Sanders who's been cooking hard in 2026 and Talia Oleshansky f
 
 ### Profile Photo
 
-Profile photo
+[Profile photo](https://media.licdn.com/dms/image/v2/C5603AQH0st1FyLo6og/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1637404031631?e=1778112000&v=beta&t=Y97F0AmCjN2InBjRD6KWaZDqNiOkEgTzAFopi59koEU)
 
 ### Post Images
 
-Post image 1
+[Post image 1](https://media.licdn.com/dms/image/v2/D4E22AQHYegZ7Q6PKXw/feedshare-shrink_800/B4EZ1F6V7zH0Ag-/0/1774994417030?e=1778112000&v=beta&t=8xYiOsm_YZ-U1bS_kPifTRUC5rB_sJ9n4PIGsVGEGRo)
 
 ## Engagement Data
 
