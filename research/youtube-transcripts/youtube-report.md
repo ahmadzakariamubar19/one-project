@@ -52,4 +52,3 @@
 - research/youtube-transcripts/neil-patel/video-03.md
 - research/youtube-transcripts/neil-patel/video-04.md
 - research/youtube-transcripts/neil-patel/video-05.md
-
