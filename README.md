@@ -66,8 +66,8 @@ Overall, the goal of this selection process is to build a reliable and structure
 | ----------------------------------------- | ----- |
 | Experts processed                         | 5     |
 | Experts with at least one accessible post | 5     |
-| Posts processed                           | 20    |
-| Successful posts collected                | 20    |
+| Posts processed                           | 25    |
+| Successful posts collected                | 25    |
 | Inaccessible posts skipped                | 0     |
 | Failed collections                        | 0     |
 | Total media assets collected              | 40    |
@@ -82,11 +82,11 @@ Overall, the goal of this selection process is to build a reliable and structure
 | ---------------------- | ----- |
 | Experts processed      | 8     |
 | Videos processed       | 40    |
-| Successful transcripts | 39    |
+| Successful transcripts | 40    |
 | Failed transcripts     | 0     |
-| Coverage verified      | 39    |
+| Coverage verified      | 40    |
 | Coverage failed        | 0     |
-| Files created          | 42    |
+| Files created          | 40    |
 
 
 ---
